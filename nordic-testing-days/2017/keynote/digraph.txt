@@ -1,0 +1,52 @@
+digraph EvilTesting {
+
+ {rank=same; EvilTesting ; Programming; ComputerScience; Gaming}
+
+{rank=same; Shooters  ; Adventure_Games }
+
+  EvilTesting [label="Evil Testing"]
+  
+  EvilTesting -> Other
+  EvilTesting -> ComputerScience
+
+  ComputerScience [label="Computer \n Science"]
+
+  Other -> Gaming
+  Gaming -> Shooters
+  Shooters -> Programming [label="Writing \n Games"]
+
+  Gaming -> Adventure_Games [label="playing"]
+  Gaming -> Adventure_Games [label="coding"]
+
+  Adventure_Games [label="Adventure \n Games"]
+
+  Adventure_Games -> Compilers
+
+  Compilers [label="Compilers \n and \n Interpreters"]
+
+  ComputerScience -> Adventure_Games [label="via linguistics"]
+  Programming -> Adventure_Games [label="writing \n parsers"]
+
+  
+ Programming -> ComputerScience [label="University"]
+
+  ComputerScience -> Programming
+  ComputerScience -> Compilers
+  ComputerScience -> Modeling
+
+  Compilers -> Software_Testing [label="automation \n abstractions"]
+
+  Software_Testing [label="Software \n Testing"]
+ 
+  Modeling -> Software_Testing [label="model \n system"]
+  Programming -> Software_Testing [label="tool \n creation"]
+  Programming -> Software_Testing [label="strategic \n automating"]
+  Software_Testing -> Gaming [label="create bots \n to \n play games"]
+
+  Gaming -> Software_Testing [label="bots \n for \n stress testing"]
+
+  Software_Testing -> Shooters [label="finding \n secrets"] 
+  Software_Testing -> Shooters [label="cheating, \n exploiting bugs"]   
+  Adventure_Games -> Software_Testing [label="mapping \n experimenting \n modelling \n exploratory testing"]   
+
+}
