@@ -18,6 +18,11 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Slides and material](https://github.com/eviltester/eviltester-talks/tree/main/open-quality-conf/2020/open-source-profile)
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/openquality2020_conference/)
 
+## 2019 London Tester Gathering - Dev Tools Workshop with [Viv Richards](https://vivrichards.co.uk/)
+
+- [Slides and material](https://github.com/eviltester/eviltester-talks/tree/main/london-testers-gathering/2019/devtools-workshop)
+- [Viv Richards](https://vivrichards.co.uk/)
+
 
 ## 2017 Nordic Testing Days Keynote
 
