@@ -12,6 +12,18 @@ And these can be accessed ad free with a Patreon membership.
 
 The content in this repo will expand as I sort out my hard-drive and make the material public. Current content listed below.
 
+## 2021 - SauceCon - Adding More Security To Your Testing and Automating
+
+- [Slides and material on Github](https://github.com/eviltester/eviltester-talks/tree/main/saucelabs/2021/add-more-security)
+- [Watch The Full Talk on YouTube](https://www.youtube.com/watch?v=5TUwdr-vfTQ)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/saucecon2021_conference/)
+
+## 2020 - SauceCon - Automating Tactically and Strategically
+
+- [Slides and material on Github](https://github.com/eviltester/eviltester-talks/tree/main/saucelabs/2020/automating-strategically-tactically)
+- [Watch The Full Talk on YouTube](https://www.youtube.com/watch?v=uW4IxTwmcqg)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/saucecon2020_conference/)
+
 ## 2020 BrowserStack - Automating To Augment Testing
 
 - [Slides and material on Github](https://github.com/eviltester/eviltester-talks/tree/main/browserstack/2020/automating-to-augment-testing)
