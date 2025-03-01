@@ -19,3 +19,12 @@ Our materials were created on Google Docs because it was easy to collaborate:
     - https://docs.google.com/document/d/1crKiwNBD9wNrrmXCamR0GPajFUa5IWRtzhMwAnbN9ME/edit?usp=sharing
 - The slides
     - https://docs.google.com/presentation/d/17K-qiF5WB5BcNu8ZN8kevYf4Fapf2eeRpIMy_V0gjRs/edit?usp=sharing
+
+No recording of the session is available.
+
+## Content
+
+- [Prep Doc](prepdoc.md)
+   - [prep doc as pdf](exports/prepdoc.pdf)
+- [slides](slides.md)
+   - [slides as pdf](exports/slides.pdf)
