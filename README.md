@@ -8,7 +8,7 @@ https://www.eviltester.com/conference/
 
 Talk recordings with additional content are available on [TesterHQ.com](https://www.testerhq.com/member2/index.php?course=evil_tester_talks&page=coursecontents&preview=true)
 
-And these can be accessed ad free with a Patreon membership.
+And these can be accessed ad free with a [Patreon membership](https://www.patreon.com/eviltester).
 
 The content in this repo will expand as I sort out my hard-drive and make the material public. Current content listed below.
 
