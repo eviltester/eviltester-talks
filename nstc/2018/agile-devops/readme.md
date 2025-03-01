@@ -12,7 +12,7 @@ A recording of the talk is available.
 
 ## Youtube Video
 
-[!Surviving Agile and Devops](https://img.youtube.com/vi/KDLLyt8Hqbg/0.jpg)](https://www.youtube.com/watch?v=KDLLyt8Hqbg)
+[![Surviving Agile and Devops](https://img.youtube.com/vi/KDLLyt8Hqbg/0.jpg)](https://www.youtube.com/watch?v=KDLLyt8Hqbg)
 
 [Watch The Full Talk on YouTube](https://www.youtube.com/watch?v=KDLLyt8Hqbg)
 

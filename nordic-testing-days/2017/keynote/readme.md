@@ -12,7 +12,7 @@ A recording of the talk is available. See the above link for more details.
 
 ## Youtube Video
 
-[!Crafting yourself as a tester](https://img.youtube.com/vi/bj8isCPgYjg/0.jpg)](https://www.youtube.com/watch?v=bj8isCPgYjg)
+[![Crafting yourself as a tester](https://img.youtube.com/vi/bj8isCPgYjg/0.jpg)](https://www.youtube.com/watch?v=bj8isCPgYjg)
 
 [Watch The Full Talk on YouTube](https://www.youtube.com/watch?v=bj8isCPgYjg)
 
