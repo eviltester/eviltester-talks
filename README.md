@@ -50,6 +50,13 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/nstc2018_conference/)
 
 
+## 2017 FiSTB - Tutorial and Keynote
+
+- [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
+- [Tutorial materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/tutorial)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/fistb2017_conference/)
+
+
 ## 2017 OdinSTAR - Keynote and Workshop
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/odinstar/2017/keynote)
