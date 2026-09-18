@@ -50,6 +50,13 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/nstc2018_conference/)
 
 
+## 2017 OdinSTAR - Keynote and Workshop
+
+- [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/odinstar/2017/keynote)
+- [Workshop materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/odinstar/2017/workshop)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/odinstar2017_conference/)
+
+
 ## 2017 Nordic Testing Days Keynote
 
 - [Slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/nordic-testing-days/2017/keynote)
