@@ -37,6 +37,12 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/openquality2020_conference/)
 
 
+## 2019 DevFest Bishkek - A Guide to Testing Web Applications
+
+- [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/devfest-bishkek/2019/keynote)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/devfestbishkek2019_conference/)
+
+
 ## 2019 ABN AMRO - Secret Mysteries of Automated Execution
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/abn-amro/2019/keynote)

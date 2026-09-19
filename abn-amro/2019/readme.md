@@ -12,3 +12,7 @@ This folder contains the keynote materials.
 
 - [Keynote: Secret Mysteries of Automated Execution](keynote/)
 
+Tutorial notes are stored here:
+
+- Source Code: https://github.com/eviltester/seleniumwebdrivercompendium
+- Slides and Handouts are in the docs folder for /automationabstractions
