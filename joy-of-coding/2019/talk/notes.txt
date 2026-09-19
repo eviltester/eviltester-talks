@@ -1,0 +1,164 @@
+https://www.evernote.com/shard/s6/nl/924260/fc657bd4-53be-472e-8765-d145917d14dd/
+
+
+Submitted Blurb
+
+---
+
+Title: Adventures in Programming, Automating, Teaching and Marketing
+
+Blurb:
+
+When you already know how to code, it's easy to forget how hard some of that learning was... until you have to teach people. And if all you've ever built are applications, you don't know really know the nuances of writing code to automate them. And if you've written the code but never had to market the applications then you've not really experienced the full joy of coding.
+
+In this presentation Alan will revisit many of his past projects to identify lessons learned. Lessons from: writing commercial and open source tools, multi-user adventure games, REST APIs, test automation, automating applications to make them do things they are not supposed to do, and coding for technical marketing.
+
+Some lessons we will learn:
+
+- The 'install' is the hardest part
+- Writing frameworks is too much fun and should be banned
+- Applications are just "code calling other libraries"
+- Writing a Text Adventure s the most fun and educational thing you'll ever code
+- The Dangers of knowing how to code
+
+We will also learn the dangers of knowing how to code and discover how our coding skills can give us an edge, in business and online life in general, if we choose to harness our skills to improve our daily experiences. 
+
+---
+
+
+If we know how to code then we have evolved to a point where we can survive in the online world.
+
+## Survive
+
+When you are faced with an application that doesn't work. But it worked yesterday. You know some of the techniques required to get it working: clear the cache, delete the cookies, clear the local storage, use incognito mode, try a different browser.
+
+If you interact with an app and it doesn't work, you can look in the dev tools network tab and see the error message that wasn't rendered on screen, but now you know what you have to do to fix your input to make it acceptable to the external system.
+
+Normal people. Non-programmers, don't know how to do that.
+
+## Thrive
+
+But programming is not the full set of knowledge we need. We don't want to just Survive, we want to Thrive in this new online world.
+
+And to do that, we need to be Software Developers.
+
+That means:
+
+- programming
+- testing
+- architecting
+- designing
+- automating
+- marketing
+- teaching
+- etc.
+
+All of the skills that cover all of the activities in a Software Lifecyle.
+
+And many of you will already have that. You just don't want to admit it because then you might be responsible for even more stuff on the projects that you work on.
+
+## Aspire to Software Developer
+
+I aspire to be a Software Developer, not just a programmer, not just a tester, not just an automator, not just a marketeer, not just a trainer.
+
+But I am all those things and I've learned stuff from all those roles that has helped me.
+
+Some of you will probably share some of those experiences, and so I'm going to cover some of the lessons I've learned and hope they resonate with you.
+
+## chronological
+
+But I'm not going to do that in chronological order. 
+
+I'm getting ready for Quantum Computing where we can do all of the things all at the same time. We just don't know if they worked or not.
+
+And Llambda processing where we can do things out of order and simply collate it all together when it is mostly done, with potentially the promise of adding more if we have time.
+
+## Alan Richardson
+
+This is me.
+
+I'm going to cover some of the things I do and have done as we progress so you can come back to this slide later if you want to follow up.
+
+The important thing to remember is:
+
+- Alan Richardson
+- EvilTester.com
+
+
+# The 'install' is the hardest part
+
+The 'install' is the hardest part.
+
+Getting started is the hardest part.
+
+# Read More code
+
+# Writing frameworks is too much fun and should be banned
+# Applications are just "code calling other libraries"
+# Writing a Text Adventure s the most fun and educational thing you'll ever code
+# The Dangers of knowing how to code
+
+
+---
+
+## Notes
+
+First programming:
+
+- Phillips Videopac G7000 programming cartridge, random chars, little man moving, accomplishment
+
+First Creations
+
+- https://archive.org/details/zx_3D_Game_Maker_Maker_1987_CRL_Group_a
+
+Early programming
+
+Initially doing something cool, and big, and getting as far as a sprite, or an 'intro'
+My first game was a cool intro, but no game
+My first Gameboy game was a sprite that moved about
+My first text adventure game was a cool parser, and a cool layout engine, but no game
+
+My first finished programming projects were typing stuff in from computer magazines and debugging to figure out if it was me, or the original listing.
+
+My early finished self creations were using engines: GAC, STAC, 3d Game Maker.
+
+- https://archive.org/details/zx_3D_Game_Maker_Maker_1987_CRL_Group_a
+
+- Because the 'framework stuff is hard'
+
+If we really want to learn how to code, on our own - solve your own problems.
+
+Solve Your Own problems
+
+   - Early Web Indexer - page monitor, find links, follow, add to a list
+   - Testing tools in Excel - build in other tools, learn 'just enough' of a language
+
+Early Apps
+    Compendium-TA - hugely ambitious, no funding, no marketing, few sales,
+    Email and URL
+
+Lessons - build in small chunks, sell in small chunks, side-hustle, choose the right language (VB)
+
+Test Data Generator
+REST Mud
+RestListicator
+Chatterscan
+Chrome Extension for testing
+Adhoc tools - Patreon downloader, Mindmap downloaders, Linkedin profile viewer, 
+
+Lessons from teaching
+
+- the install is the hardest thing - SDK, IDE, First App
+
+
+- I teach with TDD
+
+Learning JavaScript
+
+Sloganizer - lessons learned from text adventure games with text generation, cover generative grammars, test data generation
+Bots
+    Bookmarklet generator, 
+    Z-Type
+    X-Type
+Marketing
+    Storify to Twitter migrator, 

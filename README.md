@@ -50,6 +50,20 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/abnamro2019_conference/)
 
 
+## 2019 Testival Meetup - Automating Pragmatically
+
+- [Slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/testival/2019/talk)
+- [Watch The Full Talk on YouTube](https://www.youtube.com/watch?v=rOjN2L_YqMo)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/testival2019webinar_conference/)
+
+
+## 2019 Joy of Coding - Adventures in Programming, Automating, Teaching and Marketing
+
+- [Slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/joy-of-coding/2019/talk)
+- [Watch The Official Talk on InfoQ](https://www.infoq.com/presentations/lessons-programming)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/joyofcoding2019_conference/)
+
+
 ## 2019 London Tester Gathering - Dev Tools Workshop with [Viv Richards](https://vivrichards.co.uk/)
 
 - [Slides and material on Github](https://github.com/eviltester/eviltester-talks/tree/main/london-testers-gathering/2019/devtools-workshop)
