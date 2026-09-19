@@ -70,6 +70,13 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Viv Richards](https://vivrichards.co.uk/)
 
 
+## 2018 Agile Testers - Technology Based Technical Testing
+
+- [Slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/agile-testers/2018/talk)
+- [Watch The Full Talk on YouTube](https://www.youtube.com/watch?v=FVImEXHNsCA)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/agiletesters2018_conference/)
+
+
 ## 2018 NSTC - How To Survive Agile and DevOps - A Test Management Guide
 
 - [Slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/nstc/2018/agile-devops)
