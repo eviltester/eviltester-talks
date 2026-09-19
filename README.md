@@ -37,6 +37,13 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/openquality2020_conference/)
 
 
+## 2019 ABN AMRO - Secret Mysteries of Automated Execution
+
+- [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/abn-amro/2019/keynote)
+- [Tutorial source code and materials](https://github.com/eviltester/eviltester-talks/tree/main/abn-amro/2019/tutorial)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/abnamro2019_conference/)
+
+
 ## 2019 London Tester Gathering - Dev Tools Workshop with [Viv Richards](https://vivrichards.co.uk/)
 
 - [Slides and material on Github](https://github.com/eviltester/eviltester-talks/tree/main/london-testers-gathering/2019/devtools-workshop)
