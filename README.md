@@ -93,10 +93,19 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/ltg2018_conference/)
 
 
-## 2018 UKSTAR - Magic, Cognition and Testing Workshop
+## 2018 UKSTAR - Workshop and Webinar
 
 - [Workshop slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/ukstar/2018/workshop)
+- [Webinar slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/ukstar/2018/webinar)
+- [Watch The Webinar on YouTube](https://www.youtube.com/watch?v=KiUaJzdE64U)
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/ukstar2018_conference/)
+- [Webinar Details on EvilTester.com](https://www.eviltester.com/conference/ukstar2018_not-flaky-automation-webinar/)
+
+
+## 2018 Rabobank - How to Test with Agility
+
+- [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/rabobank/2018/keynote)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/rabobank-feb2018_conference/)
 
 
 ## 2018 NSTC - How To Survive Agile and DevOps - A Test Management Guide
