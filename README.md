@@ -134,6 +134,12 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/fusion2017_conference/)
 
 
+## 2017 TestBash Netherlands - How to misuse Automation for testing, fun and productivity
+
+- [Slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/testbash-netherlands/2017/talk)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/testBash_netherlands_2017_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)

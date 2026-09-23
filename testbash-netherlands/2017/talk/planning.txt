@@ -1,0 +1,415 @@
+# TestBash Netherlands 2017
+[Official Site](https://www.ministryoftesting.com/training-events/testbash-netherlands-2017/)
+
+## Blurb
+
+Title: How to misuse ‘Automation’ for testing, fun and productivity
+
+– Alan Richardson
+
+We often hear about how ‘test automation’ can go wrong, which is all fine and dandy for the pessimists in the audience, and balancing feel good positive case studies exist for the optimists. But what about the anarchists? What about the rule breakers? What about the pragmatists? In this talk Alan will explain how to ‘misuse’ the ‘automation’ tools you’ve heard so much about, because you need to get things done. You’ve no doubt heard that ‘Cucumber is not a test tool’, and you’ve no doubt noticed that people use Cucumber during their testing. It’s misuse cases like this that we will celebrate, and as a bonus, you’ll learn what Cucumber ‘really’ is. We’ll look at other tools; to find out their true nature and how you can turn it to your personal advantage. To further groom you for success, we’ll explain the mental models which give you guilt free flexibility in your approach. If you’ve ever wanted an ‘expert’ to quote to give you permission to use the tools how you want, this is the talk for you.
+
+
+# How to misuse ‘Automation’ for testing, fun and productivity
+
+## TestBash Netherlands 2017
+## Alan Richardson
+
+* www.eviltester.com
+* www.seleniumsimplified.com
+* www.javafortesters.com
+* www.compendiumdev.co.uk
+* http://uk.linkedin.com/in/eviltester
+* [@eviltester](https://twitter.com/eviltester)
+
+
+
+
+30 min talk as described here:
+
+http://www.ministryoftesting.com/2016/07/testbash-netherlands-2017/
+
+
+
+
+
+
+
+
+
+
+---
+
+# What is a testing tool?
+
+## "That's not a testing tool!"
+
+What have you heard that in relation to?
+
+* BDD? 
+* Cucumber? 
+* Selenium? 
+
+[see more 'not a testing tool' on Google](https://www.google.co.uk/webhp?#q=%22is+not+a+testing+tool%22)
+
+---
+
+# What is a 'tool'?
+
+> Tool: " a device or implement, especially one held in the hand, used to carry out a particular function. e.g. 'gardening tools'"
+
+_thus spake Google to me on 20th August 2016_
+
+---
+
+# But I'm using software!
+
+## OK.
+
+---
+
+> "Definition of: tool
+> 
+> (1) A program used for software development or system maintenance. Virtually any program or utility that helps programmers or users develop applications or maintain their computers can be called a tool."
+
+_thus spake [PCMag.com](http://www.pcmag.com/encyclopedia/term/52979/tool)_
+
+---
+
+
+# And I'm going to say that:
+
+## "any software that I use to support my testing is a "Testing Tool"
+
+So if I use Cucumber in my testing it becomes a "Testing Tool"
+
+And you can argue about it all you want. It won't stop me using it, or misusing it (if you say its not a testing tool and I use it in my testing).
+
+---
+
+But here's the thing.
+
+# Korzybski said
+
+## "The word is not the thing"
+
+* Cucumber is not a testing tool. 
+    * It is a vegetable. 
+* But "cucumber" is not a vegetable.
+    * "cucumber" is a word.
+
+<!-- 
+
+The software called "Cucumber" is not a testing tool, and is not not a testing tool. It is software called Cucumber.
+
+And all philosophysing aside. If I can use software to help me test, I'll use it. And along the way, I'll probably refer to it as a "testing tool" when I do.
+
+Feel free to disagree. You won't stop me.
+
+-->
+---
+
+# Fortean Times
+
+Explain fortean times
+
+show some sample covers
+
+Possible fortean times cover about Cucumberists
+
+- they believe that Cucumber can improve communication
+- that specifications can become executable
+
+---
+
+# Scientology
+
+## "Eighteen-foot tomato plants and cucumbers the size of watermelons"
+
+<!--
+
+http://www.bridgepub.com/store/catalog/survive-and-succumb-classic.html
+
+"Eighteen-foot tomato plants and cucumbers the size of watermelons"
+
+http://tonyortega.org/2013/02/02/scientology-mythbusting-with-jon-atack-the-tomato-photo/
+
+http://www.instinct.org/texts/bluesky/bs4-3.htm
+
+horticulture for a better world
+
+https://en.wikipedia.org/wiki/Scientology_and_celebrities
+
+- http://www.carolineletkeman.org/
+
+1959 http://www.xenu-directory.net/news/images/thecompiler-1959-1.pdf
+
+Sea-org created in 1967 where people sign up for 1 billion years.
+
+Why mention it?
+
+- Someone did research into Cucumbers (pic of Hubbard)
+- They documented it and were interviewed
+- People liked what this person said and incorporated this model into their beliefs (pics of Tom Cruise and John Travolta)
+- There are certain ways to talk about these beliefs (sometimes they are enforced)
+
+Enforcer:
+
+http://tonyortega.org/2013/05/29/marty-rathbun-builds-his-warrior-legend-in-new-memoir/
+
+
+Now I know that some people could be offended by comparing a Software Development Tool/process and the reasoned and sensible online discussions that take place about the processe/tool evolution and efficacy to a cult (Officially recognised religion in UK, USA, Sweden, Taiwan,...)
+
+https://en.wikipedia.org/wiki/Scientology_status_by_country
+
+And that's fine. I'm trying to make a point about our beliefs and the models we build up around them. And when we give them more credence or 'identify' with them then we run the risk of fixed strategies in our thinking.
+
+Which can be detrimental when those strategies are not flexibile enough to fit the environment we operate within.
+
+-->
+
+Which brings me on to madness.
+
+---
+
+# Madness
+
+Slide with Madness logo.
+
+Ska dance
+
+---
+
+# ZX Spectrum and Clive Sinclair
+
+"...Sir Clive Sinclair himself is often reticent to discuss the machine - seeing the popularity of the system for gaming, rather than serious computing, as an insult to his creation."
+
+http://www.bit-tech.net/news/hardware/2012/04/23/zx-spectrum-30-years/1
+
+Ah Diddums - overlay the Ah Diddums game on top.
+
+While we may have a model of how we want our creation to be used and how we want the world to work. The world often has other ideas.
+
+---
+
+# Book as monitor stand
+
+Photo of my books holding up a monitor - if possible running a zx spectrum emulator
+
+---
+
+# Thomas S. Szasz
+
+> "...if our aim is to see things clearly, rather than to confirm popular beliefs and justify accepted practices, then we must sharply distinguish three related but distinct classes of phenomena:
+> 
+> 1) events and behaviours
+> 2) explanations
+> 3) social controls "
+
+_Thomas S. Szasz, "The Manufacture of Madness", 1973, Paladin Books, pg 21_
+
+---
+
+# An Abstraction Model
+
+Thomas Szasz has used a layered/levelled/abstraction model.
+
+- what does it do?
+- how we model it
+- how we expect people to use it
+
+Which level does "Cucumber is not a testing tool" sit at?
+
+---
+
+Social Controls
+
+Assume for the moment that what it does is immutable. It does what it does.
+
+Can people have different models of it?
+
+OF course.
+
+Can people with different models of it, have different expectations of use around it?
+
+Of course.
+
+So we have a tree of differences - plenty of scope for argument there.
+
+So what do we have to do?
+
+1) Get to the core of its events and behaviours
+2) Build our own explanations and models (feel free to have multiple for maximum requisite variety)
+3) Agree contextually the social controls (again, feel free to have multiple for maximum requisite variety)
+
+- what contexts? self, project, company, role, industry, etc.
+
+
+
+
+### About Cucumber
+
+Apparently cucumber is not a testing tool.
+
+https://www.google.co.uk/search?q=%22cucumber+is+not+a+testing+tool%22
+
+Great. So for the purposes of our 'misusing' tools perspective its a perfect fit.
+
+So what is it?
+
+Ignore all the nonsense about it being a collaboration tool or a communication tool.
+
+Clearly it is a "Regex based parser for building custom Domain Specific Languages"
+
+As evidence I submit the following facts:
+
+blah blah blah
+
+So how does that knowledge help us?
+
+Well...
+
+
+But "Regex etc. whatever, would put off BAs" - But BA's don't use Cucumber, BAs use Gherkin. So what is Gherkin.
+
+
+### Beliefs
+
+
+Strong beliefs are important when you are doing something.
+
+Coding standards - strong beliefs about code. you should believe in these when you code at work as it makes your life easier.
+
+You can forget them at home because you might want to experiment with new styles and learn new things
+
+beliefs impact testing
+
+If we believe this functionality works then when we test it we will feel like we are wasting time.
+
+Be the flat earther who goes on an around the world vacation.
+
+Because what you'll probably find is that the people who say "Cucumber is not a test tool" use cucumber as part of their tool set for automating, and automating is part of their test strategy so - guess what - Cucumber, which is not a test tool is part of their test approach and strategy for automating the app.
+
+
+### About Selenium
+
+Selenium is not a test tool. Selenium is a tool for automating Browsers.
+
+Fortunately that is something that testers want to automate.
+
+Misuse examples - keyboard - managing tabs with keyboard
+
+
+
+### About Browsers
+
+#### What does a browser do?
+
+Let you surf the web?
+
+For some people it 'is' the internet.
+
+What is it?
+
+Is it - an HTML reader and renderer?
+
+- Something that reads an html file
+- looks at all the links and included files
+- reads all the files into memory
+- renders the html based on the CSS and JavaScript and Images
+
+?
+
+Is it - an HTTP based URI processor?
+
+- Something that issues an HTTP Get on a supplied URI
+- uses the headers in the HTTP to determine the type of response
+- uses that type to process the text response
+- if it is an html file then it checks the local cache to see if it needs to re-request it
+- looks at all the links and included files and checks the local cache to see if it needs to request it
+- requests the files and save them to disk
+- reads all the files into memory
+- renders the html based on the CSS and JavaScript and Images
+
+?
+
+Is it - an async and multi-threaded HTTP based URI processor?
+
+- Something that issues an HTTP GET on a supplied URI
+- uses the headers in the HTTP to determine the type of response
+- uses that type to process the text response
+- processes the files and links listed in parallel
+- if it is an html file then it checks the local cache to see if it needs to re-request it
+- looks at all the links and included files and checks the local cache to see if it needs to request it
+- requests the files and save them to disk
+- reads all the files into memory
+- renders the html based on the CSS and JavaScript and Images
+
+?
+
+#### Does our understanding change our process?
+
+Each understanding of what it is changes the risk profile.
+
+- An HTML reader and renderer
+    - HTML, CSS, JavaScript standards
+    - response sizes
+    - resource availability
+- An HTTP based URI processor
+    - Cache headers
+    - Local Storage
+    - Memory size
+    - Screen resolution
+    - Device drivers
+- An async and multi-threaded HTTP based URI processor
+    - Processor power
+    - Multi-threading capabilities in the Processor
+    - TCP/IP and network limits
+
+Could these risks impact our application?
+
+Do we think about them for testing?
+
+#### We didn't mention features
+
+Features:
+
+- View Source
+    - can report syntax errors
+- Cookie Editing
+- Add ons
+
+etc.
+
+
+### About Browser Developer Tools
+
+etc.
+
+### RestAssured is a RestTesting Library
+
+
+RestAssured is a wrapper around Java HTTP libraries and uses Groovy to create a DSL.
+
+We can use it to automate any HTTP service. We don't need all the Given, When, and assertions.
+
+
+### Checks
+
+
+When programming we call these 'assertions' it doesn't invalidate the notion that 'checking' is different from 'testing' (even though neither exist). But we 'check' pre and post conditions by 'asserting' on values returned from code.
+
+
+### JUnit is a unit testing tool
+
+
+Except when we use it as a runner for code which will automate anything we want. Then it can be a GUI or a command line interface.
+
+
+### Notepad
+
+
+Notepad as a file locker
+
+http://superuser.com/questions/294826/how-to-purposefully-exclusively-lock-a-file
+
