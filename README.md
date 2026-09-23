@@ -122,6 +122,12 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/agiletourlondon2017_conference/)
 
 
+## 2017 SIGIST - Learning in Public Workshop
+
+- [Workshop slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/sigist/2017/workshop)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/sigist092017_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
