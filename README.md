@@ -115,6 +115,13 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/nstc2018_conference/)
 
 
+## 2017 Agile Tour London - Effective Software Testing for Modern Software Development
+
+- [Slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/agile-tour-london/2017/talk)
+- [Watch The Official Talk on InfoQ](https://www.infoq.com/presentations/software-development-process-testing)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/agiletourlondon2017_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
