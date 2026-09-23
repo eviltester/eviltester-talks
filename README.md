@@ -140,6 +140,18 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/testBash_netherlands_2017_conference/)
 
 
+## 2017 SyncHerts - Automating Tactically vs Strategically
+
+- [Lightning talk notes on Github](https://github.com/eviltester/eviltester-talks/tree/main/syncherts/2017/lightning-talk)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/syncherts_january_2017_conference/)
+
+
+## 2017 Test Automation Guild - If you want to automate, you learn to code
+
+- [Slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-automation-guild/2017/talk)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/test_automation_guild_2017_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
