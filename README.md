@@ -93,6 +93,12 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/ltg2018_conference/)
 
 
+## 2018 UKSTAR - Magic, Cognition and Testing Workshop
+
+- [Workshop slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/ukstar/2018/workshop)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/ukstar2018_conference/)
+
+
 ## 2018 NSTC - How To Survive Agile and DevOps - A Test Management Guide
 
 - [Slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/nstc/2018/agile-devops)
