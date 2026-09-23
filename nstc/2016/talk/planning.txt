@@ -1,0 +1,275 @@
+# National Software Testing Conference
+http://www.softwaretestingconference.com/
+
+
+
+*Requirements:*
+
+* 20 min talk, 5 min Q&A
+* slides 16:9
+
+*Guidelines:*
+
+* Slides need to be tight to help me stick to the short time
+* Don't compromise on the information due to time constraints
+* Do remove fluff and padding due to time constraints
+* Do record each practise to pull out info into the 'transcript' and keep building and adding to slides
+
+*Points To Ensure I Cover*: In this talk Alan will provide practical examples of asking questions to improve Agile processes and approaches to Automating.
+
+- Some examples of questions that testers ask. Some funny, some serious.
+- Questioning can lead to dependence, rather than responsibility
+- How to help practitioners use questions to take responsibility
+- Practical examples of how testers identify assumptions and presuppositions from application GUIs, and use those to create test ideas during exploratory testing
+- Understand that asking questions is essential for effective decision making
+- Understand that much of our decision making is based on belief rather than fact
+- Testing modeled as a 'questioning' activity
+- How management can ask questions that help practitioners improve, even when managers don't fully understand the details of the task
+- A practical model of asking questions based on techniques from psychotherapy and transformational grammar
+- Questioning and Decision making is important for every member of the team
+- The types of decisions that are made in Agile projects and when Automating
+- The consequences of not asking questions about those decisions
+- Practical examples of the types and consequences in Agile and when Automating
+
+## Pitch:
+
+I had in mind a talk covering Questions and Decision making - in general, in testing, in Agile and Automation.
+
+A more general title would probably be: "Questions and Decision making in Agile and Automation"
+
+The examples and content would span the following areas of interest that you listed in your email.:
+
+A software testing case study/sharing good practices, Changing trends, Agile, Test automation, Continuous delivery, BDD
+
+Examples would be drawn from my experiences working in: Agile, BDD, Test Automation, Continuous Delivery
+
+Much of my work as a consultant involves quickly building a model of the team system, identifying risks and gaps, and identifying the most appropriate questions which help the team take responsibility for addressing the problems we expose in their answers.
+
+The rest of my work often involves me getting hands on to help the team implement fixes, and 'lead by example' the process of asking questions to continually improve and to responsibility for our decisions while implementing those decisions in code.
+
+This talk will describe experiences of doing that, examples of the questions and decisions, and a model of how I do that. Rather than going into detail of specifics of automation approaches and showing code, which I don't think is suitable for the target audience you list on the 'Who Should Attend?' page.
+
+Since I haven't written the talk yet, I'll describe a rough outline of what I think I would cover.
+
+- Some examples of questions that testers ask. Some funny, some serious. (done)
+- Questioning can lead to dependence, rather than responsibility (done)
+- How to help practitioners use questions to take responsibility
+- Practical examples of how testers identify assumptions and presuppositions from application GUIs, and use those to create test ideas during exploratory testing
+- Understand that asking questions is essential for effective decision making
+- Understand that much of our decision making is based on belief rather than fact
+- Testing modeled as a 'questioning' activity
+- How management can ask questions that help practitioners improve, even when managers don't fully understand the details of the task
+- A practical model of asking questions based on techniques from psychotherapy and transformational grammar
+- Questioning and Decision making is important for every member of the team
+- The types of decisions that are made in Agile projects and when Automating
+- The consequences of not asking questions about those decisions
+- Practical examples of the types and consequences in Agile and when Automating
+
+Hopefully that is content rich enough and helpful for your delegates.
+
+## Blurb: "The Art of Questioning to improve Testing, Agile, and Automating"
+
+*Blurb: "The Art of Questioning to improve Testing, Agile, and Automating"*
+
+Asking questions is essential for effective decision making. Unfortunately much of our decision making is based on belief rather than fact, because we don't ask the right questions. Questions run through our entire software development process process. Testing can be modeled as a 'questioning' activity where testers identify assumptions and presuppositions in a system, and use those to create test ideas and ask questions of the system during exploratory testing. Automating can be modeled as a 'questioning' activity where we codify questions and expected answers. In this talk Alan will provide practical examples of asking questions to improve Agile processes and approaches to Automating. Alan will also provide a model of questioning that attendees can use. A model that management can apply to help practitioners improve, even when managers don't fully understand the technical details of the task. Attend this session to learn how effective questioning helps people take responsibility for improving their process.
+
+
+## Plan
+
+![Introduction]
+
+My name is... I'm a test consultant. I test things and help people test better. One way I do that, is by asking questions.
+
+![Questions]
+
+Questions, that I hope help people take responsibility for their testing and their decision process.
+
+Much of my work as a consultant involves quickly building a model of the team system, identifying risks and gaps, and identifying the most appropriate questions which help the team take responsibility for addressing the problems we expose in their answers.
+
+The rest of my work often involves me getting hands on to help the team implement fixes, and 'lead by example' the process of asking questions to continually improve and to responsibility for our decisions while implementing those decisions in code.
+
+Asking questions is essential for effective decision making. Unfortunately much of our decision making is based on belief rather than fact, because we don't ask the right questions. Questions run through our entire software development process process.
+
+![5 Whys]
+
+![Fritz Perls on Why]
+
+> "If we spend our time looking for causes instead of structure we may as
+well give up the idea of therapy and join the group of worrying
+grandmothers who attack their prey with such pointless questions as
+'Why did you catch that cold?' 'Why have you been so naughty?'"
+>
+> Fritz Perls,
+>
+> The Gestalt Approach
+
+![Why is a belief question]
+
+Why is a belief question. We can do better than that.
+
+How? Where? When? Who? What?
+
+What we want are people to think:
+
+* what do I want to do? Then do it
+
+Rather than:
+
+* Do stuff. And justify it when asked Why?
+
+We want people to take responsibility for their testing.
+
+![Dear Evil Tester]
+- Some examples of questions that testers ask. Some funny, some serious.
+
+I wrote a book recently. "Dear Evil Tester"
+
+Its an Agony Aunt style book. People asked questions. I gave them answers.
+
+Not always answers that people would want to hear (its a funny book).
+
+![Should I pretend to test]?
+
+> In the past I have worked with project managers who have only pretended to manage. Just in case I come across this sort again in the future, I want to know; should I only pretend to test too, as a form of self-preservation?
+>
+> Eliza
+
+Dear Eliza,
+
+...
+
+"NO".
+
+...
+
+All the best,
+
+Uncle Evil
+
+
+![notpulling weight]
+
+Q> What's the best way to deal with a fellow tester who is not pulling his/her weight?
+Q>
+Q> Anon
+
+Dear Anon,
+
+...
+
+...raise your concerns to your manager, after all your lazy manager usually has plenty of time on their hands, and it is their responsibility to deal with your light-weight under performing co-workers.
+
+Yours,
+
+Team Spirit Coach Evil
+
+
+
+
+![Some questions are practical.]
+
+Some of the questions in the book are practical as well
+
+![How to track exploratory testing]
+
+> Do you recommend any tools for note-taking and managing test sessions?
+
+
+
+![Dependency]
+- Questioning can lead to dependence, rather than responsibility
+- How to help practitioners use questions to take responsibility
+
+Its important that we ask questions about how to do things.
+
+But there is a danger of becoming dependent.
+
+Particularly when you ask questions of a consultant. Then it could become expensive.
+
+When people get in the habit of asking a question, getting an answer (essentially being told what to do)
+
+But hopefully a good consultant helps you take responsibility. They might give you some examples, and some principles. But ulimately a good consultant wants you to succeed when they are not there.
+
+So they might ask questions that help you take action and control what you do:
+
+* How will you implement it?
+* How will you know it is working?
+* Can you start doing this now?
+
+![Testing itself can be modeled as a 'questioning' activity]
+
+- Practical examples of how testers identify assumptions and presuppositions from application GUIs, and use those to create test ideas during exploratory testing
+- The consequences of not asking questions about those decisions
+
+Testing can be modeled as a 'questioning' activity where testers identify assumptions and presuppositions in a system, and use those to create test ideas and ask questions of the system during exploratory testing.
+
+
+
+![Modelling Agile as a Questioning process]
+
+- The types of decisions that are made in Agile projects and when Automating
+- The consequences of not asking questions about those decisions
+- Practical examples of the types and consequences in Agile and when Automating
+
+Agile is a whole bunch of attributes.
+
+The ability to:
+
+- respond to change
+- delivery quickly
+- release quickly
+
+etc.
+
+How do we even recognise change? - asking questions.
+
+How do we deliver quickly? - building the minimum necessary without risk.
+
+We have to ask questions to identify what the minimum is, are the risks acceptable, what is the aim? how will it work?
+
+Are the 'acceptance criteria' good enough? Are they complete.
+
+I get very nervous when I see 'agile' processes that don't ask a lot of questions. Where 'acceptance criteria' are accepted without a lot of questions, and without a lot of 'how will we know', and without assessing the risks. Risks go on to the back log or are 'accepted'
+
+I get nervous when people don't share their decisions, and their answers, because it often leads to unconditional acceptance of a 'conversation' that people were not part of and 'dependence' that 'other people' know what they are doing and what they want to achieve.
+
+This 'dependence' or 'acceptance' is decision making based on belief rather than fact.
+
+Agile needs a lot of questions.
+
+
+
+![Automating can be modeled as a 'questioning' activity]
+- The types of decisions that are made in Agile projects and when Automating
+- The consequences of not asking questions about those decisions
+- Practical examples of the types and consequences in Agile and when Automating
+
+Automating can be modeled as a 'questioning' activity where we codify questions and expected answers.
+
+The questions that we ask in an automated way we expect to have the answer 'yes'.
+
+The only time the automated work gives us 'new' information is when it fails.
+
+Pretty much we ignore CI builds, when they are green. We expect them to be green.
+
+And if we  have done the work to codify the 'right' assertions and checks then we have a good safety net. If we have gaps in our assertion coverage, then that is a hole that bugs might fall through and not be caught, and our safety net isn't as good as we thing.
+
+We have to get good at asking questions. And continuing to review - are we asking the right questions. Are we asking enough questions.
+
+
+![Meta-Model]
+
+Alan will also provide a model of questioning that attendees can use.
+- A practical model of asking questions based on techniques from psychotherapy and transformational grammar
+
+![How to use the Meta-Model]
+- How management can ask questions that help practitioners improve, even when managers don't fully understand the details of the task
+
+A model that management can apply to help practitioners improve, even when managers don't fully understand the technical details of the task.
+
+![Summary]
+- Understand that asking questions is essential for effective decision making
+- Understand that much of our decision making is based on belief rather than fact
+- Questioning and Decision making is important for every member of the team
+
+-----

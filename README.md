@@ -152,6 +152,12 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/test_automation_guild_2017_conference/)
 
 
+## 2016 NSTC - The Art of Questioning to improve Testing, Agile, and Automating
+
+- [Slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/nstc/2016/talk)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/nstc2016_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
