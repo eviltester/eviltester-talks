@@ -70,11 +70,27 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Viv Richards](https://vivrichards.co.uk/)
 
 
+## 2018 EuroSTAR - Keynote, Tutorial, and Lightning Strikes
+
+- [EuroSTAR 2018 materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2018)
+- [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2018/keynote)
+- [Tutorial slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2018/tutorial)
+- [Lightning Strikes talk on Github](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2018/lightningstrikes)
+- [Transcripts on Github](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2018/transcripts)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/eurostar2018_conference/)
+
+
 ## 2018 Agile Testers - Technology Based Technical Testing
 
 - [Slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/agile-testers/2018/talk)
 - [Watch The Full Talk on YouTube](https://www.youtube.com/watch?v=FVImEXHNsCA)
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/agiletesters2018_conference/)
+
+
+## 2018 London Tester Gathering - Testability Audit
+
+- [Workshop slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/london-testers-gathering/2018/testability-audit)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/ltg2018_conference/)
 
 
 ## 2018 NSTC - How To Survive Agile and DevOps - A Test Management Guide

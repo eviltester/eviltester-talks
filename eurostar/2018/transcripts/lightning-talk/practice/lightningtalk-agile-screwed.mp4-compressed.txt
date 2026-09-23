@@ -1,0 +1,65 @@
+﻿## Lightning Talk Practice with Additional Information about Cybernetics and feedback
+
+So I'm at Eurostar, I was thinking about what lightning talk I'm going to do this morning.
+
+And yesterday and a couple of days over the conference I've been getting certain questions coming through. So what I'm going to talk about is what testers can do and an easy way on Agile projects to help themselves. I will stick the timer on for four minutes, I'm going to work from my notes and we'll see how far I get.
+
+So generally what I'm asked is, "Our Agile project is screwed up. What can we do?" And I do get asked this a lot. LinkedIn, various other places, a couple people at the conference have asked. And what screwed up means, we don't have any time for testing. By the testers. We've got no time for automating, again by the testers. People are not skilled enough doing the work, we don't know how to test this. We've got no acceptance criteria. That's good enough for the testers. There's no story and details, we don't invited to meetings. And again this is all tester related.
+
+It's not that these things aren't happening, it's just everything here is related to the test part.
+
+And the problem here is that the projects themselves are not Agile. They're calling themselves Agile. They use Agile words, they have Agile rituals in there: retrospectives, stand ups and three amigos whatever else but there's no agility in there. There's no attempt to continually improve and refine the system. So we have roles and subsystems and testing, anything with testing it is done by the testers.
+
+This is a problem.
+
+Now, we have to keep fighting the good fight which is explaining what Agile is, explaining what testing is within Agile. But we also have to deal with the actual reality we face.
+
+So some tactics for doing that are first of all, control the things that you have control over. Right, so get your own house in order. Make sure that you have the skills to do your testing. You've set the expectations you know what expectations people have and you've agreed them. You avoid waste in your process. You're not writing big test plans. You keep things as lean as possible. Keep things documented as lightly as possible, at the point that you need it. Keep it lean, and keep control.
+
+Own the things that are yours to own. So own exploratory testing, and do that well. Make sure you do your exploratory testing, you write down your plan of what you're gonna attack. That way, if you use Agile words like done and not done, when you've got a plan. When people come to say "This story is done." and see that your testing has got all the stuff that's done with all the evidence and all the steps that you took. But it's also got these things that are not done, 'cause you haven't had time.
+
+It's harder for them to ignore that there's a problem. 'Cause that feedback is staring them in the face, and they have to act on it. So make sure that you're writing down the things that show the scope, that show the effort, that show the work.
+
+Make the testing visible, but not just make the testing visible make the testing visible such that it acts as negative feedback in the process, so they know where the pain points are for testing. And this one is key and slightly more controversial. Which is, don't do the work of others. Right, 'cause very often what happens is if you give an inch they'll take a mile and they'll keep taking the mile.
+
+So, if you don't have enough time to test, that the software story is delivered at the end of the day the testers might stay late in order to test it. To provide the feedback so that programmers can work on it in the morning. Don't do that. Right, you're doing somebody else's work. You're absorbing their failure in the system and taking it on board.
+
+That way they have no pain. They've got no negative feedback causing them to change the process.
+
+Do not, absorb the work of others. Don't do the work of others.
+
+If we've agreed as a team, that everyone is going to do automated execution and build test code, if that's what we're calling it, then don't do that on your own. Bring people in and keep reminding people that we said we were going to pair on this, can we pair on this now, can we do this now.
+
+Keep pushing for that, make opportunities for it to happen but control your part of the process. You don't attempt to fix Agile, you attempt to fix the bit that you were involved in.
+
+So that's four minutes. So I didn't quite cover everything I've got written down. Other things I've got written down, not much more.
+
+Part of the issue is, when we absorb other peoples parts of the process we then can look bad because we are doing what we think it takes to make the project keep going on, but we're getting enough time to do everything that we want to do.
+
+So we're not getting a chance to do all the testing that we want to do because we're trying to do some automating as well. We're not getting the chance to do all the automating because we're doing the testing. We're refining the stories late so we're having to go have meetings about the acceptance criteria to figure out what we need to test after the story has been played. Which then cuts into time that we could be using for testing, or automating.
+
+And the fact that we're absorbing all this makes the project look good. Makes the project run more smoothly, which is important. But It makes us look bad, and makes testing look bad on the project because we're trying to do our best.
+
+And sometimes we have to let the system fail, by fitting in with sustainable pace. Whatever is its 37.5, 40 hour weeks. To keep things on track, but to make visible what we have done and not done.
+
+'Cause it's negative feedback that causes change.
+
+I was thinking yesterday, that a lot of this is coming from cybernetics when I think about it. In terms of, we talk about feedback a lot in Agile. So we have retrospectives, we have standups. We have lots of interface points that we're looking at feedback in order to come in. But then I realised yesterday, it's feedback in the sense that it's an output that comes in as input again. But, if the input is not processed it makes no difference. We say we're going to do certain things we have these goals that comes in as feedback.
+
+If we don't act on it, it's irrelevant. We've filtered it out. It's not impacting the process. It doesn't cause the process to change. Which is why in retrospectives you don't just come out with goals. You come out with the next steps.
+
+And you do the next steps.
+
+And then you can remind yourselves during the actual sprint about those next steps. Have we done this? 
+
+ou can do that in the standups. When are we going to do this? Do you have time today to do this?
+
+You can covert them into stories to make sure that you do them 'cause they're on your board. There's steps that we can take to make things visible, and make it actionable.
+
+That systems, only change when they have negative feedback coming in that's processed. Very often what we have is negative feedback that comes in that is filtered out or, and this is what often happens to a tester, absorbed by a single part of the system.
+
+So negative feedback comes in, that we don't have enough time to do automating. That gets absorbed by the test part, so no one else gets involved in the automating. Test part then has to work longer hours or weekends to try and get this done. Or it becomes testing stories that never get finished, they look back, they look bad that part gets absorbed by the testing part. And it shouldn't.
+
+An effective system doesn't have subsystems absorbing negative feedback. Particularly when it's system feedback. And most of the feedback on an Agile project is system level 'cause it's the system that has to change, it's the way that we develop. It's the way that we work as a team, that has to change. And until that feedback get absorbed as the system, the process doesn't change. Which is why its hard for individuals to fix it because individuals take that feedback and absorb it on their own.
+
+Now ideally, in a four minute talk I would like to mention that as well but then people have to understand the notions of cybernetics. And I'm concerned that people might not understand cybernetics or feedback. So I'm going to talk about it more general clear actions steps you can do. To me that's coming from the notion of cybernetics and systems viewpoint of how people work.

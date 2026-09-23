@@ -1,0 +1,919 @@
+﻿1
+00:00:01,517 --> 00:00:05,216
+- So I'm at Eurostar, I was thinking about
+
+2
+00:00:05,216 --> 00:00:08,431
+what lightning talk I'm
+going to do this morning.
+
+3
+00:00:08,431 --> 00:00:10,888
+And yesterday and a couple of days over
+
+4
+00:00:10,888 --> 00:00:12,159
+the conference I've been getting certain
+
+5
+00:00:12,159 --> 00:00:13,188
+questions coming through.
+
+6
+00:00:13,188 --> 00:00:15,069
+So what I'm going to talk about is
+
+7
+00:00:15,069 --> 00:00:17,821
+what testers can do and an easy way
+
+8
+00:00:17,821 --> 00:00:20,085
+on Agile projects to help themselves.
+
+9
+00:00:20,085 --> 00:00:22,283
+I will stick the timer
+on for four minutes,
+
+10
+00:00:22,283 --> 00:00:23,432
+I'm going to work from my notes
+
+11
+00:00:23,432 --> 00:00:25,765
+and we'll see how far I get.
+
+12
+00:00:29,434 --> 00:00:31,851
+So generally what I'm asked is,
+
+13
+00:00:31,851 --> 00:00:36,043
+"Our Agile project is
+screwed up. What can we do?"
+
+14
+00:00:36,043 --> 00:00:37,866
+And I do get asked this a lot.
+
+15
+00:00:37,866 --> 00:00:39,955
+LinkedIn, various other places, a couple
+
+16
+00:00:39,955 --> 00:00:41,476
+people at the conference have asked.
+
+17
+00:00:41,476 --> 00:00:42,937
+And what screwed up means,
+
+18
+00:00:42,937 --> 00:00:45,160
+we don't have any time for testing.
+
+19
+00:00:45,160 --> 00:00:46,231
+By the testers.
+
+20
+00:00:46,231 --> 00:00:50,662
+We've got no time for
+automating, again by the testers.
+
+21
+00:00:50,662 --> 00:00:53,176
+People are not skilled
+enough doing the work,
+
+22
+00:00:53,176 --> 00:00:55,201
+we don't know how to test this.
+
+23
+00:00:55,201 --> 00:00:56,885
+We've got no acceptance criteria.
+
+24
+00:00:56,885 --> 00:00:58,891
+That's good enough for the testers.
+
+25
+00:00:58,891 --> 00:01:02,974
+There's no story and details,
+we don't invited to meetings.
+
+26
+00:01:02,974 --> 00:01:04,615
+And again this is all tester related.
+
+27
+00:01:04,615 --> 00:01:06,864
+It's not that these
+things aren't happening,
+
+28
+00:01:06,864 --> 00:01:09,528
+it's just everything here
+is related to the test part.
+
+29
+00:01:09,528 --> 00:01:11,752
+And the problem here is that the projects
+
+30
+00:01:11,752 --> 00:01:14,103
+themselves are not Agile.
+
+31
+00:01:14,103 --> 00:01:16,094
+They're calling themselves Agile.
+
+32
+00:01:16,094 --> 00:01:19,130
+They use Agile words,
+they have Agile rituals
+
+33
+00:01:19,130 --> 00:01:23,710
+in there: retrospectives,
+stand ups and three amigos
+
+34
+00:01:23,710 --> 00:01:26,774
+whatever else but there's
+no agility in there.
+
+35
+00:01:26,774 --> 00:01:29,225
+There's no attempt to continually improve
+
+36
+00:01:29,225 --> 00:01:30,611
+and refine the system.
+
+37
+00:01:30,611 --> 00:01:33,641
+So we have roles and
+subsystems and testing,
+
+38
+00:01:33,641 --> 00:01:36,292
+anything with testing it
+is done by the testers.
+
+39
+00:01:36,292 --> 00:01:37,792
+This is a problem.
+
+40
+00:01:38,739 --> 00:01:41,740
+Now, we have to keep
+fighting the good fight
+
+41
+00:01:41,740 --> 00:01:43,446
+which is explaining what Agile is,
+
+42
+00:01:43,446 --> 00:01:45,374
+explaining what testing is within Agile.
+
+43
+00:01:45,374 --> 00:01:48,977
+But we also have to deal with
+the actual reality we face.
+
+44
+00:01:48,977 --> 00:01:51,800
+So some tactics for doing
+that are first of all,
+
+45
+00:01:51,800 --> 00:01:54,561
+control the things that
+you have control over.
+
+46
+00:01:54,561 --> 00:01:56,479
+Right, so get your own house in order.
+
+47
+00:01:56,479 --> 00:02:01,308
+Make sure that you have the
+skills to do your testing.
+
+48
+00:02:01,308 --> 00:02:03,462
+You've set the expectations you know what
+
+49
+00:02:03,462 --> 00:02:05,285
+expectations people have
+and you've agreed them.
+
+50
+00:02:05,285 --> 00:02:07,421
+You avoid waste in your process.
+
+51
+00:02:07,421 --> 00:02:09,457
+You're not writing big test plans.
+
+52
+00:02:09,457 --> 00:02:11,851
+You keep things as lean as possible.
+
+53
+00:02:11,851 --> 00:02:14,567
+Keep things documented
+as lightly as possible,
+
+54
+00:02:14,567 --> 00:02:16,314
+at the point that you need it.
+
+55
+00:02:16,314 --> 00:02:19,576
+Keep it lean, and keep control.
+
+56
+00:02:19,576 --> 00:02:21,666
+Own the things that are yours to own.
+
+57
+00:02:21,666 --> 00:02:25,069
+So own exploratory
+testing, and do that well.
+
+58
+00:02:25,069 --> 00:02:26,752
+Make sure you do your exploratory testing,
+
+59
+00:02:26,752 --> 00:02:30,158
+you write down your plan of
+what you're gonna attack.
+
+60
+00:02:30,158 --> 00:02:33,171
+That way, if you use Agile words like
+
+61
+00:02:33,171 --> 00:02:37,323
+done and not done, when you've got a plan.
+
+62
+00:02:37,323 --> 00:02:40,388
+When people come to say
+"This story is done."
+
+63
+00:02:40,388 --> 00:02:42,611
+and see that your testing
+has got all the stuff
+
+64
+00:02:42,611 --> 00:02:44,277
+that's done with all the evidence
+
+65
+00:02:44,277 --> 00:02:46,373
+and all the steps that you took.
+
+66
+00:02:46,373 --> 00:02:48,345
+But it's also got these
+things that are not done,
+
+67
+00:02:48,345 --> 00:02:49,621
+'cause you haven't had time.
+
+68
+00:02:49,621 --> 00:02:52,155
+It's harder for them to ignore
+
+69
+00:02:52,155 --> 00:02:54,180
+that there's a problem.
+
+70
+00:02:54,180 --> 00:02:56,577
+'Cause that feedback is
+staring them in the face,
+
+71
+00:02:56,577 --> 00:02:58,302
+and they have to act on it.
+
+72
+00:02:58,302 --> 00:02:59,870
+So make sure that you're writing down
+
+73
+00:02:59,870 --> 00:03:01,546
+the things that show the scope,
+
+74
+00:03:01,546 --> 00:03:03,275
+that show the effort, that show the work.
+
+75
+00:03:03,275 --> 00:03:05,260
+Make the testing visible,
+but not just make
+
+76
+00:03:05,260 --> 00:03:06,911
+the testing visible make the testing
+
+77
+00:03:06,911 --> 00:03:09,918
+visible such that it
+acts as negative feedback
+
+78
+00:03:09,918 --> 00:03:12,412
+in the process, so they know where
+
+79
+00:03:12,412 --> 00:03:14,995
+the pain points are for testing.
+
+80
+00:03:17,667 --> 00:03:20,620
+And this one is key and
+slightly more controversial.
+
+81
+00:03:20,620 --> 00:03:23,338
+Which is, don't do the work of others.
+
+82
+00:03:23,338 --> 00:03:24,760
+Right, 'cause very often what happens
+
+83
+00:03:24,760 --> 00:03:26,892
+is if you give an inch they'll take a mile
+
+84
+00:03:26,892 --> 00:03:28,500
+and they'll keep taking the mile.
+
+85
+00:03:28,500 --> 00:03:31,762
+So, if you don't have enough time to test,
+
+86
+00:03:31,762 --> 00:03:35,707
+that the software story is
+delivered at the end of the day
+
+87
+00:03:35,707 --> 00:03:39,349
+the testers might stay
+late in order to test it.
+
+88
+00:03:39,349 --> 00:03:41,460
+To provide the feedback
+so that programmers
+
+89
+00:03:41,460 --> 00:03:42,609
+can work on it in the morning.
+
+90
+00:03:42,609 --> 00:03:43,668
+Don't do that.
+
+91
+00:03:43,668 --> 00:03:45,088
+Right, you're doing somebody else's work.
+
+92
+00:03:45,088 --> 00:03:47,603
+You're absorbing their
+failure in the system
+
+93
+00:03:47,603 --> 00:03:49,228
+and taking it on board.
+
+94
+00:03:49,228 --> 00:03:51,478
+They way they have no pain.
+
+95
+00:03:53,106 --> 00:03:55,470
+They've got no negative
+feedback causing them
+
+96
+00:03:55,470 --> 00:03:57,029
+to change the process.
+
+97
+00:03:57,029 --> 00:03:59,667
+Do not, absorb the work of others.
+
+98
+00:03:59,667 --> 00:04:02,610
+Don't do the work of others.
+
+99
+00:04:02,610 --> 00:04:03,904
+If we've agreed as a team,
+
+100
+00:04:03,904 --> 00:04:07,097
+that everyone is going
+to do automated execution
+
+101
+00:04:07,097 --> 00:04:10,115
+and build test code, if
+that's what we're calling it,
+
+102
+00:04:10,115 --> 00:04:11,863
+then don't do that on your own.
+
+103
+00:04:11,863 --> 00:04:13,991
+Bring people in and keep reminding people
+
+104
+00:04:13,991 --> 00:04:15,944
+that we said we were
+going to pair on this,
+
+105
+00:04:15,944 --> 00:04:18,620
+can we pair on this
+now, can we do this now.
+
+106
+00:04:18,620 --> 00:04:21,260
+Keep pushing for that, make
+opportunities for it to happen
+
+107
+00:04:21,260 --> 00:04:23,901
+but control your part of the process.
+
+108
+00:04:23,901 --> 00:04:25,231
+You don't attempt to fix Agile,
+
+109
+00:04:25,231 --> 00:04:28,178
+you attempt to fix the bit
+that you were involved in.
+
+110
+00:04:28,178 --> 00:04:30,532
+(alarm)
+
+111
+00:04:30,532 --> 00:04:32,449
+So that's four minutes.
+
+112
+00:04:34,417 --> 00:04:38,903
+So I didn't quite cover
+everything I've got written down.
+
+113
+00:04:38,903 --> 00:04:43,109
+Other things I've got
+written down, not much more.
+
+114
+00:04:43,109 --> 00:04:44,859
+Part of the issue is,
+
+115
+00:04:46,339 --> 00:04:50,422
+when we absorb other
+peoples parts of the process
+
+116
+00:04:52,278 --> 00:04:56,486
+we then can look bad because we are doing
+
+117
+00:04:56,486 --> 00:04:58,227
+what we think it takes to make the project
+
+118
+00:04:58,227 --> 00:05:00,524
+keep going on, but we're
+getting enough time
+
+119
+00:05:00,524 --> 00:05:02,761
+to do everything that we want to do.
+
+120
+00:05:02,761 --> 00:05:04,456
+So we're not getting a chance to do
+
+121
+00:05:04,456 --> 00:05:05,929
+all the testing that we want to do
+
+122
+00:05:05,929 --> 00:05:08,137
+because we're trying to do
+some automating as well.
+
+123
+00:05:08,137 --> 00:05:09,394
+We're not getting the chance to do all
+
+124
+00:05:09,394 --> 00:05:10,769
+the automating because
+we're doing the testing.
+
+125
+00:05:10,769 --> 00:05:14,060
+We're refining the stories late so we're
+
+126
+00:05:14,060 --> 00:05:16,101
+having to go have meetings
+about the acceptance
+
+127
+00:05:16,101 --> 00:05:17,911
+criteria to figure out
+what we need to test
+
+128
+00:05:17,911 --> 00:05:20,559
+after the story has been played.
+
+129
+00:05:20,559 --> 00:05:22,678
+Which then cuts into time that we could be
+
+130
+00:05:22,678 --> 00:05:25,761
+using for testing, or automating.
+
+131
+00:05:25,761 --> 00:05:28,052
+And the fact that we're absorbing all this
+
+132
+00:05:28,052 --> 00:05:30,236
+makes the project look good.
+
+133
+00:05:30,236 --> 00:05:33,069
+Makes the project run more
+smoothly, which is important.
+
+134
+00:05:33,069 --> 00:05:35,673
+It makes us look bad, and makes testing
+
+135
+00:05:35,673 --> 00:05:38,212
+look bad on the project
+because we're trying
+
+136
+00:05:38,212 --> 00:05:40,076
+to do our best.
+
+137
+00:05:40,076 --> 00:05:43,826
+And sometimes we have
+to let the system fail,
+
+138
+00:05:44,827 --> 00:05:47,152
+by fitting in with sustainable pace.
+
+139
+00:05:47,152 --> 00:05:50,152
+Whatever is its 37.5, 40 hour weeks.
+
+140
+00:05:51,145 --> 00:05:54,538
+To keep things on track,
+but to make visible
+
+141
+00:05:54,538 --> 00:05:56,764
+what we have done and not done.
+
+142
+00:05:56,764 --> 00:06:01,657
+'Cause it's negative
+feedback that causes change.
+
+143
+00:06:01,657 --> 00:06:03,957
+I was thinking yesterday,
+that a lot of this
+
+144
+00:06:03,957 --> 00:06:06,842
+is coming from cybernetics
+when I think about it.
+
+145
+00:06:06,842 --> 00:06:11,090
+In terms of, we talk about
+feedback a lot in Agile.
+
+146
+00:06:11,090 --> 00:06:14,946
+So we have retrospectives,
+we have standups.
+
+147
+00:06:14,946 --> 00:06:16,717
+We have lots of interface
+points that we're
+
+148
+00:06:16,717 --> 00:06:19,255
+looking at feedback in order to come in.
+
+149
+00:06:19,255 --> 00:06:20,832
+But then I realised yesterday,
+
+150
+00:06:20,832 --> 00:06:23,518
+it's feedback in the sense that it's
+
+151
+00:06:23,518 --> 00:06:26,614
+an output that comes in as input again.
+
+152
+00:06:26,614 --> 00:06:29,447
+But, if the input is not processed
+
+153
+00:06:30,815 --> 00:06:32,552
+it makes no difference.
+
+154
+00:06:32,552 --> 00:06:35,629
+We say we're going to do certain things
+
+155
+00:06:35,629 --> 00:06:38,883
+we have these goals that
+comes in as feedback.
+
+156
+00:06:38,883 --> 00:06:41,365
+If we don't act on it, it's irrelevant.
+
+157
+00:06:41,365 --> 00:06:42,774
+We've filtered it out.
+
+158
+00:06:42,774 --> 00:06:44,990
+It's not impacting the process.
+
+159
+00:06:44,990 --> 00:06:47,669
+It doesn't cause the process to change.
+
+160
+00:06:47,669 --> 00:06:49,602
+Which is why in retrospectives you
+
+161
+00:06:49,602 --> 00:06:51,551
+don't just come out with goals.
+
+162
+00:06:51,551 --> 00:06:54,019
+You come out with the next steps.
+
+163
+00:06:54,019 --> 00:06:55,476
+And you do the next steps.
+
+164
+00:06:55,476 --> 00:06:56,931
+And then you can remind yourselves
+
+165
+00:06:56,931 --> 00:07:01,061
+during the actual sprint
+about those next steps.
+
+166
+00:07:01,061 --> 00:07:02,030
+Have we done this?
+
+167
+00:07:02,030 --> 00:07:03,099
+You can do that in the standups.
+
+168
+00:07:03,099 --> 00:07:04,460
+When are we going to do this?
+
+169
+00:07:04,460 --> 00:07:05,734
+Do you have time today to do this?
+
+170
+00:07:05,734 --> 00:07:06,866
+You can covert them into stories
+
+171
+00:07:06,866 --> 00:07:08,044
+to make sure that you do them
+
+172
+00:07:08,044 --> 00:07:09,281
+'cause they're on your board.
+
+173
+00:07:09,281 --> 00:07:11,498
+There's steps that we can
+take to make things visible,
+
+174
+00:07:11,498 --> 00:07:13,350
+and make it actionable.
+
+175
+00:07:13,350 --> 00:07:16,683
+That systems, only change when they have
+
+176
+00:07:18,006 --> 00:07:22,196
+negative feedback coming
+in that's processed.
+
+177
+00:07:22,196 --> 00:07:24,101
+Very often what we have
+is negative feedback
+
+178
+00:07:24,101 --> 00:07:27,004
+that comes in that is filtered out
+
+179
+00:07:27,004 --> 00:07:29,993
+or, and this is what often happens,
+
+180
+00:07:29,993 --> 00:07:34,480
+to tester absorbed by a
+single part of the system.
+
+181
+00:07:34,480 --> 00:07:36,895
+So negative feedback comes in,
+
+182
+00:07:36,895 --> 00:07:39,786
+that we don't have enough
+time to do automating.
+
+183
+00:07:39,786 --> 00:07:43,583
+That gets absorbed by the test part,
+
+184
+00:07:43,583 --> 00:07:45,550
+so no one else gets
+involved in the automating.
+
+185
+00:07:45,550 --> 00:07:47,698
+Test part then has to work longer hours
+
+186
+00:07:47,698 --> 00:07:49,292
+or weekends to try and get this done.
+
+187
+00:07:49,292 --> 00:07:51,476
+Or it becomes testing stories that
+
+188
+00:07:51,476 --> 00:07:54,071
+never get finished, they
+look back, they look bad
+
+189
+00:07:54,071 --> 00:07:57,706
+that part gets absorbed
+by the testing part.
+
+190
+00:07:57,706 --> 00:07:59,918
+And it shouldn't, an effective system
+
+191
+00:07:59,918 --> 00:08:03,404
+doesn't have subsystems
+absorbing negative feedback.
+
+192
+00:08:03,404 --> 00:08:06,390
+Particularly when it's system feedback.
+
+193
+00:08:06,390 --> 00:08:08,752
+And most of the feedback
+on an Agile project
+
+194
+00:08:08,752 --> 00:08:10,551
+is system level 'cause it's the system
+
+195
+00:08:10,551 --> 00:08:12,271
+that has to change, it's
+the way that we develop.
+
+196
+00:08:12,271 --> 00:08:17,271
+It's the way that we work as
+a team, that has to change.
+
+197
+00:08:17,371 --> 00:08:21,570
+And until that feedback
+get absorbed as the system,
+
+198
+00:08:21,570 --> 00:08:23,776
+the process doesn't change.
+
+199
+00:08:23,776 --> 00:08:25,315
+Which is why its hard for individuals
+
+200
+00:08:25,315 --> 00:08:28,673
+to fix it because individuals
+take that feedback
+
+201
+00:08:28,673 --> 00:08:31,721
+and absorb it on their own.
+
+202
+00:08:31,721 --> 00:08:34,449
+Now ideally, in a four minute talk
+
+203
+00:08:34,449 --> 00:08:36,124
+I would like to mention that as well
+
+204
+00:08:36,124 --> 00:08:37,562
+but then people have to understand
+
+205
+00:08:37,562 --> 00:08:39,077
+the notions of cybernetics.
+
+206
+00:08:39,077 --> 00:08:40,912
+And I'm concerned that people might
+
+207
+00:08:40,912 --> 00:08:42,341
+not understand cybernetics or feedback.
+
+208
+00:08:42,341 --> 00:08:43,618
+So I'm going to talk about it more
+
+209
+00:08:43,618 --> 00:08:46,048
+general clear actions steps you can do.
+
+210
+00:08:46,048 --> 00:08:48,910
+To me that's coming from the notion
+
+211
+00:08:48,910 --> 00:08:53,577
+of cybernetics and systems
+viewpoint of how people work.
+

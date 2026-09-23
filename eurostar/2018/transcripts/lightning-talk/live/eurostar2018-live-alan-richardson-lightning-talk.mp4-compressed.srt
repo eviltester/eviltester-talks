@@ -1,0 +1,385 @@
+﻿1
+00:00:01,830 --> 00:00:04,413
+(thunder clap)
+
+2
+00:00:05,798 --> 00:00:08,881
+(audience applause)
+
+3
+00:00:15,323 --> 00:00:17,490
+- [Alan] So now I don't have
+to get struck by lightning,
+
+4
+00:00:17,490 --> 00:00:20,708
+Fran's shown you what happens.
+
+5
+00:00:20,708 --> 00:00:22,532
+So I'm gonna follow on from that.
+
+6
+00:00:22,532 --> 00:00:24,878
+All right, 'cause I get
+asked similar questions,
+
+7
+00:00:24,878 --> 00:00:28,157
+I get asked like "Dear Evil
+Tester", emails come into me,
+
+8
+00:00:28,157 --> 00:00:30,056
+our Agile project is screwed up
+
+9
+00:00:30,056 --> 00:00:32,405
+and messed up, what can I do?
+
+10
+00:00:32,405 --> 00:00:33,906
+All right, 'cause people want to fix it,
+
+11
+00:00:33,906 --> 00:00:35,796
+people want to take
+responsibility for that.
+
+12
+00:00:35,796 --> 00:00:38,100
+Where screwed up means some of the things
+
+13
+00:00:38,100 --> 00:00:39,209
+that Fran just talked about.
+
+14
+00:00:39,209 --> 00:00:43,617
+Where we've got no time
+for testing by the testers.
+
+15
+00:00:43,617 --> 00:00:48,086
+We've got no time for
+automating by the testers.
+
+16
+00:00:48,086 --> 00:00:51,680
+We've got no acceptance criteria
+that the testers can use.
+
+17
+00:00:51,680 --> 00:00:53,566
+We've got no story details that we
+
+18
+00:00:53,566 --> 00:00:56,269
+as testers can understand,
+we're not invited to meetings,
+
+19
+00:00:56,269 --> 00:00:58,245
+and so the tester's not being included,
+
+20
+00:00:58,245 --> 00:01:00,579
+we're not getting stuff we want.
+
+21
+00:01:00,579 --> 00:01:02,046
+And the fundamental problem is
+
+22
+00:01:02,046 --> 00:01:03,900
+that you're not actually Agile,
+
+23
+00:01:03,900 --> 00:01:05,621
+you're not actually
+doing an Agile project.
+
+24
+00:01:05,621 --> 00:01:07,709
+You've called it Agile,
+you've labelled it Agile,
+
+25
+00:01:07,709 --> 00:01:09,580
+you've got some ritual
+that you call Agile,
+
+26
+00:01:09,580 --> 00:01:12,028
+you do stand-ups, you do retrospectives
+
+27
+00:01:12,028 --> 00:01:13,511
+but you don't learn from them.
+
+28
+00:01:13,511 --> 00:01:17,832
+The feedback doesn't come in
+as input and you process it.
+
+29
+00:01:17,832 --> 00:01:19,909
+So what we have to do
+then is we still have to
+
+30
+00:01:19,909 --> 00:01:22,394
+fight the good fight and
+explain what Agile is
+
+31
+00:01:22,394 --> 00:01:24,860
+and try and do the Agile thing.
+
+32
+00:01:24,860 --> 00:01:27,279
+But we still have to work
+with the actual reality
+
+33
+00:01:27,279 --> 00:01:31,174
+on the ground so there are
+steps that people can take.
+
+34
+00:01:31,174 --> 00:01:32,007
+The first thing we have to do is
+
+35
+00:01:32,007 --> 00:01:34,469
+we have to get our own house in order.
+
+36
+00:01:34,469 --> 00:01:37,006
+Make sure that we know how to test things,
+
+37
+00:01:37,006 --> 00:01:39,427
+make sure that we are avoiding waste in
+
+38
+00:01:39,427 --> 00:01:41,084
+the testing that we do.
+
+39
+00:01:41,084 --> 00:01:42,892
+So that we're not writing big test plans,
+
+40
+00:01:42,892 --> 00:01:44,993
+we're not writing huge
+amounts of stuff in advance,
+
+41
+00:01:44,993 --> 00:01:46,427
+we're keeping everything lean
+
+42
+00:01:46,427 --> 00:01:49,396
+so that we can respond effectively.
+
+43
+00:01:49,396 --> 00:01:52,383
+We need to make sure that we do own
+
+44
+00:01:52,383 --> 00:01:54,705
+the things that are ours to own.
+
+45
+00:01:54,705 --> 00:01:57,782
+So exploratory testing, that
+we make sure that we do that.
+
+46
+00:01:57,782 --> 00:02:00,428
+That we do that properly,
+we capture all the results
+
+47
+00:02:00,428 --> 00:02:01,914
+and we plan it in advance.
+
+48
+00:02:01,914 --> 00:02:04,233
+One of the things you
+can do is you can use
+
+49
+00:02:04,233 --> 00:02:08,003
+the Agile words against
+the fake Agile process.
+
+50
+00:02:08,003 --> 00:02:10,514
+So Agile has words like done, not done,
+
+51
+00:02:10,514 --> 00:02:12,179
+so when you're planning out your testing,
+
+52
+00:02:12,179 --> 00:02:13,727
+your exploratory testing,
+and build charters,
+
+53
+00:02:13,727 --> 00:02:15,571
+whatever lightweight plan you want to do,
+
+54
+00:02:15,571 --> 00:02:18,156
+you say not done, then
+you listen to things
+
+55
+00:02:18,156 --> 00:02:19,362
+that you want to do.
+
+56
+00:02:19,362 --> 00:02:20,901
+Then when you start doing them
+
+57
+00:02:20,901 --> 00:02:22,287
+you gather evidence you say done,
+
+58
+00:02:22,287 --> 00:02:24,113
+then you put them into a done list.
+
+59
+00:02:24,113 --> 00:02:26,085
+So then at the end when people try and go,
+
+60
+00:02:26,085 --> 00:02:27,937
+"can we close this story now? can we mark
+
+61
+00:02:27,937 --> 00:02:30,764
+the story as done?", in
+their face there's feedback,
+
+62
+00:02:30,764 --> 00:02:32,526
+that it is not yet done,
+
+63
+00:02:32,526 --> 00:02:34,643
+'cause there's a bunch of stuff not done
+
+64
+00:02:34,643 --> 00:02:36,064
+and you're making it visible.
+
+65
+00:02:36,064 --> 00:02:37,928
+You're helping people understand and share
+
+66
+00:02:37,928 --> 00:02:40,375
+the pain that you've got.
+
+67
+00:02:40,375 --> 00:02:42,733
+The other thing we have
+to do, and this is,
+
+68
+00:02:42,733 --> 00:02:45,089
+why we get in a mess because
+in Agile you are supposed
+
+69
+00:02:45,089 --> 00:02:46,951
+to do the work of other people as well,
+
+70
+00:02:46,951 --> 00:02:49,157
+you are supposed to absorb things.
+
+71
+00:02:49,157 --> 00:02:50,488
+But that's what we have to not do,
+
+72
+00:02:50,488 --> 00:02:51,894
+you have to focus on the work that we do,
+
+73
+00:02:51,894 --> 00:02:55,422
+and not absorb the poor
+output from other things.
+
+74
+00:02:55,422 --> 00:02:57,617
+So testers do not stay
+late testing because
+
+75
+00:02:57,617 --> 00:03:01,558
+the story was delivered at
+four o'clock in the afternoon,
+
+76
+00:03:01,558 --> 00:03:03,098
+while everyone else goes home.
+
+77
+00:03:03,098 --> 00:03:08,015
+If we absorb things, then we
+help this bad process continue
+
+78
+00:03:09,038 --> 00:03:11,445
+and in a normal Agile
+process you would want
+
+79
+00:03:11,445 --> 00:03:13,164
+to help out, you want to make it work,
+
+80
+00:03:13,164 --> 00:03:15,136
+but you're not in an Agile process.
+
+81
+00:03:15,136 --> 00:03:16,874
+We have to work with the reality,
+
+82
+00:03:16,874 --> 00:03:19,807
+and that means making
+people share the pain,
+
+83
+00:03:19,807 --> 00:03:22,172
+making this stuff visible.
+
+84
+00:03:22,172 --> 00:03:25,195
+We have to give them a
+reason to want to change,
+
+85
+00:03:25,195 --> 00:03:28,093
+because the system has to change itself.
+
+86
+00:03:28,093 --> 00:03:31,012
+We can only act on small things.
+
+87
+00:03:31,012 --> 00:03:32,579
+Thank you very much.
+
+88
+00:03:32,579 --> 00:03:35,579
+(audience applause)
+

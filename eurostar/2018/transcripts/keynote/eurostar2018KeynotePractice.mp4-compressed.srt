@@ -1,0 +1,4552 @@
+﻿1
+00:00:00,000 --> 00:00:03,050
+- This is the practise recording
+for my Eurostar keynote.
+
+2
+00:00:03,050 --> 00:00:06,750
+I'm gonna try and give you
+the full keynote experience
+
+3
+00:00:06,750 --> 00:00:10,070
+'cause Eurostar asked us to
+pick a track that we'll use
+
+4
+00:00:10,070 --> 00:00:12,190
+for the intro and the walk on.
+
+5
+00:00:12,190 --> 00:00:13,453
+So I'm gonna play that.
+
+6
+00:00:14,300 --> 00:00:16,316
+Then I'll dive into the
+
+7
+00:00:16,316 --> 00:00:19,210
+talk so you get the full
+
+8
+00:00:19,210 --> 00:00:23,288
+immersive stadium type experience.
+
+9
+00:00:23,288 --> 00:00:26,371
+(uptempo rock music)
+
+10
+00:00:39,730 --> 00:00:41,100
+Alright. (laughs)
+
+11
+00:00:41,100 --> 00:00:45,170
+So, that was The Trooper.
+
+12
+00:00:45,170 --> 00:00:47,290
+That was Iron Maiden's, The Trooper.
+
+13
+00:00:47,290 --> 00:00:48,123
+I quite like it.
+
+14
+00:00:48,123 --> 00:00:50,060
+I mean Eurostar want us the pick a song
+
+15
+00:00:50,060 --> 00:00:51,800
+so clearly there has to be a message.
+
+16
+00:00:51,800 --> 00:00:54,180
+But the reason why I picked it is that
+
+17
+00:00:55,490 --> 00:01:00,260
+there's a common phrase
+associated with warfare which
+
+18
+00:01:00,260 --> 00:01:04,680
+is "your plan does not survive
+contact with the enemy".
+
+19
+00:01:04,680 --> 00:01:06,677
+And there's couple of lessons
+you could draw from that
+
+20
+00:01:06,677 --> 00:01:08,180
+but the lesson I draw from that
+
+21
+00:01:08,180 --> 00:01:11,350
+is we really want our plans to be simple
+
+22
+00:01:11,350 --> 00:01:13,170
+to understand and implement.
+
+23
+00:01:13,170 --> 00:01:16,670
+'Cause it's not gonna stand
+up to contact with the enemy
+
+24
+00:01:16,670 --> 00:01:18,350
+we have to be able to flex around them.
+
+25
+00:01:18,350 --> 00:01:19,627
+So the more complicated the plan is,
+
+26
+00:01:19,627 --> 00:01:21,650
+the more interdependent it is,
+
+27
+00:01:21,650 --> 00:01:23,830
+the more over complicated stuff is
+
+28
+00:01:23,830 --> 00:01:27,710
+the less we are gonna be able to flex fast
+
+29
+00:01:27,710 --> 00:01:29,910
+when something changes.
+
+30
+00:01:29,910 --> 00:01:32,566
+The other thing is if
+it's not gonna survive
+
+31
+00:01:32,566 --> 00:01:35,270
+contact with the enemy,
+
+32
+00:01:35,270 --> 00:01:38,321
+we need to know what the end objective is
+
+33
+00:01:38,321 --> 00:01:41,661
+or multiple end objectives
+so that we can try
+
+34
+00:01:41,661 --> 00:01:42,570
+and achieve them.
+
+35
+00:01:42,570 --> 00:01:45,760
+And we might even want to
+know what we're gonna do
+
+36
+00:01:45,760 --> 00:01:48,330
+after we achieve an end objective
+
+37
+00:01:48,330 --> 00:01:50,680
+because if we can't even
+achieve those objectives
+
+38
+00:01:50,680 --> 00:01:53,090
+we might be able to think of
+new ways that we might be able
+
+39
+00:01:53,090 --> 00:01:54,920
+to build on it to achieve
+the ultimate things
+
+40
+00:01:54,920 --> 00:01:56,770
+we gonna do afterwards.
+
+41
+00:01:56,770 --> 00:01:58,170
+So we've got a chain.
+
+42
+00:01:58,170 --> 00:02:02,380
+The Trooper is essentially
+about the person on the ground
+
+43
+00:02:02,380 --> 00:02:07,120
+the soldier that's in there
+and doing the fighting,
+
+44
+00:02:07,120 --> 00:02:08,870
+doing the job.
+
+45
+00:02:08,870 --> 00:02:11,110
+And what I think is
+important there particularly
+
+46
+00:02:11,110 --> 00:02:14,708
+for testers is that that person
+
+47
+00:02:14,708 --> 00:02:16,700
+is drilled into them
+
+48
+00:02:16,700 --> 00:02:19,050
+the skill set that they need to handle
+
+49
+00:02:19,050 --> 00:02:22,030
+that environment that they're going in to.
+
+50
+00:02:22,030 --> 00:02:23,972
+In order to be able to flex,
+in order to even to be able
+
+51
+00:02:23,972 --> 00:02:26,300
+to do the job that they're supposed to do,
+
+52
+00:02:26,300 --> 00:02:29,920
+they have to know basic
+skills or understanding there.
+
+53
+00:02:29,920 --> 00:02:32,740
+And we don't just throw
+people on the battlefield
+
+54
+00:02:32,740 --> 00:02:36,150
+and expect them to
+survive, cause they won't.
+
+55
+00:02:36,150 --> 00:02:39,010
+And then if we expect them
+to adapt to circumstances,
+
+56
+00:02:39,010 --> 00:02:40,840
+they have to be able to handle things.
+
+57
+00:02:40,840 --> 00:02:43,738
+Even if you were just
+thrown into a battlefield,
+
+58
+00:02:43,738 --> 00:02:46,360
+you've been given 15 minutes
+beforehand you're taught
+
+59
+00:02:46,360 --> 00:02:47,530
+how to shoot a gun.
+
+60
+00:02:47,530 --> 00:02:48,950
+You know the basics,
+
+61
+00:02:48,950 --> 00:02:51,950
+you then have to rely
+on your common sense.
+
+62
+00:02:51,950 --> 00:02:54,120
+You have to observe what
+other people are doing.
+
+63
+00:02:54,120 --> 00:02:57,330
+You have to make this
+work in order to survive.
+
+64
+00:02:57,330 --> 00:03:00,433
+Now, I have the concern that in testing
+
+65
+00:03:00,433 --> 00:03:03,360
+we over complicate testing right?
+
+66
+00:03:03,360 --> 00:03:06,320
+I think in the industry
+there's a very big temptation
+
+67
+00:03:06,320 --> 00:03:09,327
+to make it seem really complicated.
+
+68
+00:03:09,327 --> 00:03:11,078
+I mean if you look at
+some of the definitions
+
+69
+00:03:11,078 --> 00:03:13,320
+that are out there for testing,
+
+70
+00:03:13,320 --> 00:03:17,759
+some of them are so convoluted,
+
+71
+00:03:17,759 --> 00:03:18,592
+and they change.
+
+72
+00:03:18,592 --> 00:03:21,050
+This is why I find
+interested about definitions.
+
+73
+00:03:21,050 --> 00:03:23,160
+I mean if you ever tried to
+write your own definition,
+
+74
+00:03:23,160 --> 00:03:24,230
+it's hard.
+
+75
+00:03:24,230 --> 00:03:26,570
+But I think it's an
+exercise that's worth doing.
+
+76
+00:03:26,570 --> 00:03:31,570
+It's a very important exercise
+to try and define testing.
+
+77
+00:03:32,420 --> 00:03:34,240
+To get in your head what this thing
+
+78
+00:03:34,240 --> 00:03:36,950
+that you're working with is.
+
+79
+00:03:36,950 --> 00:03:39,490
+We have the issue that if
+
+80
+00:03:39,490 --> 00:03:42,490
+we don't make something
+that is over complicated.
+
+81
+00:03:42,490 --> 00:03:43,520
+Then when you write your own definition
+
+82
+00:03:43,520 --> 00:03:45,210
+is gonna come out with
+something over complicated
+
+83
+00:03:45,210 --> 00:03:46,890
+'cause you're gonna think
+well it doesn't cover
+
+84
+00:03:46,890 --> 00:03:47,723
+everything that I do.
+
+85
+00:03:47,723 --> 00:03:51,380
+Well that makes it look
+too easy, that makes that
+
+86
+00:03:51,380 --> 00:03:53,410
+I've over simplified it.
+
+87
+00:03:53,410 --> 00:03:55,080
+I've over simplified
+it because your writing
+
+88
+00:03:55,080 --> 00:03:56,530
+a definition for yourself
+
+89
+00:03:56,530 --> 00:03:59,320
+and you know how complicated
+and rich this is.
+
+90
+00:03:59,320 --> 00:04:01,970
+Its a temptation to put all
+that in your definition.
+
+91
+00:04:01,970 --> 00:04:04,110
+But if we then make it public,
+
+92
+00:04:04,110 --> 00:04:06,130
+there is a temptation that
+well then people look at it
+
+93
+00:04:06,130 --> 00:04:07,600
+and go well this is too easy,
+
+94
+00:04:07,600 --> 00:04:10,370
+this is something that we
+can easily under value.
+
+95
+00:04:10,370 --> 00:04:12,680
+You can go and train yourself
+as a tester and come out
+
+96
+00:04:12,680 --> 00:04:15,130
+as a certified tester in three days.
+
+97
+00:04:15,130 --> 00:04:17,100
+So this we can just get
+junior people to do this
+
+98
+00:04:17,100 --> 00:04:18,230
+there's nothing important here.
+
+99
+00:04:18,230 --> 00:04:20,741
+You don't need 15 years
+experience in order to do this.
+
+100
+00:04:20,741 --> 00:04:23,160
+Then there's a danger in
+the testing world we might
+
+101
+00:04:23,160 --> 00:04:24,140
+get paid even less.
+
+102
+00:04:24,140 --> 00:04:26,030
+So since we already
+get paid even less than
+
+103
+00:04:26,030 --> 00:04:27,470
+everyone else we'll get...
+
+104
+00:04:27,470 --> 00:04:30,690
+There's a real danger that
+we get and paid even less,
+
+105
+00:04:30,690 --> 00:04:32,305
+and we don't want that.
+
+106
+00:04:32,305 --> 00:04:36,770
+We don't want it to get
+too simple and too easy
+
+107
+00:04:36,770 --> 00:04:37,941
+therefore we try to cram everything in
+
+108
+00:04:37,941 --> 00:04:40,760
+Then it's over complicated and that's bad.
+
+109
+00:04:40,760 --> 00:04:41,930
+So when I was thinking about this,
+
+110
+00:04:41,930 --> 00:04:45,050
+I thought right, what I will
+do, I will create an example.
+
+111
+00:04:45,050 --> 00:04:47,330
+I'll create an example
+definition of software testing
+
+112
+00:04:47,330 --> 00:04:50,190
+is a process whereby we use
+a software system deployed
+
+113
+00:04:50,190 --> 00:04:53,550
+in multiple configurations via its GUI API
+
+114
+00:04:53,550 --> 00:04:56,120
+and all exposed interfaces
+to gather information about
+
+115
+00:04:56,120 --> 00:04:57,720
+its behaviour, flaws and impact
+
+116
+00:04:57,720 --> 00:05:00,100
+on the user and stakeholder
+needs and requirements;
+
+117
+00:05:00,100 --> 00:05:02,860
+for the purpose of evaluating
+the quality and fitness
+
+118
+00:05:02,860 --> 00:05:04,960
+for purpose in specific
+operational environments
+
+119
+00:05:04,960 --> 00:05:06,690
+and conditions.
+
+120
+00:05:06,690 --> 00:05:08,429
+Right, 'cause I'm trying
+to cram in everything.
+
+121
+00:05:08,429 --> 00:05:12,680
+I didn't even try hard
+to cram in everything.
+
+122
+00:05:12,680 --> 00:05:15,560
+This was me looking at
+going how would I describe
+
+123
+00:05:15,560 --> 00:05:19,890
+this if I want to cover
+GUI testing API testing,
+
+124
+00:05:19,890 --> 00:05:22,450
+the different basic feedback,
+looking at behaviour,
+
+125
+00:05:22,450 --> 00:05:24,590
+impact, all of this stuff.
+
+126
+00:05:24,590 --> 00:05:25,730
+How can I put this in?
+
+127
+00:05:25,730 --> 00:05:27,750
+So it's an over complicated definition.
+
+128
+00:05:27,750 --> 00:05:29,138
+Now I read that out,
+
+129
+00:05:29,138 --> 00:05:31,080
+I don't remember what it was.
+
+130
+00:05:31,080 --> 00:05:32,030
+I wrote it,
+
+131
+00:05:32,030 --> 00:05:35,050
+I don't remember what it
+really covers or stands for.
+
+132
+00:05:35,050 --> 00:05:36,870
+It's over complicated.
+
+133
+00:05:36,870 --> 00:05:37,703
+The thing is,
+
+134
+00:05:37,703 --> 00:05:39,690
+even having one of those definitions,
+
+135
+00:05:39,690 --> 00:05:40,970
+we wouldn't stop there.
+
+136
+00:05:40,970 --> 00:05:43,730
+Because we want to continually
+refine our definition.
+
+137
+00:05:43,730 --> 00:05:46,130
+We want to simplify it
+
+138
+00:05:46,130 --> 00:05:47,130
+because it's too big.
+
+139
+00:05:47,130 --> 00:05:48,890
+But then we want to over
+complicate it again.
+
+140
+00:05:48,890 --> 00:05:50,020
+So we delete sections,
+
+141
+00:05:50,020 --> 00:05:52,060
+we'll change it over time.
+
+142
+00:05:52,060 --> 00:05:54,930
+Now what's interesting
+is that we're doing this
+
+143
+00:05:54,930 --> 00:05:58,160
+because we're changing it
+based on our understanding
+
+144
+00:05:58,160 --> 00:05:59,660
+as it evolves overtime.
+
+145
+00:05:59,660 --> 00:06:02,170
+We're also doing it because
+we're communicating right?
+
+146
+00:06:02,170 --> 00:06:04,280
+Now when you're communicate
+we have a deep structure.
+
+147
+00:06:04,280 --> 00:06:06,550
+We have a model, a very complicated model
+
+148
+00:06:06,550 --> 00:06:08,270
+of what we're trying to communicate,
+
+149
+00:06:08,270 --> 00:06:11,950
+but we have to make it a very
+simple communication process
+
+150
+00:06:11,950 --> 00:06:13,367
+in order to communicate
+to different people.
+
+151
+00:06:13,367 --> 00:06:15,370
+And different people
+understand different things
+
+152
+00:06:15,370 --> 00:06:17,860
+so we communicate in different ways.
+
+153
+00:06:17,860 --> 00:06:21,295
+But this is a communication it
+isn't what testing is right?
+
+154
+00:06:21,295 --> 00:06:25,610
+'Cause testing itself
+probably hasn't changed right?
+
+155
+00:06:25,610 --> 00:06:27,870
+The essence of testing
+probably hasn't changed
+
+156
+00:06:27,870 --> 00:06:28,703
+over the years.
+
+157
+00:06:28,703 --> 00:06:32,964
+So the definition of testing
+if it was a description
+
+158
+00:06:32,964 --> 00:06:34,600
+of an absolute,
+
+159
+00:06:34,600 --> 00:06:36,400
+wouldn't have changed over the years.
+
+160
+00:06:36,400 --> 00:06:38,603
+So we're describing a relationship.
+
+161
+00:06:40,660 --> 00:06:43,690
+Now I thought, since we over
+complicate and there's a danger
+
+162
+00:06:43,690 --> 00:06:44,523
+in over complicating.
+
+163
+00:06:44,523 --> 00:06:47,750
+I would look at how
+other complicated fields
+
+164
+00:06:47,750 --> 00:06:49,470
+describe themselves like physics.
+
+165
+00:06:49,470 --> 00:06:51,013
+Physics is complicated.
+
+166
+00:06:51,013 --> 00:06:53,430
+So I looked in a dictionary,
+
+167
+00:06:53,430 --> 00:06:54,263
+I thought I could go down stairs,
+
+168
+00:06:54,263 --> 00:06:55,280
+get the dictionary
+
+169
+00:06:55,280 --> 00:06:56,710
+but it was too far away
+so what I'm gonna do,
+
+170
+00:06:56,710 --> 00:06:58,740
+I'm just gonna look for
+the Google dictionary.
+
+171
+00:06:58,740 --> 00:07:00,520
+'Cause Google has a dictionary built in,
+
+172
+00:07:00,520 --> 00:07:02,423
+I will ask that for the definition.
+
+173
+00:07:03,490 --> 00:07:06,400
+And then I get the notion
+of physics, what is physics?
+
+174
+00:07:06,400 --> 00:07:08,150
+Physics is the branch of science concerned
+
+175
+00:07:08,150 --> 00:07:11,570
+with the nature and properties
+of matter and energy.
+
+176
+00:07:11,570 --> 00:07:12,403
+Whoo!
+
+177
+00:07:12,403 --> 00:07:15,480
+And then it even says the
+subject matter includes,
+
+178
+00:07:15,480 --> 00:07:18,910
+now what I would prefer almost,
+is includes such things as,
+
+179
+00:07:18,910 --> 00:07:22,230
+mechanics, heat, light,
+structure of atoms, etc.
+
+180
+00:07:22,230 --> 00:07:24,320
+'cause then it's open ended.
+
+181
+00:07:24,320 --> 00:07:26,120
+If we have open ended definitions
+
+182
+00:07:26,120 --> 00:07:27,893
+we can make them really small.
+
+183
+00:07:29,040 --> 00:07:32,670
+But this, I imagine that
+physics covers more than
+
+184
+00:07:33,560 --> 00:07:35,060
+mechanics, heat, light, radiation,
+
+185
+00:07:35,060 --> 00:07:36,130
+structure of atoms, stuff like that.
+
+186
+00:07:36,130 --> 00:07:37,450
+But they've limited it there,
+
+187
+00:07:37,450 --> 00:07:39,560
+so people probably argue
+over that definition
+
+188
+00:07:39,560 --> 00:07:43,402
+but you stick etc. in and
+you make it open world
+
+189
+00:07:43,402 --> 00:07:46,530
+but bigger it's a little
+bit easier to communicate
+
+190
+00:07:46,530 --> 00:07:48,713
+to people without arguments.
+
+191
+00:07:49,841 --> 00:07:53,160
+Now in dictionaries there
+is very often a derivation
+
+192
+00:07:53,160 --> 00:07:54,990
+which is important right?
+
+193
+00:07:54,990 --> 00:07:55,823
+When we look at software testing,
+
+194
+00:07:55,823 --> 00:07:57,760
+what is a derivation of software testing?
+
+195
+00:07:57,760 --> 00:08:02,760
+We've taken things from math,
+graph theory, Set theory
+
+196
+00:08:02,800 --> 00:08:04,480
+decision theory, probability theory,
+
+197
+00:08:04,480 --> 00:08:07,840
+we use sampling processes when
+we're coming up with tests.
+
+198
+00:08:07,840 --> 00:08:08,960
+And particularly Set theory,
+
+199
+00:08:08,960 --> 00:08:11,980
+leads on to boundary analysis
+and equivalence partitioning.
+
+200
+00:08:11,980 --> 00:08:13,290
+All this stuff is from math
+
+201
+00:08:13,290 --> 00:08:16,831
+but we don't have,ver often
+the derivation of where
+
+202
+00:08:16,831 --> 00:08:18,350
+we've taken things in software testing.
+
+203
+00:08:18,350 --> 00:08:22,140
+So we lack something in our definitions.
+
+204
+00:08:22,140 --> 00:08:25,609
+Which means that we have to
+cram it all into our definition
+
+205
+00:08:25,609 --> 00:08:27,990
+rather than delegate off to someone else
+
+206
+00:08:27,990 --> 00:08:31,173
+'cause we're an expansive
+industry that brings thing in.
+
+207
+00:08:32,020 --> 00:08:33,847
+I thought well there's
+other complicated things
+
+208
+00:08:33,847 --> 00:08:34,680
+like rocket science.
+
+209
+00:08:34,680 --> 00:08:36,730
+Rocket science is pretty complicated.
+
+210
+00:08:36,730 --> 00:08:39,430
+It must have a really
+complicated definition.
+
+211
+00:08:39,430 --> 00:08:40,263
+So I asked Google and Google said
+
+212
+00:08:40,263 --> 00:08:43,640
+well its something really
+very difficult to understand.
+
+213
+00:08:43,640 --> 00:08:46,670
+You know that's not
+really that doesn't really
+
+214
+00:08:46,670 --> 00:08:47,770
+explain things.
+
+215
+00:08:47,770 --> 00:08:51,780
+So we are allowed to have
+definitions that describe things
+
+216
+00:08:51,780 --> 00:08:56,120
+in ways that make you
+think, that force you
+
+217
+00:08:56,120 --> 00:08:57,563
+to think about things.
+
+218
+00:08:58,570 --> 00:08:59,800
+And I thought well I'm really interested
+
+219
+00:08:59,800 --> 00:09:00,633
+in software testing.
+
+220
+00:09:00,633 --> 00:09:02,150
+So Google, what is software testing?
+
+221
+00:09:02,150 --> 00:09:03,370
+And Google doesn't know.
+
+222
+00:09:03,370 --> 00:09:05,117
+Google doesn't know what
+software testing is.
+
+223
+00:09:05,117 --> 00:09:08,300
+Doesn't have a definition
+of it in its dictionary.
+
+224
+00:09:08,300 --> 00:09:10,300
+I'm sure Google has a software process
+
+225
+00:09:10,300 --> 00:09:11,630
+and knows what software testing is.
+
+226
+00:09:11,630 --> 00:09:13,690
+But Google dictionary
+doesn't have a definition.
+
+227
+00:09:13,690 --> 00:09:16,147
+That's saying to me, search the web.
+
+228
+00:09:16,147 --> 00:09:18,734
+They have no definition, search the web.
+
+229
+00:09:18,734 --> 00:09:20,960
+Which means we have no choice,
+
+230
+00:09:20,960 --> 00:09:23,080
+and we are essentially having
+to make this up for ourselves.
+
+231
+00:09:23,080 --> 00:09:24,257
+'Cause if we search the
+web what we're seeing,
+
+232
+00:09:24,257 --> 00:09:26,300
+we're seeing the stuff that other people
+
+233
+00:09:26,300 --> 00:09:28,230
+have made up for their selves.
+
+234
+00:09:28,230 --> 00:09:30,180
+Now we can be reliant on what they think
+
+235
+00:09:30,180 --> 00:09:31,983
+or we can make this up ourselves.
+
+236
+00:09:33,615 --> 00:09:37,920
+And then I thought you know,
+if I was to abstract this
+
+237
+00:09:37,920 --> 00:09:40,499
+and you think what
+exactly is more important?
+
+238
+00:09:40,499 --> 00:09:43,024
+Is it imagineedfustication?
+
+239
+00:09:43,024 --> 00:09:43,857
+Or is it working with a good
+
+240
+00:09:43,857 --> 00:09:46,070
+imagineedfusticator right?
+
+241
+00:09:46,070 --> 00:09:47,290
+In the real world,
+
+242
+00:09:47,290 --> 00:09:51,110
+when you've got something that
+needs imagineedfusticating.
+
+243
+00:09:51,110 --> 00:09:53,390
+Do you need to know what that is?
+
+244
+00:09:53,390 --> 00:09:55,510
+Or do you need to know
+someone who can do it?
+
+245
+00:09:55,510 --> 00:09:58,139
+Is it the definition
+of imagineedfusticating
+
+246
+00:09:58,139 --> 00:09:59,261
+that is important?
+
+247
+00:09:59,261 --> 00:10:01,318
+Or is it someone who can
+actually implement it
+
+248
+00:10:01,318 --> 00:10:06,318
+and do imagineedfusting like
+a good imagineedfusticator.
+
+249
+00:10:06,355 --> 00:10:10,670
+Now I imagine 'cause I don't know that
+
+250
+00:10:10,670 --> 00:10:13,510
+what you're thinking is what
+is imagineedfusticating?
+
+251
+00:10:13,510 --> 00:10:14,680
+So I made it up.
+
+252
+00:10:14,680 --> 00:10:16,690
+Right, it's important that
+we learn, we get in the habit
+
+253
+00:10:16,690 --> 00:10:17,523
+of making things up.
+
+254
+00:10:17,523 --> 00:10:18,660
+It's a useful discipline.
+
+255
+00:10:18,660 --> 00:10:19,840
+Make up your own techniques,
+
+256
+00:10:19,840 --> 00:10:20,990
+make up your own definitions.
+
+257
+00:10:20,990 --> 00:10:22,040
+Make up your own words!
+
+258
+00:10:22,040 --> 00:10:24,060
+Make up your own concepts.
+
+259
+00:10:24,060 --> 00:10:25,720
+Now if you're very lucky,
+
+260
+00:10:25,720 --> 00:10:27,880
+some of those concepts will
+get taken up by other people
+
+261
+00:10:27,880 --> 00:10:29,730
+and you become famous and well paid.
+
+262
+00:10:29,730 --> 00:10:31,660
+And you'll be associated with the concept.
+
+263
+00:10:31,660 --> 00:10:34,770
+No one is going to pick
+imagineedfusticating.
+
+264
+00:10:34,770 --> 00:10:37,420
+But I called it the art of
+getting exactly what you need
+
+265
+00:10:37,420 --> 00:10:38,670
+when you need it.
+
+266
+00:10:38,670 --> 00:10:42,730
+Now I would rather work with
+a good imagineedfusticator,
+
+267
+00:10:42,730 --> 00:10:44,720
+someone who knows exactly what I need
+
+268
+00:10:44,720 --> 00:10:48,850
+and knows how exactly to get
+it exactly when I need it.
+
+269
+00:10:48,850 --> 00:10:53,580
+Rather than knowing that's
+what imagineedfusticating is.
+
+270
+00:10:53,580 --> 00:10:56,640
+I want someone to implement that for me.
+
+271
+00:10:56,640 --> 00:11:00,360
+Most of us in whatever industry we're in
+
+272
+00:11:00,360 --> 00:11:01,560
+are in that position.
+
+273
+00:11:01,560 --> 00:11:04,440
+We are trying to get exactly
+what someone else needs
+
+274
+00:11:04,440 --> 00:11:07,050
+when they need 'cause that's
+what makes us valuable.
+
+275
+00:11:07,050 --> 00:11:09,510
+So software testing is
+the art of getting exactly
+
+276
+00:11:09,510 --> 00:11:12,130
+what someone needs associated
+with software testing
+
+277
+00:11:12,130 --> 00:11:13,283
+when they need it.
+
+278
+00:11:14,170 --> 00:11:16,200
+And that's gonna be contextual.
+
+279
+00:11:16,200 --> 00:11:19,360
+That's gonna be dependent on
+the person we're working with.
+
+280
+00:11:19,360 --> 00:11:22,510
+So if we assume that we know
+nothing about software testing,
+
+281
+00:11:22,510 --> 00:11:24,977
+'cause there's no definitions,
+we have to search the web.
+
+282
+00:11:24,977 --> 00:11:28,490
+How would we go about working
+from first principles?
+
+283
+00:11:28,490 --> 00:11:30,137
+'Cause we are either going to
+be reliant on somebody else
+
+284
+00:11:30,137 --> 00:11:32,130
+or are we going to make this up.
+
+285
+00:11:32,130 --> 00:11:34,720
+So I'm going to take a worked example.
+
+286
+00:11:34,720 --> 00:11:36,240
+Here is an application.
+
+287
+00:11:36,240 --> 00:11:38,600
+Now this is an application
+I, Alan Richardson,
+
+288
+00:11:38,600 --> 00:11:40,790
+have written and you
+can find it on GitHub.
+
+289
+00:11:40,790 --> 00:11:42,720
+It's a simple CRUD application
+
+290
+00:11:42,720 --> 00:11:44,187
+that manages books and authors
+
+291
+00:11:44,187 --> 00:11:46,070
+and there's drop down menus on the top.
+
+292
+00:11:46,070 --> 00:11:48,570
+It links to go and its
+a very simple web app.
+
+293
+00:11:48,570 --> 00:11:50,440
+I have to test this.
+
+294
+00:11:50,440 --> 00:11:52,637
+Now assuming that I don't
+know that I developed it,
+
+295
+00:11:52,637 --> 00:11:54,147
+I'm just working from first principles.
+
+296
+00:11:54,147 --> 00:11:55,750
+How do I test this?
+
+297
+00:11:55,750 --> 00:11:57,010
+But if I don't know what testing is,
+
+298
+00:11:57,010 --> 00:11:58,570
+how can I do that right?
+
+299
+00:11:58,570 --> 00:12:00,910
+Now really I don't want
+anyone that I don't know
+
+300
+00:12:00,910 --> 00:12:02,230
+how to test it right?
+
+301
+00:12:02,230 --> 00:12:04,573
+'Cause I'm trying to bluff it.
+
+302
+00:12:04,573 --> 00:12:07,370
+There's a book by Edgar
+Rice Burroughs it's called
+
+303
+00:12:07,370 --> 00:12:11,780
+The Efficiency Expert, Pulp
+novel set in The Depression,
+
+304
+00:12:11,780 --> 00:12:13,320
+guy can't get any work.
+
+305
+00:12:13,320 --> 00:12:15,470
+He goes in to a factory asking for jobs,
+
+306
+00:12:15,470 --> 00:12:17,660
+can't get any work 'cause
+we've got all the people
+
+307
+00:12:17,660 --> 00:12:19,780
+low skilled people that
+can do all this job
+
+308
+00:12:19,780 --> 00:12:21,010
+and sees someone else with a clipboard
+
+309
+00:12:21,010 --> 00:12:21,920
+and goes,"What does he do?"
+
+310
+00:12:21,920 --> 00:12:23,230
+He's an efficiency expert,
+
+311
+00:12:23,230 --> 00:12:25,290
+he's helping us make more efficient.
+
+312
+00:12:25,290 --> 00:12:28,340
+So the guy goes around the
+corner at the 2nd hand book shop
+
+313
+00:12:28,340 --> 00:12:31,920
+finds a manual like how to
+be an efficiency expert.
+
+314
+00:12:31,920 --> 00:12:34,110
+Starts reading that and then goes in knows
+
+315
+00:12:34,110 --> 00:12:36,520
+enough information to
+convince someone to give him
+
+316
+00:12:36,520 --> 00:12:37,570
+a job as an efficiency expert.
+
+317
+00:12:37,570 --> 00:12:40,170
+So as long as he stays a couple
+pages ahead of everyone else
+
+318
+00:12:40,170 --> 00:12:41,780
+he can get well paid.
+
+319
+00:12:41,780 --> 00:12:42,870
+Because it's a Pulp novel,
+
+320
+00:12:42,870 --> 00:12:46,730
+it eventually degrades
+into fights and romance
+
+321
+00:12:46,730 --> 00:12:50,551
+but the point here being
+that we can bluff it.
+
+322
+00:12:50,551 --> 00:12:52,650
+We can learn stuff on the fly
+
+323
+00:12:52,650 --> 00:12:54,000
+and go ahead and do it.
+
+324
+00:12:54,000 --> 00:12:55,990
+We don't necessarily need
+to know how to start,
+
+325
+00:12:55,990 --> 00:12:59,130
+common sense, a lot of
+stuff is common sense.
+
+326
+00:12:59,130 --> 00:13:00,730
+Now there are nuances that we will learn
+
+327
+00:13:00,730 --> 00:13:02,150
+over time and experience.
+
+328
+00:13:02,150 --> 00:13:05,338
+But we can start with something simple.
+
+329
+00:13:05,338 --> 00:13:07,310
+So I'm going to gonna go round the corner
+
+330
+00:13:07,310 --> 00:13:08,610
+and find a 2nd hand book shop
+
+331
+00:13:08,610 --> 00:13:11,042
+and find out what is software testing.
+
+332
+00:13:11,042 --> 00:13:11,875
+Now that's essentially what
+we're doing on the web.
+
+333
+00:13:13,630 --> 00:13:17,460
+So this is not the text from a web site,
+
+334
+00:13:17,460 --> 00:13:19,880
+it's a text that you
+might see on a web site
+
+335
+00:13:19,880 --> 00:13:23,760
+and it's representative
+of the kind of things
+
+336
+00:13:23,760 --> 00:13:25,120
+that people write about software testing.
+
+337
+00:13:25,120 --> 00:13:28,010
+So software testing is the
+process of executing a programme
+
+338
+00:13:28,010 --> 00:13:30,150
+or application with the
+intent of finding bugs
+
+339
+00:13:30,150 --> 00:13:31,480
+in the software.
+
+340
+00:13:31,480 --> 00:13:33,250
+It can also be described as the validation
+
+341
+00:13:33,250 --> 00:13:35,650
+and verification of a software
+programme or application
+
+342
+00:13:35,650 --> 00:13:37,400
+or product or system.
+
+343
+00:13:37,400 --> 00:13:39,470
+That's not quite as
+complicated as the definition
+
+344
+00:13:39,470 --> 00:13:40,630
+I came in.
+
+345
+00:13:40,630 --> 00:13:42,270
+But it's a lot of or's in there.
+
+346
+00:13:42,270 --> 00:13:43,900
+A lot of things we might be testing.
+
+347
+00:13:43,900 --> 00:13:47,433
+So if we simplify this,
+we're executing something
+
+348
+00:13:47,433 --> 00:13:50,210
+to try to find bugs and
+that can be described
+
+349
+00:13:50,210 --> 00:13:51,770
+as validation and verification.
+
+350
+00:13:51,770 --> 00:13:53,940
+Well they are big words,
+I don't know necessarily
+
+351
+00:13:53,940 --> 00:13:56,700
+know off hand what validation
+and verification is.
+
+352
+00:13:56,700 --> 00:13:58,200
+So I'm going to look that up.
+
+353
+00:13:58,200 --> 00:14:00,540
+So verification is the process
+of establishing the truth,
+
+354
+00:14:00,540 --> 00:14:02,430
+accuracy or validity of something.
+
+355
+00:14:02,430 --> 00:14:04,670
+Okay we can call this
+validation or verification.
+
+356
+00:14:04,670 --> 00:14:06,910
+And verification is
+related to the validation
+
+357
+00:14:06,910 --> 00:14:08,610
+of something okay?
+
+358
+00:14:08,610 --> 00:14:11,230
+So validation is the act
+of checking or proving
+
+359
+00:14:11,230 --> 00:14:12,510
+the validity of something...
+
+360
+00:14:12,510 --> 00:14:15,890
+So validation is validating something.
+
+361
+00:14:15,890 --> 00:14:18,130
+Definitions that are recursive like that
+
+362
+00:14:18,130 --> 00:14:20,070
+aren't particularly helpful.
+
+363
+00:14:20,070 --> 00:14:22,510
+So both of these seem to be quite similar,
+
+364
+00:14:22,510 --> 00:14:25,960
+they're self referential
+and they're about the truth
+
+365
+00:14:25,960 --> 00:14:28,426
+or accuracy or proving.
+
+366
+00:14:28,426 --> 00:14:30,240
+I'm not going to use those words right?
+
+367
+00:14:30,240 --> 00:14:32,050
+So I have to find things out,
+
+368
+00:14:32,050 --> 00:14:33,950
+this is pretty what this is telling me
+
+369
+00:14:33,950 --> 00:14:36,490
+I have do stuff to find things out.
+
+370
+00:14:36,490 --> 00:14:39,710
+And clearly there's someone
+makes a value judgement
+
+371
+00:14:39,710 --> 00:14:40,543
+on those things.
+
+372
+00:14:40,543 --> 00:14:41,376
+So that's what I'm doing.
+
+373
+00:14:41,376 --> 00:14:43,800
+So I'm gonna forget that
+but I'm gonna generalise.
+
+374
+00:14:43,800 --> 00:14:45,780
+So software testing is doing stuff
+
+375
+00:14:45,780 --> 00:14:48,797
+to something to find out
+stuff that I then tell people.
+
+376
+00:14:48,797 --> 00:14:51,550
+So stuff like bugs, what's wrong?
+
+377
+00:14:51,550 --> 00:14:52,383
+What's right?
+
+378
+00:14:52,383 --> 00:14:53,660
+'Cause we're trying to prove stuff,
+
+379
+00:14:53,660 --> 00:14:55,310
+that's what we got from
+the other definition.
+
+380
+00:14:55,310 --> 00:15:00,310
+But we have to be careful
+about certitudes and absolutes.
+
+381
+00:15:00,730 --> 00:15:02,500
+Find stuff that is wrong.
+
+382
+00:15:02,500 --> 00:15:03,960
+Find stuff that is right.
+
+383
+00:15:03,960 --> 00:15:07,950
+Software testing IS. Clearly
+if we've got multiple
+
+384
+00:15:07,950 --> 00:15:10,050
+definitions, software testing
+can be multiple things.
+
+385
+00:15:10,050 --> 00:15:12,057
+What we're working with are descriptions.
+
+386
+00:15:12,057 --> 00:15:16,700
+We have to be careful that
+we've described software testing
+
+387
+00:15:16,700 --> 00:15:19,260
+and not prescribed software testing.
+
+388
+00:15:19,260 --> 00:15:20,810
+'Cause if this is software testing
+
+389
+00:15:20,810 --> 00:15:22,153
+this is all that I can do.
+
+390
+00:15:23,140 --> 00:15:24,690
+I might need to go beyond that.
+
+391
+00:15:25,560 --> 00:15:26,427
+But there is too much theory in there
+
+392
+00:15:26,427 --> 00:15:28,760
+and we can talk about theory forever.
+
+393
+00:15:28,760 --> 00:15:30,300
+We actually got work to do.
+
+394
+00:15:30,300 --> 00:15:32,860
+And we got to try to do this
+work from first principles,
+
+395
+00:15:32,860 --> 00:15:34,497
+so let's figure that out.
+
+396
+00:15:35,830 --> 00:15:39,030
+So if I'm thinking what
+is software testing?
+
+397
+00:15:39,030 --> 00:15:42,082
+I could instead think, what did they mean
+
+398
+00:15:42,082 --> 00:15:43,540
+when they asked me this?
+
+399
+00:15:43,540 --> 00:15:44,770
+Because they've used words
+
+400
+00:15:44,770 --> 00:15:46,000
+and words are communication.
+
+401
+00:15:46,000 --> 00:15:47,770
+And communication is a relationship.
+
+402
+00:15:47,770 --> 00:15:49,559
+So what did they mean?
+
+403
+00:15:49,559 --> 00:15:52,210
+And given my basic knowledge,
+
+404
+00:15:52,210 --> 00:15:54,570
+I can reflect that back to
+people and look like I know
+
+405
+00:15:54,570 --> 00:15:55,440
+what I'm talking about.
+
+406
+00:15:55,440 --> 00:15:56,273
+So what you want me to do when you test?
+
+407
+00:15:56,273 --> 00:15:57,900
+You want me to find bugs?
+
+408
+00:15:57,900 --> 00:15:59,384
+You want me to verify this?
+
+409
+00:15:59,384 --> 00:16:00,650
+You want me to validate this?
+
+410
+00:16:00,650 --> 00:16:02,740
+How will I know it's a bug?
+
+411
+00:16:02,740 --> 00:16:06,420
+Is there anything specific
+you want me to test it for?
+
+412
+00:16:06,420 --> 00:16:08,600
+And what do you want to do
+with what I tell you right?
+
+413
+00:16:08,600 --> 00:16:10,983
+Things might change.
+
+414
+00:16:10,983 --> 00:16:14,450
+What is the end goal with
+this thing that I give you?
+
+415
+00:16:14,450 --> 00:16:16,190
+Is the testing the
+input to something else?
+
+416
+00:16:16,190 --> 00:16:18,280
+If so then I might be able
+to adapt and give you that.
+
+417
+00:16:18,280 --> 00:16:19,223
+What do you mean?
+
+418
+00:16:20,280 --> 00:16:23,240
+Alright, we're throwing
+this back at people.
+
+419
+00:16:23,240 --> 00:16:27,780
+So that's an important
+technique in the sense that
+
+420
+00:16:27,780 --> 00:16:30,230
+we're giving somebody else the
+responsibility for our job.
+
+421
+00:16:30,230 --> 00:16:32,480
+And if you do this enough times
+eventually people will just
+
+422
+00:16:32,480 --> 00:16:34,410
+go ahhh too many questions.
+
+423
+00:16:34,410 --> 00:16:36,920
+Alright so here is what
+I want you to do right?
+
+424
+00:16:36,920 --> 00:16:39,760
+I want you to focus on the
+create author function,
+
+425
+00:16:39,760 --> 00:16:42,220
+so we got a system that
+creates authors and books,
+
+426
+00:16:42,220 --> 00:16:43,880
+we're gonna focus on the
+create author function,
+
+427
+00:16:43,880 --> 00:16:46,610
+make sure it handles a
+range of input values.
+
+428
+00:16:46,610 --> 00:16:48,730
+Okay we're bluffing so,"What values?"
+
+429
+00:16:48,730 --> 00:16:50,624
+I don't know, good stuff,
+
+430
+00:16:50,624 --> 00:16:54,953
+No names, long names, bad
+names, names, stuff right?
+
+431
+00:16:56,364 --> 00:17:00,230
+Then we've got if it creates
+a user, we'll be fine right.
+
+432
+00:17:00,230 --> 00:17:03,223
+So we've done enough to just annoy them.
+
+433
+00:17:03,223 --> 00:17:05,860
+And we learned stakeholder
+management, if we were going
+
+434
+00:17:05,860 --> 00:17:06,693
+to put
+
+435
+00:17:06,693 --> 00:17:09,120
+The kind of words that we use
+to describe software testing
+
+436
+00:17:09,120 --> 00:17:09,953
+on what we just did,
+
+437
+00:17:09,953 --> 00:17:11,360
+we've learned stakeholder management.
+
+438
+00:17:11,360 --> 00:17:13,040
+Needs and requirement analysis.
+
+439
+00:17:13,040 --> 00:17:14,640
+Acceptance condition creation.
+
+440
+00:17:14,640 --> 00:17:16,440
+How will I know that this is correct?
+
+441
+00:17:16,440 --> 00:17:18,970
+Risk based testing,
+what do you care about?
+
+442
+00:17:18,970 --> 00:17:20,870
+What do you want us to focus on?
+
+443
+00:17:20,870 --> 00:17:24,070
+Test scope restriction, by
+using the risk, if I'm using
+
+444
+00:17:24,070 --> 00:17:27,540
+the functional scope that
+we've been given to define it.
+
+445
+00:17:27,540 --> 00:17:30,740
+We also learned that we can ask questions
+
+446
+00:17:30,740 --> 00:17:32,610
+and people will give us answers
+
+447
+00:17:32,610 --> 00:17:34,490
+and there's nothing wrong with that.
+
+448
+00:17:34,490 --> 00:17:37,820
+Ideally we want to know
+how to approach this
+
+449
+00:17:37,820 --> 00:17:40,236
+but under certain
+circumstances we're gonna know
+
+450
+00:17:40,236 --> 00:17:43,370
+tactics, techniques. But
+they're gonna know the scope
+
+451
+00:17:43,370 --> 00:17:44,433
+so we can ask them.
+
+452
+00:17:45,440 --> 00:17:46,980
+But I didn't ask,
+
+453
+00:17:46,980 --> 00:17:48,680
+why do you want me to do this?
+
+454
+00:17:48,680 --> 00:17:52,467
+So why didn't I ask, Why do
+you want me to test this?
+
+455
+00:17:52,467 --> 00:17:53,980
+That's a rhetorical question.
+
+456
+00:17:53,980 --> 00:17:56,027
+It's partly rhetorical question
+because this a recording
+
+457
+00:17:56,027 --> 00:17:58,310
+and you cannot answer me back.
+
+458
+00:17:58,310 --> 00:18:03,160
+But as soon as I say why do
+you want me to test this?
+
+459
+00:18:03,160 --> 00:18:05,127
+If you think about that
+and you try to answer it,
+
+460
+00:18:05,127 --> 00:18:06,580
+you're gonna come up with some answers.
+
+461
+00:18:06,580 --> 00:18:08,490
+But the reality is you don't know.
+
+462
+00:18:08,490 --> 00:18:11,490
+You don't know why I didn't ask that.
+
+463
+00:18:11,490 --> 00:18:13,390
+You don't know , you could guess.
+
+464
+00:18:13,390 --> 00:18:17,030
+You're building a model from nothing.
+
+465
+00:18:17,030 --> 00:18:18,250
+You making up assumptions
+
+466
+00:18:18,250 --> 00:18:20,040
+and you're working from your beliefs
+
+467
+00:18:20,040 --> 00:18:22,510
+and that's why I didn't ask why?
+
+468
+00:18:22,510 --> 00:18:24,270
+Why? is a belief chain question.
+
+469
+00:18:24,270 --> 00:18:26,003
+If I ask why do you want me to test this,
+
+470
+00:18:26,003 --> 00:18:29,060
+it's a chain of beliefs around testing.
+
+471
+00:18:29,060 --> 00:18:30,620
+Their relationship to testing.
+
+472
+00:18:30,620 --> 00:18:32,670
+Their relationship to me with testing.
+
+473
+00:18:32,670 --> 00:18:34,180
+It's a belief chain,
+
+474
+00:18:34,180 --> 00:18:35,910
+I'm not necessarily getting the scope.
+
+475
+00:18:35,910 --> 00:18:38,773
+I don't know how they're
+going to answer that.
+
+476
+00:18:39,630 --> 00:18:40,740
+Alright, why do you want me to test this?
+
+477
+00:18:40,740 --> 00:18:41,629
+Because it's your job.
+
+478
+00:18:41,629 --> 00:18:43,300
+Because I don't want to test it.
+
+479
+00:18:43,300 --> 00:18:44,370
+Because testing sucks.
+
+480
+00:18:44,370 --> 00:18:45,658
+Because I want proof that it works right?
+
+481
+00:18:45,658 --> 00:18:48,360
+I don't know how they're
+gonna interpret that question.
+
+482
+00:18:48,360 --> 00:18:50,890
+Because it's your job
+that's their interpretation
+
+483
+00:18:50,890 --> 00:18:52,920
+in terms of relationship between me.
+
+484
+00:18:52,920 --> 00:18:54,920
+Because I don't want to test
+it they're interpreting it
+
+485
+00:18:54,920 --> 00:18:57,580
+between their relationship and them.
+
+486
+00:18:57,580 --> 00:18:58,760
+Because testing sucks,
+
+487
+00:18:58,760 --> 00:19:01,553
+their relationship between
+the concept of testing.
+
+488
+00:19:01,553 --> 00:19:03,030
+I want proof that works,
+
+489
+00:19:03,030 --> 00:19:05,640
+their relationship of
+what they are going to do
+
+490
+00:19:05,640 --> 00:19:07,680
+with this information right?
+
+491
+00:19:07,680 --> 00:19:08,853
+I don't want the user
+to find any problems,
+
+492
+00:19:08,853 --> 00:19:11,620
+their relationship of what is
+going to happen in the future.
+
+493
+00:19:11,620 --> 00:19:14,033
+Each of these could be a how? or what?
+
+494
+00:19:14,033 --> 00:19:16,430
+when? or who? question.
+
+495
+00:19:16,430 --> 00:19:19,180
+If I ask why, they have to interpret it.
+
+496
+00:19:19,180 --> 00:19:21,220
+And sometimes they will
+interpret based on beliefs.
+
+497
+00:19:21,220 --> 00:19:23,790
+And if it's beliefs, it can be a chain.
+
+498
+00:19:23,790 --> 00:19:27,550
+Now this might be useful 'cause
+we could find the dynamics,
+
+499
+00:19:27,550 --> 00:19:29,390
+we can find out the power structures,
+
+500
+00:19:29,390 --> 00:19:31,970
+we can find out what
+we need to teach people
+
+501
+00:19:31,970 --> 00:19:33,660
+if they misunderstanding things.
+
+502
+00:19:33,660 --> 00:19:36,570
+We don't have the same
+understanding of certain concepts
+
+503
+00:19:36,570 --> 00:19:39,120
+that can come across when
+we ask Why? questions.
+
+504
+00:19:39,120 --> 00:19:41,810
+We might even be able to
+adopt different view points
+
+505
+00:19:41,810 --> 00:19:43,100
+to test in a different way,
+
+506
+00:19:43,100 --> 00:19:45,440
+all this can be useful.
+
+507
+00:19:45,440 --> 00:19:49,210
+But it might lead to a chain.
+
+508
+00:19:49,210 --> 00:19:54,210
+Why do you want me to test this?
+
+509
+00:19:54,500 --> 00:19:55,907
+Because it's your job.
+
+510
+00:19:55,907 --> 00:19:57,423
+Why is it my job?
+
+511
+00:19:58,760 --> 00:20:00,600
+Well because that's what we pay for?
+
+512
+00:20:00,600 --> 00:20:02,270
+Why do you pay me for this?
+
+513
+00:20:02,270 --> 00:20:03,280
+That's a good question,
+
+514
+00:20:03,280 --> 00:20:04,290
+'cause if you don't know what you're doing
+
+515
+00:20:04,290 --> 00:20:05,130
+perhaps we shouldn't,
+
+516
+00:20:05,130 --> 00:20:07,330
+perhaps we should find
+someone even cheaper right?
+
+517
+00:20:07,330 --> 00:20:08,430
+You get into a belief chain
+
+518
+00:20:08,430 --> 00:20:11,350
+and your distancing
+yourself from where that is.
+
+519
+00:20:11,350 --> 00:20:12,183
+Why you want me to test this?
+
+520
+00:20:12,183 --> 00:20:13,520
+'Cause I don't wanna test this.
+
+521
+00:20:13,520 --> 00:20:14,940
+Why you don't wanna test this?
+
+522
+00:20:14,940 --> 00:20:16,440
+I don't care why they don't want test it,
+
+523
+00:20:16,440 --> 00:20:18,130
+it's irrelevant to what we're doing.
+
+524
+00:20:18,130 --> 00:20:20,450
+But it's a belief chain process.
+
+525
+00:20:20,450 --> 00:20:22,147
+Five Whys is a belief chain process
+
+526
+00:20:22,147 --> 00:20:25,760
+and sometime it's more
+effective to figure out
+
+527
+00:20:25,760 --> 00:20:28,320
+the path of questioning that we want.
+
+528
+00:20:28,320 --> 00:20:30,600
+And sometimes when we're
+dealing with beliefs
+
+529
+00:20:30,600 --> 00:20:31,990
+you can get into conflict.
+
+530
+00:20:31,990 --> 00:20:33,790
+Because people take Why as a challenge,
+
+531
+00:20:33,790 --> 00:20:36,940
+if your challenge their beliefs
+people try to defend them.
+
+532
+00:20:36,940 --> 00:20:39,870
+So I care about what they
+believe but I care less
+
+533
+00:20:39,870 --> 00:20:42,900
+about what they believe
+than more about their needs.
+
+534
+00:20:42,900 --> 00:20:43,899
+I wanna know what their needs are.
+
+535
+00:20:43,899 --> 00:20:45,360
+How their needs are?
+
+536
+00:20:45,360 --> 00:20:46,320
+When their needs are?
+
+537
+00:20:46,320 --> 00:20:47,153
+Where their needs are?
+
+538
+00:20:47,153 --> 00:20:49,993
+I can't do any imagineedfustication unless
+
+539
+00:20:49,993 --> 00:20:51,350
+I know about their needs.
+
+540
+00:20:51,350 --> 00:20:52,690
+So unless I know when they need them?
+
+541
+00:20:52,690 --> 00:20:53,660
+Unless I know what they need?
+
+542
+00:20:53,660 --> 00:20:54,930
+How they're gonna do that?
+
+543
+00:20:54,930 --> 00:20:56,680
+'Cause I'm an imagineedfusticator.
+
+544
+00:20:56,680 --> 00:20:58,363
+That's what I want to do.
+
+545
+00:20:59,510 --> 00:21:00,490
+So what do I do next?
+
+546
+00:21:00,490 --> 00:21:03,960
+Here's the application, go
+back to the practicalities.
+
+547
+00:21:03,960 --> 00:21:05,010
+I need to create an author.
+
+548
+00:21:05,010 --> 00:21:06,750
+There's the dialogue
+it says create author,
+
+549
+00:21:06,750 --> 00:21:08,380
+type in the author name
+and hit the create button
+
+550
+00:21:08,380 --> 00:21:10,320
+and it creates an author.
+
+551
+00:21:10,320 --> 00:21:12,341
+So I'm going to plan it out a bit right?
+
+552
+00:21:12,341 --> 00:21:14,672
+So now I need no name now,
+
+553
+00:21:14,672 --> 00:21:16,170
+I just hit the button.
+
+554
+00:21:16,170 --> 00:21:17,120
+I need a good name.
+
+555
+00:21:17,120 --> 00:21:19,830
+Uh Bob the author seems like a good name,
+
+556
+00:21:19,830 --> 00:21:21,000
+there's probably better names.
+
+557
+00:21:21,000 --> 00:21:22,320
+I can pick real authors,
+
+558
+00:21:22,320 --> 00:21:23,400
+I can use their names.
+
+559
+00:21:23,400 --> 00:21:26,720
+And bad names, Mr. 123 no one has 123.
+
+560
+00:21:26,720 --> 00:21:28,775
+What's a bad name really?
+
+561
+00:21:28,775 --> 00:21:32,670
+Whose defining bad? Is
+it in terms of naming?
+
+562
+00:21:32,670 --> 00:21:35,810
+Is it cultures, is it... I don't know?
+
+563
+00:21:35,810 --> 00:21:38,020
+What is appropriate in the system,
+
+564
+00:21:38,020 --> 00:21:40,860
+I don't know, bad is too non-specific.
+
+565
+00:21:40,860 --> 00:21:41,910
+I don't know how to do that.
+
+566
+00:21:41,910 --> 00:21:44,210
+But I'm gonna stick
+with 123 at the moment.
+
+567
+00:21:44,210 --> 00:21:45,043
+So I hit the button
+
+568
+00:21:45,043 --> 00:21:47,070
+and it says please fill in this field.
+
+569
+00:21:47,070 --> 00:21:48,920
+So I can see that there is some validation
+
+570
+00:21:48,920 --> 00:21:50,320
+when I just hit save.
+
+571
+00:21:50,320 --> 00:21:51,330
+What are the rules?
+
+572
+00:21:51,330 --> 00:21:52,460
+I should check those right?
+
+573
+00:21:52,460 --> 00:21:53,890
+This is something I need to make a note of
+
+574
+00:21:53,890 --> 00:21:55,040
+and do later on.
+
+575
+00:21:55,040 --> 00:21:57,830
+'cause I've done my data value
+
+576
+00:21:57,830 --> 00:21:59,617
+but I don't know whether
+that's good enough.
+
+577
+00:21:59,617 --> 00:22:02,729
+So I got questions I need to follow up on.
+
+578
+00:22:02,729 --> 00:22:05,427
+So when I do the good
+name and create an author
+
+579
+00:22:05,427 --> 00:22:07,090
+and I say Bob the author,
+
+580
+00:22:07,090 --> 00:22:09,820
+it says we've added author Bob the author.
+
+581
+00:22:09,820 --> 00:22:10,653
+Great!
+
+582
+00:22:10,653 --> 00:22:13,150
+So my work is done or is it?
+
+583
+00:22:13,150 --> 00:22:15,160
+I mean isn't that is
+what is suppose to do?
+
+584
+00:22:15,160 --> 00:22:17,470
+How, no one told me what it suppose to do.
+
+585
+00:22:17,470 --> 00:22:19,290
+I'm assuming that's what it suppose to do.
+
+586
+00:22:19,290 --> 00:22:21,130
+How do I know its the correct message,
+
+587
+00:22:21,130 --> 00:22:22,870
+added author Bob the author.
+
+588
+00:22:22,870 --> 00:22:24,730
+Is that correct?
+
+589
+00:22:24,730 --> 00:22:26,070
+I don't know.
+
+590
+00:22:26,070 --> 00:22:27,190
+Do I just decide this?
+
+591
+00:22:27,190 --> 00:22:28,780
+Is there some reference I can use?
+
+592
+00:22:28,780 --> 00:22:31,050
+And then I'm looking
+and going wait a minute,
+
+593
+00:22:31,050 --> 00:22:32,600
+is that consistent?
+
+594
+00:22:32,600 --> 00:22:34,140
+'Cause it says create author
+
+595
+00:22:34,140 --> 00:22:35,880
+and I hit the create button.
+
+596
+00:22:35,880 --> 00:22:37,530
+And then it says we've added it.
+
+597
+00:22:37,530 --> 00:22:39,410
+Should it say created?
+
+598
+00:22:39,410 --> 00:22:40,910
+If it's added, where's added it?
+
+599
+00:22:40,910 --> 00:22:42,430
+What has it added it too?
+
+600
+00:22:42,430 --> 00:22:46,620
+Oh so many questions and we're
+building up a model here.
+
+601
+00:22:46,620 --> 00:22:48,970
+Now what we've discovered to put it in
+
+602
+00:22:48,970 --> 00:22:52,530
+software testing terms
+is the need for an oracle
+
+603
+00:22:52,530 --> 00:22:55,430
+a standard reference
+something to guide us.
+
+604
+00:22:55,430 --> 00:22:58,780
+Conformance to some standard
+requirements testing,
+
+605
+00:22:58,780 --> 00:23:00,650
+acceptance condition validation,
+
+606
+00:23:00,650 --> 00:23:02,330
+these are all valid things.
+
+607
+00:23:02,330 --> 00:23:05,140
+But we've also discovered exploration.
+
+608
+00:23:05,140 --> 00:23:06,210
+We came up with some ideas,
+
+609
+00:23:06,210 --> 00:23:07,070
+we tried them.
+
+610
+00:23:07,070 --> 00:23:08,530
+Our model got expanded,
+
+611
+00:23:08,530 --> 00:23:11,010
+we then have to revisit the plan
+
+612
+00:23:11,010 --> 00:23:12,460
+plan for more things.
+
+613
+00:23:12,460 --> 00:23:15,230
+And I don't think I got
+enough bad stuff there,
+
+614
+00:23:15,230 --> 00:23:17,210
+I've haven't done bad stuff
+yet, I've done good stuff.
+
+615
+00:23:17,210 --> 00:23:18,068
+Is it good enough?
+
+616
+00:23:18,068 --> 00:23:21,030
+Revisiting, we're learning as we go.
+
+617
+00:23:21,030 --> 00:23:22,557
+We also created a heuristic.
+
+618
+00:23:22,557 --> 00:23:24,440
+Look at us, how advanced are we.
+
+619
+00:23:24,440 --> 00:23:28,127
+Not only did we not start with 1970's,
+
+620
+00:23:28,127 --> 00:23:29,860
+1980's scripted testing.
+
+621
+00:23:29,860 --> 00:23:33,160
+We're way in the current forefront
+
+622
+00:23:33,160 --> 00:23:34,330
+of software testing knowledge,
+
+623
+00:23:34,330 --> 00:23:37,370
+we came up with a heuristic,
+the consistency heuristic.
+
+624
+00:23:37,370 --> 00:23:39,710
+Is this application
+consistent with itself?
+
+625
+00:23:39,710 --> 00:23:41,668
+Is this application
+consistent with other things?
+
+626
+00:23:41,668 --> 00:23:46,668
+The oracles, we are so cutting
+edge when we're doing this.
+
+627
+00:23:47,150 --> 00:23:49,880
+But then I'm thinking,
+well how do I tell people
+
+628
+00:23:49,880 --> 00:23:50,713
+what I've done?
+
+629
+00:23:50,713 --> 00:23:51,740
+I have to report back.
+
+630
+00:23:51,740 --> 00:23:55,280
+So I really better keep some
+notes that will help me.
+
+631
+00:23:55,280 --> 00:23:57,850
+So I'm gonna start writing
+down the questions,
+
+632
+00:23:57,850 --> 00:24:00,840
+what things I want to
+test, what I need to know.
+
+633
+00:24:00,840 --> 00:24:03,010
+How I'm going to track all this?
+
+634
+00:24:03,010 --> 00:24:05,820
+I don't actually know
+how people gonna do that.
+
+635
+00:24:05,820 --> 00:24:07,284
+So I'm gonna make it up.
+
+636
+00:24:07,284 --> 00:24:08,117
+I'm just gonna start making notes.
+
+637
+00:24:08,117 --> 00:24:10,060
+I'll put them in Evernote,
+I'll create a list.
+
+638
+00:24:10,060 --> 00:24:11,500
+I'll do something
+
+639
+00:24:11,500 --> 00:24:14,650
+and I'll figure out
+whether that's good enough.
+
+640
+00:24:14,650 --> 00:24:16,540
+How other people do this?
+
+641
+00:24:16,540 --> 00:24:19,160
+But we just discovered to
+put it in testing terms,
+
+642
+00:24:19,160 --> 00:24:20,440
+exploratory testing.
+
+643
+00:24:20,440 --> 00:24:21,860
+The notion of: come up with an idea,
+
+644
+00:24:21,860 --> 00:24:22,693
+doing something,
+
+645
+00:24:22,693 --> 00:24:23,690
+learning from it,
+
+646
+00:24:23,690 --> 00:24:24,950
+planning something else.
+
+647
+00:24:24,950 --> 00:24:26,160
+Planning, test planning.
+
+648
+00:24:26,160 --> 00:24:28,500
+We're building out a test
+plan for what we're gonna do
+
+649
+00:24:28,500 --> 00:24:29,333
+what we're gonna cover?
+
+650
+00:24:29,333 --> 00:24:30,580
+Why we're gonna do that?
+
+651
+00:24:30,580 --> 00:24:33,050
+What needs are we gonna
+meet as we do them?
+
+652
+00:24:33,050 --> 00:24:34,090
+What tools do we need?
+
+653
+00:24:34,090 --> 00:24:36,585
+What tools do I need in order
+to help me do this work?
+
+654
+00:24:36,585 --> 00:24:37,890
+I'm in a browser?
+
+655
+00:24:37,890 --> 00:24:40,300
+I need a tool to make notes.
+
+656
+00:24:40,300 --> 00:24:42,700
+We're thinking about reporting our work,
+
+657
+00:24:42,700 --> 00:24:44,410
+don't know quite how
+we're gonna do that yet
+
+658
+00:24:44,410 --> 00:24:46,929
+but we'll adjust it and refine over time.
+
+659
+00:24:46,929 --> 00:24:49,970
+Now the application said
+the author was added,
+
+660
+00:24:49,970 --> 00:24:51,620
+but did it?
+
+661
+00:24:51,620 --> 00:24:54,000
+Now how can I see that?
+
+662
+00:24:54,000 --> 00:24:55,630
+I need to be able to see that.
+
+663
+00:24:55,630 --> 00:24:57,330
+I need to be able to
+interrogate the system
+
+664
+00:24:57,330 --> 00:25:00,540
+to see that its done what it said it did.
+
+665
+00:25:00,540 --> 00:25:01,910
+So I'm gonna look in the list of authors
+
+666
+00:25:01,910 --> 00:25:03,260
+and it says it's there.
+
+667
+00:25:03,260 --> 00:25:04,750
+But can I trust that?
+
+668
+00:25:04,750 --> 00:25:05,590
+Is that good enough?
+
+669
+00:25:05,590 --> 00:25:07,470
+Now I can see that there's
+more functionality.
+
+670
+00:25:07,470 --> 00:25:08,850
+I can amend authors,
+
+671
+00:25:08,850 --> 00:25:10,640
+I assume that x is a deletion.
+
+672
+00:25:10,640 --> 00:25:11,710
+I can do stuff,
+
+673
+00:25:11,710 --> 00:25:12,840
+ones a link, ones a button.
+
+674
+00:25:12,840 --> 00:25:14,010
+What's going on... is that OK?
+
+675
+00:25:14,010 --> 00:25:14,850
+I don't know!
+
+676
+00:25:14,850 --> 00:25:16,290
+But I'm learning more stuff.
+
+677
+00:25:16,290 --> 00:25:19,628
+I'm using the application to test itself,
+
+678
+00:25:19,628 --> 00:25:21,580
+but I don't know if I can trust that.
+
+679
+00:25:21,580 --> 00:25:24,570
+I'm not observing at a low enough level.
+
+680
+00:25:24,570 --> 00:25:25,800
+I don't know how the data is stored.
+
+681
+00:25:25,800 --> 00:25:27,880
+I don't know exactly what data is stored.
+
+682
+00:25:27,880 --> 00:25:28,770
+I don't know when it stored?
+
+683
+00:25:28,770 --> 00:25:29,603
+Where it stored?
+
+684
+00:25:29,603 --> 00:25:31,169
+I don't know how I can
+see this stored data.
+
+685
+00:25:31,169 --> 00:25:33,850
+Now all of this is simple questioning
+
+686
+00:25:33,850 --> 00:25:35,773
+but it's based around me,
+
+687
+00:25:35,773 --> 00:25:38,410
+I need the feedback
+that things are working.
+
+688
+00:25:38,410 --> 00:25:40,530
+I need the ability to check that things
+
+689
+00:25:40,530 --> 00:25:42,010
+are happening the way they expect.
+
+690
+00:25:42,010 --> 00:25:43,920
+I need the ability to manipulate it
+
+691
+00:25:43,920 --> 00:25:45,423
+and look at it more detail.
+
+692
+00:25:46,580 --> 00:25:48,810
+So we've actually just
+discovered an important
+
+693
+00:25:48,810 --> 00:25:51,330
+characteristic about
+testing which is doubt.
+
+694
+00:25:51,330 --> 00:25:52,520
+How do I know?
+
+695
+00:25:52,520 --> 00:25:55,010
+I haven't got the
+evidence to back this up.
+
+696
+00:25:55,010 --> 00:25:56,620
+So I doubt what I'm seeing.
+
+697
+00:25:56,620 --> 00:25:58,781
+I need to go in in more detail.
+
+698
+00:25:58,781 --> 00:26:00,620
+But I need to figure out a level
+
+699
+00:26:00,620 --> 00:26:02,403
+at which to stop for that.
+
+700
+00:26:03,240 --> 00:26:05,440
+And the fundamental testing technique
+
+701
+00:26:05,440 --> 00:26:08,730
+that's coming across here
+is the art of questioning.
+
+702
+00:26:08,730 --> 00:26:13,473
+Asking appropriate questions
+to get the information we need.
+
+703
+00:26:13,473 --> 00:26:18,140
+I also discovered essentially
+some graph based testing.
+
+704
+00:26:18,140 --> 00:26:19,580
+I created a thing,
+
+705
+00:26:19,580 --> 00:26:22,390
+I looked in the application
+to see the information
+
+706
+00:26:22,390 --> 00:26:24,140
+so I got create/read flow.
+
+707
+00:26:24,140 --> 00:26:26,880
+I'm starting to do create,
+read, update, delete
+
+708
+00:26:26,880 --> 00:26:29,120
+'cause I saw the amend, I saw the delete.
+
+709
+00:26:29,120 --> 00:26:31,840
+I've got a concept, a
+model here that I can apply
+
+710
+00:26:31,840 --> 00:26:35,363
+to testing to guide me with my coverage.
+
+711
+00:26:36,620 --> 00:26:38,530
+So we ask these questions
+and someone answers it
+
+712
+00:26:38,530 --> 00:26:41,850
+and then right our model
+just explodes right?
+
+713
+00:26:41,850 --> 00:26:44,910
+Because the validation
+rules are controlled by HTML
+
+714
+00:26:44,910 --> 00:26:47,620
+using HTML5 using the required
+and pattern attributes.
+
+715
+00:26:47,620 --> 00:26:50,120
+When the create button is
+pressed an HTTP POST request
+
+716
+00:26:50,120 --> 00:26:52,350
+the server, ahhh so much stuff.
+
+717
+00:26:52,350 --> 00:26:55,780
+Now some of you are gonna
+read that and understand it.
+
+718
+00:26:55,780 --> 00:26:57,770
+Some of you are gonna read that and go
+
+719
+00:26:57,770 --> 00:26:59,240
+I don't understand that technology.
+
+720
+00:26:59,240 --> 00:27:02,530
+So in order to really
+understand this and test it,
+
+721
+00:27:02,530 --> 00:27:05,040
+we might have to look up this technology.
+
+722
+00:27:05,040 --> 00:27:06,924
+We might have to understand that.
+
+723
+00:27:06,924 --> 00:27:09,530
+But they can see that we're
+confused so they create
+
+724
+00:27:09,530 --> 00:27:11,610
+a diagram to help us and
+they walk it through.
+
+725
+00:27:11,610 --> 00:27:13,900
+Now we got visual representation,
+
+726
+00:27:13,900 --> 00:27:15,640
+I can see paths there.
+
+727
+00:27:15,640 --> 00:27:19,040
+I can see there's a server involved.
+
+728
+00:27:19,040 --> 00:27:21,370
+I need to put things
+through into the server
+
+729
+00:27:21,370 --> 00:27:24,480
+and that sometimes the
+server will do validation.
+
+730
+00:27:24,480 --> 00:27:26,860
+But I got stuff I need to learn now
+
+731
+00:27:26,860 --> 00:27:29,010
+'cause we are continually
+expanding our model
+
+732
+00:27:29,010 --> 00:27:29,843
+and that's good.
+
+733
+00:27:29,843 --> 00:27:31,010
+We expect this.
+
+734
+00:27:31,010 --> 00:27:33,150
+But it's constant learning.
+
+735
+00:27:33,150 --> 00:27:34,890
+So I know the concept of HTML,
+
+736
+00:27:34,890 --> 00:27:36,040
+how do I see that?
+
+737
+00:27:36,040 --> 00:27:37,653
+So you show me the Dev tools.
+
+738
+00:27:37,653 --> 00:27:41,030
+And then not just I see concept of HTML,
+
+739
+00:27:41,030 --> 00:27:42,750
+I can see these attributes
+
+740
+00:27:42,750 --> 00:27:46,880
+but I can see there's
+elements H2, DIV I mean
+
+741
+00:27:46,880 --> 00:27:50,460
+I can kinda map them up and
+make guesses H2 is bigger
+
+742
+00:27:50,460 --> 00:27:54,930
+than a form which is bigger
+than just normal text.
+
+743
+00:27:54,930 --> 00:27:57,110
+But I'm kinda drawing conclusions,
+
+744
+00:27:57,110 --> 00:27:58,280
+I need to do more research.
+
+745
+00:27:58,280 --> 00:28:00,587
+But it's interesting that I can see it.
+
+746
+00:28:00,587 --> 00:28:01,420
+Oh my God!
+
+747
+00:28:01,420 --> 00:28:02,870
+Right, I can change it to.
+
+748
+00:28:02,870 --> 00:28:05,450
+I can edit and delete
+that required attribute
+
+749
+00:28:05,450 --> 00:28:06,370
+I'm changing the system.
+
+750
+00:28:06,370 --> 00:28:07,610
+Am I hacking?
+
+751
+00:28:07,610 --> 00:28:08,680
+What is happening?
+
+752
+00:28:08,680 --> 00:28:11,810
+How far can I go with
+this so I can change it?
+
+753
+00:28:11,810 --> 00:28:14,680
+So if I know the validation is done by
+
+754
+00:28:14,680 --> 00:28:15,530
+the required attribute and I delete it.
+
+755
+00:28:15,530 --> 00:28:17,460
+What if there's no validation?
+
+756
+00:28:17,460 --> 00:28:19,040
+I got rid of the validation.
+
+757
+00:28:19,040 --> 00:28:21,585
+So when I hit enter it says,
+
+758
+00:28:21,585 --> 00:28:24,050
+could not find the name to add.
+
+759
+00:28:24,050 --> 00:28:26,410
+So I know that there is
+server side validation now.
+
+760
+00:28:26,410 --> 00:28:28,530
+But now I have to test
+the server side validation
+
+761
+00:28:28,530 --> 00:28:30,230
+and the front end validation.
+
+762
+00:28:30,230 --> 00:28:33,010
+It's gonna take me quite a
+lot of time to amend the form
+
+763
+00:28:33,010 --> 00:28:36,090
+every time I come in and I want
+to do server side validation
+
+764
+00:28:36,090 --> 00:28:39,030
+so that we can test the
+HTTP level then right?
+
+765
+00:28:39,030 --> 00:28:41,290
+'Cause HTTP traffic is sent,
+that's what they're telling me,
+
+766
+00:28:41,290 --> 00:28:42,740
+I don't know this.
+
+767
+00:28:42,740 --> 00:28:44,330
+I've just made a statement,
+it's good enough,
+
+768
+00:28:44,330 --> 00:28:45,400
+I have a problem,
+
+769
+00:28:45,400 --> 00:28:47,980
+and then somebody is explaining
+things in more detail.
+
+770
+00:28:47,980 --> 00:28:50,230
+So they tell me about HTTP Debug Proxy
+
+771
+00:28:50,230 --> 00:28:52,630
+where I do something on the front end,
+
+772
+00:28:52,630 --> 00:28:54,460
+the message get sent through a proxy.
+
+773
+00:28:54,460 --> 00:28:55,850
+But now I can work at a proxy level,
+
+774
+00:28:55,850 --> 00:28:57,410
+I can work at the HTTP level,
+
+775
+00:28:57,410 --> 00:28:59,210
+this is a whole new world.
+
+776
+00:28:59,210 --> 00:29:01,060
+There's a whole new set
+of information in there
+
+777
+00:29:01,060 --> 00:29:03,330
+that I have to learn my
+world is just expanding.
+
+778
+00:29:03,330 --> 00:29:06,190
+And getting ever more technical
+
+779
+00:29:06,190 --> 00:29:10,180
+but it's getting technical
+because I need to do it
+
+780
+00:29:10,180 --> 00:29:12,480
+in order to solve certain problems
+
+781
+00:29:12,480 --> 00:29:14,730
+with the work that I'm trying to do.
+
+782
+00:29:14,730 --> 00:29:19,323
+I'm trying to test more
+easily and I can do that here.
+
+783
+00:29:20,620 --> 00:29:22,730
+So I ask questions like
+how does this work?
+
+784
+00:29:22,730 --> 00:29:23,563
+What does this do?
+
+785
+00:29:23,563 --> 00:29:24,396
+How can I see that?
+
+786
+00:29:24,396 --> 00:29:25,537
+How can I make that happen?
+
+787
+00:29:25,537 --> 00:29:27,600
+What should it do?
+
+788
+00:29:27,600 --> 00:29:28,930
+I didn't ask any why? questions,
+
+789
+00:29:28,930 --> 00:29:31,130
+these are very specific questions
+
+790
+00:29:31,130 --> 00:29:34,350
+which got me very specific answers.
+
+791
+00:29:34,350 --> 00:29:36,159
+How? When? Where?
+
+792
+00:29:36,159 --> 00:29:38,431
+That is what is important
+and knowing how to ask those
+
+793
+00:29:38,431 --> 00:29:42,640
+questions to drill down
+gets us places faster.
+
+794
+00:29:42,640 --> 00:29:44,540
+Why? might get me there.
+
+795
+00:29:44,540 --> 00:29:47,010
+But it might be a twist and turn
+
+796
+00:29:47,010 --> 00:29:50,066
+and I might ask different people
+and get different answers.
+
+797
+00:29:50,066 --> 00:29:52,590
+Now, the interesting thing for me is,
+
+798
+00:29:52,590 --> 00:29:54,290
+this doesn't seem that hard right?
+
+799
+00:29:54,290 --> 00:29:56,590
+We're asking questions
+
+800
+00:29:56,590 --> 00:29:58,430
+but for some people this
+is a hard thing to do
+
+801
+00:29:58,430 --> 00:30:00,380
+because people don't like to be seen as
+
+802
+00:30:00,380 --> 00:30:02,197
+not knowing something, possibly.
+
+803
+00:30:02,197 --> 00:30:04,330
+And I say why people find this tough,
+
+804
+00:30:04,330 --> 00:30:05,163
+I don't know,
+
+805
+00:30:05,163 --> 00:30:05,996
+I'm making this up.
+
+806
+00:30:05,996 --> 00:30:08,148
+My beliefs about why other
+people find this hard are
+
+807
+00:30:08,148 --> 00:30:12,200
+you're reasons why this is hard
+for you might be different.
+
+808
+00:30:12,200 --> 00:30:14,270
+You're beliefs about other
+people find this hard
+
+809
+00:30:14,270 --> 00:30:16,795
+might be different this
+is what I'm assuming.
+
+810
+00:30:16,795 --> 00:30:19,640
+It seems as though when I look online
+
+811
+00:30:19,640 --> 00:30:22,460
+people don't like to say I don't know.
+
+812
+00:30:22,460 --> 00:30:23,630
+They don't like to say that.
+
+813
+00:30:23,630 --> 00:30:25,130
+I don't know why right?
+
+814
+00:30:25,130 --> 00:30:27,260
+People don't get in the
+habit of saying I don't know,
+
+815
+00:30:27,260 --> 00:30:28,800
+they bluff it out.
+
+816
+00:30:28,800 --> 00:30:30,470
+Maybe they're concerned that their beliefs
+
+817
+00:30:30,470 --> 00:30:32,890
+don't go far enough and they
+don't want to be exposed.
+
+818
+00:30:32,890 --> 00:30:37,012
+Or maybe their belief is not
+set on any rock foundation
+
+819
+00:30:37,012 --> 00:30:39,860
+and if someone quizzes it, it collapses
+
+820
+00:30:39,860 --> 00:30:42,360
+and it got void and that's
+bad so they don't know.
+
+821
+00:30:43,350 --> 00:30:45,530
+So what I'm thinking in terms of it,
+
+822
+00:30:45,530 --> 00:30:47,960
+what could these things be? right?
+
+823
+00:30:47,960 --> 00:30:50,140
+Where is questioning is involved right?
+
+824
+00:30:50,140 --> 00:30:52,602
+We got notions of scientist,
+skeptics, believers
+
+825
+00:30:52,602 --> 00:30:54,160
+and seekers.
+
+826
+00:30:54,160 --> 00:30:57,213
+Scientist, I'm gonna give you
+my interpretation of this,
+
+827
+00:30:57,213 --> 00:30:59,230
+they not necessarily
+dictionary definitions.
+
+828
+00:30:59,230 --> 00:31:02,920
+But scientists for me is
+someone who is working from
+
+829
+00:31:02,920 --> 00:31:06,990
+a belief model of the world
+that's backed up by evidence
+
+830
+00:31:06,990 --> 00:31:09,850
+that's reinforced by other
+evidence from other scientist.
+
+831
+00:31:09,850 --> 00:31:11,780
+And there's an agreed model of the world
+
+832
+00:31:11,780 --> 00:31:13,500
+that people work with.
+
+833
+00:31:13,500 --> 00:31:17,130
+Scientist tends to explore
+that or just edge slightly
+
+834
+00:31:17,130 --> 00:31:18,746
+outside that belief model
+
+835
+00:31:18,746 --> 00:31:22,110
+but pretty much they're exploring
+an existing belief model
+
+836
+00:31:22,110 --> 00:31:24,111
+and trying to expand it
+and check that it continues
+
+837
+00:31:24,111 --> 00:31:27,860
+to hold up under close scrutiny.
+
+838
+00:31:27,860 --> 00:31:29,820
+To really go deep into it.
+
+839
+00:31:29,820 --> 00:31:32,470
+To build the best and most
+accurate model they can
+
+840
+00:31:32,470 --> 00:31:33,647
+of the world.
+
+841
+00:31:33,647 --> 00:31:35,640
+Believers.
+
+842
+00:31:35,640 --> 00:31:37,200
+Let's jump to believers.
+
+843
+00:31:37,200 --> 00:31:39,490
+Believers, believe stuff.
+
+844
+00:31:39,490 --> 00:31:41,600
+Almost regardless of evidence right?
+
+845
+00:31:41,600 --> 00:31:43,040
+It doesn't matter if there's,
+
+846
+00:31:43,040 --> 00:31:45,030
+it almost doesn't matter
+if there's evidence or not.
+
+847
+00:31:45,030 --> 00:31:48,180
+'Cause it's for them an internal thing.
+
+848
+00:31:48,180 --> 00:31:51,590
+They believe in ... the earth is flat
+
+849
+00:31:51,590 --> 00:31:53,070
+because other people have said it's flat.
+
+850
+00:31:53,070 --> 00:31:54,010
+And it caused them,
+
+851
+00:31:54,010 --> 00:31:55,720
+some say well I mean if it was round,
+
+852
+00:31:55,720 --> 00:31:57,270
+how could it be round right?
+
+853
+00:31:57,270 --> 00:31:59,330
+People in Australia would fall off,
+
+854
+00:31:59,330 --> 00:32:00,470
+how could it possibly be that?
+
+855
+00:32:00,470 --> 00:32:02,780
+It has to be flat, common sense.
+
+856
+00:32:02,780 --> 00:32:04,786
+Look at your table, you
+drop something off the edge
+
+857
+00:32:04,786 --> 00:32:05,920
+it falls down.
+
+858
+00:32:05,920 --> 00:32:08,540
+People in Australia and it's
+round they would fall off.
+
+859
+00:32:08,540 --> 00:32:09,980
+Common sense right?
+
+860
+00:32:09,980 --> 00:32:14,200
+So people believe stuff 'cause we can.
+
+861
+00:32:14,200 --> 00:32:17,410
+If it's something outside
+our realm of checking things,
+
+862
+00:32:17,410 --> 00:32:18,820
+we have to believe people.
+
+863
+00:32:18,820 --> 00:32:20,400
+We believe scientists.
+
+864
+00:32:20,400 --> 00:32:22,010
+We believe scientists
+and what they tell us
+
+865
+00:32:22,010 --> 00:32:23,130
+because they done the experiments
+
+866
+00:32:23,130 --> 00:32:24,770
+and they have the authority.
+
+867
+00:32:24,770 --> 00:32:27,170
+Skeptics tend to straddle the ground
+
+868
+00:32:27,170 --> 00:32:29,350
+between scientist and believers.
+
+869
+00:32:29,350 --> 00:32:33,080
+Scientist don't have time to
+deal with pseudo scientists
+
+870
+00:32:33,080 --> 00:32:36,030
+who believe stuff that
+is outside their model.
+
+871
+00:32:36,030 --> 00:32:38,030
+Skeptics tend to bridge that gap.
+
+872
+00:32:38,030 --> 00:32:40,460
+So they will have the scientific model
+
+873
+00:32:40,460 --> 00:32:42,320
+they will ask questions of a believer
+
+874
+00:32:42,320 --> 00:32:43,410
+then they will take that on board
+
+875
+00:32:43,410 --> 00:32:45,500
+quiz them and they go nah
+you're talking nonsense.
+
+876
+00:32:45,500 --> 00:32:48,710
+But the skeptic has that
+I will approach over
+
+877
+00:32:48,710 --> 00:32:50,140
+into the world of a believer.
+
+878
+00:32:50,140 --> 00:32:52,210
+Then we come into the Seeker.
+
+879
+00:32:52,210 --> 00:32:54,270
+Now the Seeker is different.
+
+880
+00:32:54,270 --> 00:32:56,230
+The Seeker is all of these things.
+
+881
+00:32:56,230 --> 00:32:59,750
+Scientist are Seekers when
+they go outside their models
+
+882
+00:32:59,750 --> 00:33:01,510
+we seek out new things to learn
+
+883
+00:33:01,510 --> 00:33:05,360
+but the seeker has the
+ability to take on beliefs
+
+884
+00:33:05,360 --> 00:33:06,720
+and discard them later
+
+885
+00:33:06,720 --> 00:33:08,650
+but when they take them
+on they believe them,
+
+886
+00:33:08,650 --> 00:33:10,466
+they inhabit them they
+explore the world as though
+
+887
+00:33:10,466 --> 00:33:11,700
+those belief existed.
+
+888
+00:33:11,700 --> 00:33:14,590
+And testers, that's
+really important right.
+
+889
+00:33:14,590 --> 00:33:16,620
+Now Ken Campbell was a seeker.
+
+890
+00:33:16,620 --> 00:33:18,790
+Ken Campbell, talked about this a lot
+
+891
+00:33:18,790 --> 00:33:21,390
+he was an almost a improvisational actor.
+
+892
+00:33:21,390 --> 00:33:23,020
+He's a very different acting style.
+
+893
+00:33:23,020 --> 00:33:25,300
+He taught people how to
+act and explore things.
+
+894
+00:33:25,300 --> 00:33:26,133
+And I he would even be saying things like
+
+895
+00:33:26,133 --> 00:33:28,260
+"well just supposing".
+
+896
+00:33:28,260 --> 00:33:31,310
+Just supposing Fairies did exist.
+
+897
+00:33:31,310 --> 00:33:34,490
+And the seeker would then take
+that belief fairies exist.
+
+898
+00:33:34,490 --> 00:33:36,180
+Where would fairy exist?
+
+899
+00:33:36,180 --> 00:33:38,560
+If you go out and look in those places.
+
+900
+00:33:38,560 --> 00:33:41,190
+How would I see them if they did exist?
+
+901
+00:33:41,190 --> 00:33:43,160
+How would I know they were there?
+
+902
+00:33:43,160 --> 00:33:45,350
+And that's different from believing
+
+903
+00:33:45,350 --> 00:33:48,160
+and it's slightly different from scientist
+
+904
+00:33:48,160 --> 00:33:50,520
+because we're exploring beliefs
+
+905
+00:33:50,520 --> 00:33:54,344
+which are clearly not
+scientific and not within any
+
+906
+00:33:54,344 --> 00:33:56,230
+frame of belief.
+
+907
+00:33:56,230 --> 00:33:58,890
+But that belief itself,
+adopting that belief
+
+908
+00:33:58,890 --> 00:34:00,480
+gives you a different attitude.
+
+909
+00:34:00,480 --> 00:34:02,490
+Gives you a different way
+of exploring the world.
+
+910
+00:34:02,490 --> 00:34:03,874
+You look at things differently.
+
+911
+00:34:03,874 --> 00:34:05,700
+You will observe things differently.
+
+912
+00:34:05,700 --> 00:34:07,670
+You will try and
+manipulate different things
+
+913
+00:34:07,670 --> 00:34:09,910
+that might otherwise be there.
+
+914
+00:34:09,910 --> 00:34:12,017
+Now if projects don't have seekers,
+
+915
+00:34:12,017 --> 00:34:15,120
+projects don't have people
+trying to go outside
+
+916
+00:34:15,120 --> 00:34:17,040
+the bounds of beliefs of that project.
+
+917
+00:34:17,040 --> 00:34:19,424
+We're not going to find
+the really hard problems
+
+918
+00:34:19,424 --> 00:34:21,560
+that only occur once in awhile.
+
+919
+00:34:21,560 --> 00:34:24,610
+The edge cases that exist on the periphery
+
+920
+00:34:24,610 --> 00:34:26,670
+of our beliefs systems.
+
+921
+00:34:26,670 --> 00:34:28,243
+Seekers are really important.
+
+922
+00:34:29,320 --> 00:34:30,960
+Robert Anton Wilson someone else
+
+923
+00:34:30,960 --> 00:34:33,363
+I particularly enjoy his
+books who is also dead.
+
+924
+00:34:35,670 --> 00:34:37,270
+Hopefully this is not a common paradigm.
+
+925
+00:34:37,270 --> 00:34:41,089
+Robert Anton Wilson said belief
+is the death of intelligence
+
+926
+00:34:41,089 --> 00:34:44,400
+as soon as one believes
+a doctrine of any sort
+
+927
+00:34:44,400 --> 00:34:46,750
+or assumes certitude,
+
+928
+00:34:46,750 --> 00:34:49,810
+ones stops thinking about
+that aspect of existence.
+
+929
+00:34:49,810 --> 00:34:52,558
+Now the danger of this
+if I believe that quote.
+
+930
+00:34:52,558 --> 00:34:54,030
+(laughs)
+
+931
+00:34:54,030 --> 00:34:56,830
+If I believe that belief
+is death of intelligence
+
+932
+00:34:56,830 --> 00:34:59,560
+I might stop thinking about that aspect.
+
+933
+00:34:59,560 --> 00:35:01,750
+But that's okay 'cause I'm a seeker.
+
+934
+00:35:01,750 --> 00:35:03,643
+So I can take that belief,
+
+935
+00:35:04,990 --> 00:35:08,110
+adopt it and discard it right?
+
+936
+00:35:08,110 --> 00:35:10,020
+Seekers have the ability
+to take on beliefs,
+
+937
+00:35:10,020 --> 00:35:11,072
+take on different personas.
+
+938
+00:35:11,072 --> 00:35:14,270
+Believe that the system
+will function under
+
+939
+00:35:14,270 --> 00:35:15,900
+high performance loads we'll focus on
+
+940
+00:35:15,900 --> 00:35:16,733
+somewhere else.
+
+941
+00:35:16,733 --> 00:35:18,180
+Believe that it won't
+and really hit it hard.
+
+942
+00:35:18,180 --> 00:35:19,960
+Believe that it will handle performance
+
+943
+00:35:19,960 --> 00:35:22,260
+but not when certain things are going on.
+
+944
+00:35:22,260 --> 00:35:26,460
+We will seek out alternative
+beliefs in order to adopt them.
+
+945
+00:35:26,460 --> 00:35:29,227
+Now given that people
+have difficulty with this.
+
+946
+00:35:29,227 --> 00:35:32,400
+I'm gonna give you some
+tactics just in case,
+
+947
+00:35:32,400 --> 00:35:34,610
+just in case you don't know
+
+948
+00:35:34,610 --> 00:35:37,440
+or if you think not knowing
+is bad or anything like that.
+
+949
+00:35:37,440 --> 00:35:38,840
+So this is the summary of it,
+
+950
+00:35:38,840 --> 00:35:41,280
+knowing nothing is good
+and you don't actually
+
+951
+00:35:41,280 --> 00:35:43,100
+know nothing about it.
+
+952
+00:35:43,100 --> 00:35:44,110
+Are they contradictory?
+
+953
+00:35:44,110 --> 00:35:45,000
+Possibly.
+
+954
+00:35:45,000 --> 00:35:46,040
+Don't care, I'm a seeker.
+
+955
+00:35:46,040 --> 00:35:48,841
+I can have multiple
+beliefs at the same time.
+
+956
+00:35:48,841 --> 00:35:51,560
+And we ask questions when we know stuff.
+
+957
+00:35:51,560 --> 00:35:55,419
+So I know nothing about
+Kardashians, Big Brother
+
+958
+00:35:55,419 --> 00:35:59,363
+all that kind of stuff,
+reality t.v. and that is good.
+
+959
+00:36:00,230 --> 00:36:03,730
+I would defend the notion that is good,
+
+960
+00:36:03,730 --> 00:36:04,770
+very hard.
+
+961
+00:36:04,770 --> 00:36:06,570
+'Cause that is a belief but
+I know nothing about it,
+
+962
+00:36:06,570 --> 00:36:08,307
+I'm comfortable with that.
+
+963
+00:36:08,307 --> 00:36:09,189
+That you can just get comfortable knowing
+
+964
+00:36:09,189 --> 00:36:12,730
+nothing about it is a decision I have made
+
+965
+00:36:12,730 --> 00:36:14,737
+to know nothing about it.
+
+966
+00:36:14,737 --> 00:36:17,100
+But the reality is right?
+
+967
+00:36:17,100 --> 00:36:18,950
+I don't know nothing about it.
+
+968
+00:36:18,950 --> 00:36:19,920
+I clearly know something,
+
+969
+00:36:19,920 --> 00:36:21,520
+I know their name right?
+
+970
+00:36:21,520 --> 00:36:23,000
+Its just that the things I know about it
+
+971
+00:36:23,000 --> 00:36:24,873
+I've described as nothing right?
+
+972
+00:36:24,873 --> 00:36:26,440
+Like some of the words that we have
+
+973
+00:36:26,440 --> 00:36:27,398
+the definitions we have
+
+974
+00:36:27,398 --> 00:36:28,660
+they're descriptive,
+
+975
+00:36:28,660 --> 00:36:30,540
+they're not prescriptive.
+
+976
+00:36:30,540 --> 00:36:33,406
+And my not knowing about
+Kardashians doesn't mean
+
+977
+00:36:33,406 --> 00:36:34,990
+that I know nothing about them.
+
+978
+00:36:34,990 --> 00:36:37,270
+It's just describing a lack of something
+
+979
+00:36:37,270 --> 00:36:38,623
+it's as good as nothing.
+
+980
+00:36:39,600 --> 00:36:41,410
+So when we're in this position,
+
+981
+00:36:41,410 --> 00:36:44,411
+what we have is a model that can expand.
+
+982
+00:36:44,411 --> 00:36:45,860
+Its not that I know nothing,
+
+983
+00:36:45,860 --> 00:36:47,770
+it's that I have a model
+I describe as nothing.
+
+984
+00:36:47,770 --> 00:36:50,890
+So I can ask questions and
+see if nothing fits that.
+
+985
+00:36:50,890 --> 00:36:52,190
+Do I know nothing about Kardashians,
+
+986
+00:36:52,190 --> 00:36:54,860
+there some women some men there I think.
+
+987
+00:36:54,860 --> 00:36:55,910
+There's,
+
+988
+00:36:55,910 --> 00:36:57,870
+I know some stuff right?
+
+989
+00:36:57,870 --> 00:37:01,340
+By I try to expand my
+model if I care. right?
+
+990
+00:37:01,340 --> 00:37:04,180
+I try to invalidate parts
+to my model if I care.
+
+991
+00:37:04,180 --> 00:37:06,680
+Same as normal when we're
+working with any model.
+
+992
+00:37:06,680 --> 00:37:08,774
+It's not that I know nothing
+
+993
+00:37:08,774 --> 00:37:10,460
+its that I described it as nothing.
+
+994
+00:37:10,460 --> 00:37:14,000
+And our descriptions are not prescriptive.
+
+995
+00:37:14,000 --> 00:37:17,450
+They're attempting to
+build a model of something.
+
+996
+00:37:17,450 --> 00:37:20,580
+Now when I'm a manager
+and I'm working in teams
+
+997
+00:37:20,580 --> 00:37:23,180
+I'm a consultant and I work in teams.
+
+998
+00:37:23,180 --> 00:37:26,360
+I ask questions even when I do know stuff.
+
+999
+00:37:26,360 --> 00:37:28,380
+'Cause I don't mind if other
+people think I don't know stuff
+
+1000
+00:37:28,380 --> 00:37:30,010
+because I'll say something later on
+
+1001
+00:37:30,010 --> 00:37:32,520
+that will boost my credibility again.
+
+1002
+00:37:32,520 --> 00:37:35,230
+But I also know that other
+people in the room don't know.
+
+1003
+00:37:35,230 --> 00:37:37,280
+And people have difficulty
+saying I don't know.
+
+1004
+00:37:37,280 --> 00:37:40,360
+So if I say I don't know
+then they will learn.
+
+1005
+00:37:40,360 --> 00:37:43,860
+I know that people have
+different understandings right?
+
+1006
+00:37:43,860 --> 00:37:46,892
+Because the words are
+reused in different places
+
+1007
+00:37:46,892 --> 00:37:49,310
+so people hear word, we're
+gonna do a performance test,
+
+1008
+00:37:49,310 --> 00:37:51,000
+oh yes, oh yes.
+
+1009
+00:37:51,000 --> 00:37:53,360
+But they have completely different models.
+
+1010
+00:37:53,360 --> 00:37:56,370
+One person its speed, one person
+its load. Different models.
+
+1011
+00:37:56,370 --> 00:37:58,660
+so they go away with
+the wrong understanding
+
+1012
+00:37:58,660 --> 00:38:01,437
+so I can go, what? I don't
+understand what is performance
+
+1013
+00:38:01,437 --> 00:38:03,650
+testing? and what do you
+mean by performance testing?
+
+1014
+00:38:03,650 --> 00:38:07,440
+Then we will gain more of
+a shared understanding.
+
+1015
+00:38:07,440 --> 00:38:10,460
+Sometimes it gives someone a
+chance to share their knowledge
+
+1016
+00:38:10,460 --> 00:38:12,920
+by not asking a question,
+
+1017
+00:38:12,920 --> 00:38:15,960
+you are not giving someone
+who wouldn't speak up
+
+1018
+00:38:15,960 --> 00:38:18,500
+the opportunity to show their knowledge
+
+1019
+00:38:18,500 --> 00:38:20,560
+and develop their skills of communication
+
+1020
+00:38:20,560 --> 00:38:21,860
+in a certain environment.
+
+1021
+00:38:21,860 --> 00:38:24,960
+And that's important when
+you're developing your staff
+
+1022
+00:38:24,960 --> 00:38:27,250
+asking questions that they can answer.
+
+1023
+00:38:27,250 --> 00:38:29,570
+Boosts their confidence
+and their credibility
+
+1024
+00:38:29,570 --> 00:38:32,810
+and their independence
+of credibility from you.
+
+1025
+00:38:32,810 --> 00:38:35,900
+They gain independent
+credibility as an expert.
+
+1026
+00:38:35,900 --> 00:38:39,620
+'Cause asking questions
+fundamentally is a good thing to do.
+
+1027
+00:38:39,620 --> 00:38:41,330
+And that's what testers do.
+
+1028
+00:38:41,330 --> 00:38:42,900
+Testers are seekers.
+
+1029
+00:38:42,900 --> 00:38:46,190
+Testers bring in the
+attributes of the scientist,
+
+1030
+00:38:46,190 --> 00:38:48,750
+the sceptic, the believer
+all in one in the seeker
+
+1031
+00:38:48,750 --> 00:38:51,710
+'cause we can take on beliefs
+and we can see the value
+
+1032
+00:38:51,710 --> 00:38:53,520
+in doing something even
+when no one else does.
+
+1033
+00:38:53,520 --> 00:38:56,260
+And we can drop that belief
+and bring in another one.
+
+1034
+00:38:56,260 --> 00:38:58,562
+Seekers is what we're attempting to do
+
+1035
+00:38:58,562 --> 00:39:01,210
+because fundamentally
+asking questions is good
+
+1036
+00:39:01,210 --> 00:39:03,470
+and it's how we explore the world.
+
+1037
+00:39:03,470 --> 00:39:05,750
+And build up models from
+
+1038
+00:39:05,750 --> 00:39:08,517
+nothing, or what we describe as nothing
+
+1039
+00:39:08,517 --> 00:39:09,870
+which is
+
+1040
+00:39:09,870 --> 00:39:10,883
+common sense.
+

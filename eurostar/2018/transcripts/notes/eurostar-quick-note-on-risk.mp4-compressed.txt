@@ -1,0 +1,17 @@
+﻿## Some Notes and Thoughts on Risk
+
+I'm just finishing up at Eurostar. In fact, I've finished the Eurostar. I'm just waiting for the taxi to arrive, and then I'll head off.
+
+One of the things that came up when I was speaking to other speakers was the topic of risk because it seems though a lot of certainly the speakers I was speaking to think that risk has lost prominence within testing, that people don't think about risk, particularly in Agile projects.
+
+I don't know if that's true or not, and certainly I think about risk pretty much all the time, and when I'm on projects and consulting, I'm expressing risk, and not just business risk, but process risk, tool risk and technical risk in terms of the architecture, and you can pretty much find risk anywhere. And I think that risk attitude has a knock-on effect on like just my daily life.
+
+It's one of those things that impacts how you interact with the real world. Like your technical skills and the web impact how you interact with the web. Risk analysis impacts how you deal with the real world.
+
+So in the hotel when I came in, I was checking to see where are the stairs 'cause I was only on the first floor, so using the stairs is a lot easier. I have to go down the fire escape exit, but I can still go up the stairs. I checked out last night rather than this morning in case there's a queue for the taxi.
+
+I got up early this morning to check my emails to make sure the taxi was confirmed, which it wasn't, so I then had to go down to the hotel lobby to get a taxi to take me to the airport. I leave early enough so that if there's traffic, I don't miss the plane.
+
+I've got a contingency plan that I prepared before I came here about how I can get to the airport if the taxi system all failed.
+
+So that's, for me, risk is one of the most important things that we deal with, and if that's not part of what you do, I thoroughly recommend that you explore risk 'cause it's something we should not be forgetting about.

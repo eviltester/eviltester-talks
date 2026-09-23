@@ -1,0 +1,63 @@
+﻿## Lightning Talk - Our Agile Process is Screwed Up
+
+So now I don't have to get struck by lightning, Fran's shown you what happens.
+
+So I'm gonna follow on from that.
+
+All right, 'cause I get asked similar questions.
+
+I get asked "Dear Evil Tester". Emails come into me, "our Agile project is screwed up and messed up, what can I do?"
+
+All right, 'cause people want to fix it, people want to take responsibility for that.
+
+Where screwed up means some of the things that Fran just talked about.
+
+Where we've got no time for testing... by the testers.
+
+We've got no time for automating... by the testers.
+
+We've got no acceptance criteria... that the testers can use.
+
+We've got no story details... that we as testers can understand, we're not invited to meetings, and so the tester's not being included, we're not getting stuff we want.
+
+And the fundamental problem is that you're not actually Agile.
+
+You're not actually doing an Agile project.
+
+You've called it Agile, you've labelled it Agile, you've got some ritual that you call Agile, you do stand-ups, you do retrospectives but you don't learn from them.
+
+The feedback doesn't come in as input and you process it.
+
+So what we have to do then is we still have to fight the good fight and explain what Agile is and try and do the Agile thing.
+
+But we still have to work with the actual reality on the ground so there are steps that people can take.
+
+The first thing we have to do is we have to get our own house in order. Make sure that we know how to test things, make sure that we are avoiding waste in the testing that we do. So that we're not writing big test plans, we're not writing huge amounts of stuff in advance, we're keeping everything lean so that we can respond effectively.
+
+We need to make sure that we do own the things that are ours to own. So exploratory testing, that we make sure that we do that. That we do that properly, we capture all the results and we plan it in advance.
+
+One of the things you can do is you can use the Agile words against the fake Agile process.
+
+So Agile has words like Done, Not Done.
+
+When you're planning out your testing, your exploratory testing, and build charters, and whatever lightweight plan you want to do, you say "not done", then you list things that you want to do.
+
+Then when you start doing them you gather evidence you say "done", then you put them into a Done list.
+
+So then at the end when people try and go, "can we close this story now? can we mark the story as done?", in their face there's feedback, that it is not yet done, 'cause there's a bunch of stuff not done and you're making it visible.
+
+You're helping people understand and share the pain that you've got.
+
+The other thing we have to do, and this is, why we get in a mess because in Agile you are supposed to do the work of other people as well, you are supposed to absorb things.
+
+But that's what we have to not do, you have to focus on the work that we do, and not absorb the poor output from other things.
+
+So testers do not stay late testing because the story was delivered at four o'clock in the afternoon, while everyone else goes home.
+
+If we absorb things, then we help this bad process continue and in a normal Agile process you would want to help out, you want to make it work, but you're not in an Agile process.
+
+We have to work with the reality, and that means making people share the pain, making this stuff visible. We have to give them a reason to want to change, because the system has to change itself.
+
+We can only act on small things.
+
+Thank you very much.

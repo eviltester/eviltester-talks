@@ -1,0 +1,137 @@
+# Test Ability Video Micro Course
+
+<!--
+
+uploaded as: https://vimeo.com/278179385/9aa323e88a
+
+-->
+
+## Micro Course - Test Ability - Video 01 Overview
+
+Ability is one of the key attributes that elevates your testing proficiency. In this video series we will evaluate ability from a number of different perspectives:
+
+- our ability to test
+- the features of applications that support our testing
+- technology attributes that support testing
+- application and tool attributes that ease automating
+
+Exercise: Evaluate the type of systems you test. This will help you identify common technologies that you are aware of. We can revisit this later to identify gaps we might want to expand our learning into.
+
+People confuse Testability with 'hooks to make it easier to automate'. We will no longer confuse ourselves with that type of description.
+
+Links to the applications mentioned, and slides etc. are on:
+
+- https://eviltester.com/testablity
+
+Demo of diffrent apps to consider using during this video course:
+
+- Demo of ZType - canvas game using JavaScript
+- Demo of Text Adventure Game - console CLI game written in Java
+- Demo of Protect the Square - canvas game using JavaScript
+
+Evaluate your confidence of:
+
+- testing, automating, skills, knowledge, tools
+
+as relate to the example apps
+
+
+Bonus links to "The difference that makes a difference":
+
+- http://www.informationphilosopher.com/solutions/scientists/bateson/
+- http://www.cs.bham.ac.uk/research/projects/cogaff/misc/information-difference.html
+- https://en.wikiquote.org/wiki/Gregory_Bateson
+- https://www.google.co.uk/search?q=the+difference+that+makes+the+difference+bateson
+
+
+## Micro Course - Test Ability - Video 02 What is Testability?
+
+What does it mean to actually investigate testability?
+
+What questions might we ask and how might we do that? what would we gain by doing that?
+
+What is the difference between 'using something' and 'testing something' - what do we need to 'test it' that we don't need when we 'use it'.
+
+The difference between a Model and our communicated representation of our model.
+
+We are modelling the systems in terms of relationships, and the relationships may be unique to us.
+
+We use questions to explore systems and build models. We need to examine the questions that we ask to make sure our exploration of a topic avoids as much bias as possible.
+
+In this section you will evaluate what "Testability" means to you.
+
+
+## Micro Course - Test Ability - Video 03 Testability as Relationships
+
+As an encouragement to view the world in terms of systems. The notion of testability can be modelled as a set of relationships. i.e. between the tester and the system in terms of their knowledge. Getting in the habit of doing this allows you to work from first principles when working with systems rather than having to rely on a list of mnemonics and identify what factors are actually important to your testing.
+
+## Micro Course - Test Ability - Video 04 Definitions and Philosophy
+
+We'll look at some definitions that other people have put forward around testability and automatability.
+
+Coming up with your own models, or your own definitions, is important to allow you to evaluate other people's definitions and extend your own models, rather than have to accept their definitions.
+
+Also touch on definitions of auditing - and we even look at 'personal improvement program' definitions of auditing because we can take inspiration to guide us from numerous sources.
+
+The purpose of auditing is so that we take action to improve and recognise that we make choices during our learning process.
+
+Also explain the difference between Modelling and the representation of our model.
+
+An overview of "Why" questions and how to use What? When? Where? Who? questions instead.
+
+
+
+
+
+## Micro Course - Test Ability - Video 05 The Technology Audit
+
+We will explore what it means to do a Technology audit and how that can help us.
+
+Technology is often the easiest one to work with and often where we find tools to support us.
+
+We'll explore what relationships are associated with Technology Test Ability.
+
+Example audit of the Java Text Adventure game is used to explore the concept.
+
+If you follow the exercises in this video then you will build a list of technology areas that you can work on to find tooling, or improve your understanding of.
+
+
+
+
+## Micro Course - Test Ability - Video 06 The Application Audit
+
+When we perform an application audit we start to look at its functionality. Not just in terms of scope for testing, but also how the application itself can help us test it.
+
+Also - how does the application functionality hinder us and get in our way i.e. detrimentally impact our ability to test the application.
+
+
+
+## Micro Course - Test Ability - Video 07 Automatisability Audit
+
+Often the testing world confuses testability with automatability and in this video we will specifically look at automatability - or automatisability.
+
+A consideration of what tools we need to automate depending on the technology we use to build the application. A quick discussion on the difference between tactical and strategic automating.
+
+Exercises around exploring approaches to automating applications and the relationships between automating and testing.
+
+
+
+## Micro Course - Test Ability - Video 08 Test Ability Action Plan
+
+
+What does Test Ability now mean to you?
+
+Hwo would you model it?
+
+Exercises to identify what you know and what you want to improve.
+
+
+
+## Micro Course - Test Ability - Video 09 Test Ability Action Plan
+
+How can you use this to help you test differently? What are you going to build onto go forward.
+
+Ensure that you build your own action plan for what you will do. This will also cover what you will not do because you are making decisions about your own progress.
+
+Final set of hints in how to model yourself, your process, your system and all the relationships in between.
+
