@@ -187,6 +187,12 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/agilepoland2015_conference/)
 
 
+## 2015 EuroSTAR Mobile Deep Dive - Technical Mobile Testing
+
+- [Talk slides, transcript, and exercises on Github](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2015/mobile-deep-dive)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/eurostar_mobile_deepdive2015_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
