@@ -193,6 +193,13 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/eurostar_mobile_deepdive2015_conference/)
 
 
+## 2015 Test Automation Day - Practical Test Automation Lessons Learned
+
+- [Keynote slides, scripts, and handouts on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-automation-day/2015/keynote)
+- [Bonus unused slides on Github](https://github.com/eviltester/eviltester-talks/blob/main/test-automation-day/2015/keynote/unused-slides.md)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/testautomationday2015_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
