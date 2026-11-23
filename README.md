@@ -222,6 +222,14 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/agiletestingdays2014_conference/)
 
 
+## 2014 Let's Test - Automation Abstractions and Skill Acquisition
+
+- [All materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/letstest/2014)
+- [Tutorial: Page Objects and Abstraction Layers](https://github.com/eviltester/eviltester-talks/tree/main/letstest/2014/tutorial)
+- [Workshop: Skill Acquisition and Transfer](https://github.com/eviltester/eviltester-talks/tree/main/letstest/2014/workshop)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/letstest2014_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
