@@ -37,6 +37,12 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/openquality2020_conference/)
 
 
+## 2020 EuroSTAR - Technical Web Testing Tutorial
+
+- [Tutorial slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2020/tutorial)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/eurostar2020_conference/)
+
+
 ## 2019 DevFest Bishkek - A Guide to Testing Web Applications
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/devfest-bishkek/2019/keynote)
