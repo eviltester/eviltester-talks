@@ -200,6 +200,12 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/testautomationday2015_conference/)
 
 
+## 2015 TestWorks Conf - Automate or Die! - Real World Automation Challenges
+
+- [Keynote slides, transcript, and supporting material on Github](https://github.com/eviltester/eviltester-talks/tree/main/testworks/2015/keynote)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/testworks2015_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
