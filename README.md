@@ -230,6 +230,15 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/letstest2014_conference/)
 
 
+## 2014 OREDEV - Security Testing and Automation Abstractions
+
+- [All materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/oredev/2014)
+- [Confessions of an Accidental Security Tester](https://github.com/eviltester/eviltester-talks/tree/main/oredev/2014/accidental-security)
+- [Automation Abstractions: Page Objects and Beyond](https://github.com/eviltester/eviltester-talks/tree/main/oredev/2014/automation-abstractions)
+- [Watch Automation Abstractions on YouTube](https://www.youtube.com/watch?v=YExv0Dlm0bc)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/oredev2014_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
