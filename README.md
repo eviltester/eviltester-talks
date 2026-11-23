@@ -206,6 +206,12 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/testworks2015_conference/)
 
 
+## 2015 Test Management Summit - Successful Test Automation for Managers
+
+- [Session slides and discussion mind maps on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-management-summit/2015/talk)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/testmanagementsummit2015_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
