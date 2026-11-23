@@ -167,6 +167,12 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/test_automation_guild_2017_conference/)
 
 
+## 2016 SIGIST - Push Your Functional Testing Further
+
+- [Keynote slides, transcript, and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/sigist/2016/keynote)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/sigist2016_conference/)
+
+
 ## 2016 NSTC - The Art of Questioning to improve Testing, Agile, and Automating
 
 - [Slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/nstc/2016/talk)
