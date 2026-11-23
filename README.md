@@ -212,6 +212,16 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/testmanagementsummit2015_conference/)
 
 
+## 2014 Agile Testing Days - Keynote, Tutorial, and Black Ops Testing Workshop
+
+- [All materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/agile-testing-days/2014)
+- [Keynote: Helping Testers Add Value to Agile Projects](https://github.com/eviltester/eviltester-talks/tree/main/agile-testing-days/2014/keynote)
+- [Tutorial: Technical Testing in an Agile Environment](https://github.com/eviltester/eviltester-talks/tree/main/agile-testing-days/2014/tutorial)
+- [Black Ops Testing Workshop](https://github.com/eviltester/eviltester-talks/tree/main/agile-testing-days/2014/workshop)
+- [Watch The Keynote on YouTube](https://www.youtube.com/watch?v=jXiJJVUKAtk)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/agiletestingdays2014_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
