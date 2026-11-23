@@ -179,6 +179,14 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/nstc2016_conference/)
 
 
+## 2015 Agile and Automation Days - Technical Test Ability and Technical Testing in Agile
+
+- [Keynote slides, transcript, and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/agile-and-automation-days/2015/keynote)
+- [Tutorial slides and handouts on Github](https://github.com/eviltester/eviltester-talks/tree/main/agile-and-automation-days/2015/tutorial)
+- [Watch The Keynote on YouTube](https://www.youtube.com/watch?v=vUOn3e4XRnc)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/agilepoland2015_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
