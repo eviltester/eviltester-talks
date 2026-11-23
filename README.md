@@ -239,6 +239,15 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/oredev2014_conference/)
 
 
+## 2014 STAR East - WebDriver Tutorial and Lightning Keynote
+
+- [All materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/stareast/2014)
+- [Tutorial: Hands On WebDriver - One Day](https://github.com/eviltester/eviltester-talks/tree/main/stareast/2014/tutorial)
+- [Lightning keynote: A Sense of Readiness](https://github.com/eviltester/eviltester-talks/tree/main/stareast/2014/keynote)
+- [Watch the Lightning Keynote on YouTube](https://www.youtube.com/watch?v=L8nuyYxKqg8)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/stareast2014_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
