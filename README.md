@@ -43,6 +43,15 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/eurostar2020_conference/)
 
 
+## 2020 EPIC Experience - Prepared Materials for a Cancelled Conference
+
+The conference was cancelled because of COVID-19. These materials were prepared for the planned sessions.
+
+- [Prepared talk materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/epic-experience-techwell/2020/talk)
+- [Prepared tutorial materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/epic-experience-techwell/2020/tutorial)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/epicconference2020_conference/)
+
+
 ## 2019 DevFest Bishkek - A Guide to Testing Web Applications
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/devfest-bishkek/2019/keynote)

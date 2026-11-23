@@ -1,0 +1,92 @@
+/* @theme epic-archive */
+@import 'default';
+
+section {
+  background: #000000;
+  color: #ffdf00;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 26px;
+  line-height: 1.3;
+}
+
+section h1,
+section h2,
+section h3,
+section h4,
+section h5,
+section h6,
+section a,
+section strong {
+  color: #ff0000;
+}
+
+section blockquote {
+  color: #ffdf00;
+  border-left-color: #ff0000;
+}
+
+section footer,
+section header,
+section::after {
+  color: #ffdf00;
+}
+
+section img {
+  max-width: 100%;
+  max-height: 520px;
+  object-fit: contain;
+}
+
+section:has(h1, h2, h3) img {
+  max-height: 430px;
+}
+
+section pre,
+section pre code {
+  background: #101010;
+  color: #ffdf00;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+section code,
+section pre code * {
+  background: #101010;
+  color: #ffdf00;
+}
+
+section table th,
+section table td,
+section table tr {
+  background: #000000;
+  border-color: #ff0000;
+  color: #ffdf00;
+}
+
+section a {
+  overflow-wrap: anywhere;
+}
+
+/* Keep long lists, including nested reading lists, above the footer. */
+section:has(li:nth-child(12)),
+section:has(li:nth-child(7) > ul) {
+  font-size: 24px;
+  line-height: 1.12;
+}
+
+section:has(li:nth-child(12)) p,
+section:has(li:nth-child(12)) ul,
+section:has(li:nth-child(12)) ol,
+section:has(li:nth-child(7) > ul) p,
+section:has(li:nth-child(7) > ul) ul,
+section:has(li:nth-child(7) > ul) ol {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+section:has(li:nth-child(12)) li,
+section:has(li:nth-child(12)) li p,
+section:has(li:nth-child(7) > ul) li,
+section:has(li:nth-child(7) > ul) li p {
+  margin: 0;
+}
