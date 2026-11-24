@@ -248,6 +248,14 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/stareast2014_conference/)
 
 
+## 2014 STARWEST - WebDriver Tutorial and Automation Abstractions
+
+- [STARWEST 2014 materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/starwest/2014)
+- [Tutorial slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/starwest/2014/tutorial)
+- [Automation Abstractions talk on Github](https://github.com/eviltester/eviltester-talks/tree/main/starwest/2014/talk)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/starwest2014_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
