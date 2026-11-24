@@ -264,6 +264,15 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/testmanagementsummit2014_conference/)
 
 
+## 2013 TestNet - Silver Bullets Keynote and HTTP Proxy Tutorial
+
+- [All materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/testnet/2013)
+- [My Quest for Silver Bullets - keynote slides and notes](https://github.com/eviltester/eviltester-talks/tree/main/testnet/2013/keynote)
+- [The Evil Tester's Guide to HTTP Proxies - tutorial](https://github.com/eviltester/eviltester-talks/tree/main/testnet/2013/tutorial)
+- [Silver Bullets and Magic Bullets - article](https://github.com/eviltester/eviltester-talks/tree/main/testnet/2013/article)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/testnet2013may_conference/)
+
+
 ## 2013 TestBash 2.0 - 99-Second Talks
 
 - [All talk material on Github](https://github.com/eviltester/eviltester-talks/tree/main/testbash/2013)
