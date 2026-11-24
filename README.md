@@ -344,6 +344,12 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/sigist2011_conference/)
 
 
+## 2011 UK TMF - Automation Debate: Open Source is the Future!
+
+- [Debate slides and prepared notes on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-management-summit/2011/discussion)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/tmf2011_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
