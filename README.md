@@ -397,6 +397,12 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/stareast2003_conference/)
 
 
+## 2013 TestIstanbul - Experiences with Exploratory Testing
+
+- [Keynote slides and prepared notes on Github](https://github.com/eviltester/eviltester-talks/tree/main/testistanbul/2013/keynote)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/testIstanbulMay2013_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
