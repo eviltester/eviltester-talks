@@ -324,6 +324,13 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Technical Testing webinar details and recording](https://www.eviltester.com/conference/eurostar2012-technical-testing-webinar/)
 
 
+## 2012 Let's Test - Testing Hypnotically
+
+- [Talk slides, notes, and prepared script on Github](https://github.com/eviltester/eviltester-talks/tree/main/letstest/2012/talk)
+- [Prepared evening-session materials](https://github.com/eviltester/eviltester-talks/tree/main/letstest/2012/evening-session)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/lestTest2012_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)

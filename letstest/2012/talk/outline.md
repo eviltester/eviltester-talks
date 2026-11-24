@@ -1,0 +1,102 @@
+# Testing Hypnotically - Prepared Outline
+
+Prepared material converted from the source mind map. This is an outline, not a transcript or a record of what was delivered.
+
+Testing Hypnotically
+
+The detailed narrative notes from this map are preserved in the [prepared script](prepared-script.md).
+
+- Welcome
+    - Introduction
+    - MoRim
+    - The Disclaimer
+    - As a Young hypnotist
+    - Megalomania is addictive
+- The Basics
+    - This is not a metaphor
+    - you already know hypnosis
+    - there is no such thing as hypnosis
+    - I am trained and certified
+    - Softwaretherapy
+        - Psychology
+        - Therapy
+- History of Hypnosis
+- What do hypnotists do?
+    - What do hypnotists do?
+    - hypnotists are pragmatists
+    - Context &amp; Utilisation
+        - Work with the system you have, not the system you want
+        - Utilisation
+    - Automation
+    - Tools Of Hypnosis
+        - list of tools
+        - Confidence
+        - language
+        - ambiguity
+        - observation
+        - Presupposition
+        - Feedback
+    - Hypnosis Techniques
+        - Induction
+        - Negation
+        - post-hypnotic suggestion
+        - Dissonance &amp; Confusion
+        - Pattern Interrupt
+        - Future Pacing
+        - Go there first
+        - Embedded Commands
+- Self Hypnosis
+    - All Hypnosis is self-hypnosis
+    - take responsibility for your trance
+    - defend yourself against bad hypnosis
+- "Effective Communication" model
+    - summary of the model
+        - you can not not communicate
+        - all communication is suggestion
+        - communication is the message received
+        - communication ismore than one way
+    - relating it to testing
+        - you can not not test
+        - all communication is suggestion
+        - communication is the message received
+        - communication is more than one way
+        - impact on management
+- MoRim Model of Testing
+    - model
+    - observe
+    - reflect
+    - intent
+    - manipulate
+- End
+    - This could be you
+    - final slide
+- Stories
+    - Baby Hypnotist
+        - the coin and the voice of command
+            - age 7 or 8 or 9?
+            - walking with friends
+            - one found a coin
+    - Megalomania
+        - Case Tools and Testing to change the world
+    - Mind Machine
+        - automated trance
+    - Self Hypnosis for sleep
+    - I study psychotherapy not psychology
+    - Go there first
+        - putting son to sleep
+    - Defend yourself
+    - It's simpler than that
+    - Attitude "Have it Show it"
+    - "The one click bug"
+        - exploration leading to a blue screen
+        - testing delphi apps
+- Optional
+    - Shared Influences
+        - Virginia Satir
+        - Systems Theory
+        - set theory
+            - polya
+        - graph theory
+            - relationships
+        - information theory
+            - data vs information

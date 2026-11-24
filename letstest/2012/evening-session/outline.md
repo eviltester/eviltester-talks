@@ -1,0 +1,129 @@
+# Testing Hypnotically - Prepared Evening Session
+
+Prepared material converted from the source mind map. This is an outline, not a transcript or a record of what was delivered.
+
+Testing Hypnotically
+
+- aims
+    - what is hypnotic language?
+    - self-hypnosis?
+    - answer questions?
+- how
+    - experience
+    - practical principles
+    - effects of hypnotic language
+    - create hypnotic language structures
+    - simple induction techniques
+- application
+    - self hypnosis
+    - others
+- how to learn
+- references
+    - <http://www.nlpinterviewtechniques.com/persuasion101.pdf>
+    - <http://home.earthlink.net/~nlper999/miltmod.html>
+- voice as tool
+    - rhythm
+    - tone
+    - monotony
+    - repitition
+    - emphasis
+        - I/EYE don't know how CLOSE you are to understanding hypnosis NOW
+- state
+    - heightened concentration
+    - relaxation
+    - imagination
+- wakening processes
+- induction processes
+    - safety
+    - belief
+    - confusion
+    - suggestion
+    - repitition
+    - relaxation
+- hypnosis
+- feedback
+    - that's right
+    - good
+- utlisation
+    - whatever they do means they are going into a trance
+    - as you ...
+    - when ...
+    - the fact that you are ...
+    - while ...
+    - chaining
+        - you can begin to ...
+        - will make you relax
+- Universal Quantifiers
+    - go all the way into a trance
+    - Every
+        - time you ...
+        - breathe you take ...
+        - thought you have ...
+- negation
+    - i don't want you to feel too comfortable too quickly
+    - don't let your eyes close any faster than you continue to deepen your trance
+- time
+    - that difficulty that used to bother you will be gone completely just so long as you relax and listen now
+- try
+    - try and fail to separate your hands, and the harder you try the more they stick together
+- hypnotic language
+    - embedded commands
+        - you don't have to ...
+        - you may ...
+        - you can ...
+        - you could ...
+        - you might ...
+        - one can (etc.)...
+        - you probably already know...
+        - I'm wondering if ..
+        - endings
+            - you can ... can you not?
+    - ambiguity
+        - punctuation
+            - ... now
+        - homonym
+            - word sounds same different meaning
+            - write, right
+            - here, hear
+            - weight, wait
+        - sounds like
+            - think, thing
+        - missing referential index
+            - the thing
+            - that
+            - this
+            - People Can
+    - flow conjunctions
+        - and
+        - so
+    - tense ambiguity
+        - you were concerned about
+        - you felt before
+        - in the future, now
+    - now or later
+    - because
+        - you can ... because ...
+        - X means Y
+        - and
+            - you are listening to my voice and you can relax
+        - As
+        - While
+    - or
+        - will you ... or ... or ... or ...
+        - will you let your feet or your hands relax first?
+    - presupposition
+        - I don't know if you are aware yet that ...
+        - I don't know how quickly you will ...
+        - i don't know which hand you will notice relaxing first
+        - as you continue to ...
+        - do you want to site down while you go into a trance
+        - do you want to close your eyes as you continue to deepen your trance
+    - nominalisation
+        - I know you have a certain difficulty
+    - deletion
+        - I know you are curious
+        - I know you are thinking
+- stage induction tricks
+    - clasp hands index finger come together
+    - clasp hands stick together
+    - left hand up, right hand down
