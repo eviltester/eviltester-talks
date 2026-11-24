@@ -40,9 +40,9 @@ Blogs and Websites
 
 Online Training Courses
 
-- Technical Web Testing 101 Unow.be/at/techwebtest101
-- Intro to Selenium Unow.be/at/startwebdriver
-- Selenium 2 WebDriver API Unow.be/at/webdriverapi
+- Technical Web Testing 101
+- Intro to Selenium
+- Selenium 2 WebDriver API
 
 Videos
 
@@ -51,8 +51,6 @@ youtube.com/user/EviltesterVideos
 Books
 
 Selenium Simplified
-
-Unow.be/rc/selsimp
 
 Java For Testers
 
@@ -92,15 +90,7 @@ Contact Alan
 
 [Source link: @eviltester](https://twitter.com/eviltester)
 
-[Source link: Unow.be/at/techwebtest101](http://unow.be/at/techwebtest101)
-
-[Source link: Unow.be/at/startwebdriver](http://unow.be/at/startwebdriver)
-
-[Source link: Unow.be/at/webdriverapi](http://unow.be/at/webdriverapi)
-
 [Source link: youtube.com/user/EviltesterVideos](http://www.youtube.com/user/EviltesterVideos)
-
-[Source link: Unow.be/rc/selsimp](http://unow.be/rc/selsimp)
 
 [Source link: leanpub.com/javaForTesters](http://leanpub.com/javaForTesters)
 
@@ -289,8 +279,6 @@ public class MyFirstTest {
 ![slides 013 api overview](images/slides-013-api-overview.png)
 
 <http://www.mindmeister.com/280141421/selenium-2-webdriver-commands>
-
-<http://unow.be/at/apimindmap>
 
 ---
 
@@ -1610,9 +1598,9 @@ Blogs and Websites
 
 Online Training Courses
 
-- Technical Web Testing 101 Unow.be/at/techwebtest101
-- Intro to Selenium Unow.be/at/startwebdriver
-- Selenium 2 WebDriver API Unow.be/at/webdriverapi
+- Technical Web Testing 101
+- Intro to Selenium
+- Selenium 2 WebDriver API
 
 Videos
 
@@ -1621,8 +1609,6 @@ youtube.com/user/EviltesterVideos
 Books
 
 Selenium Simplified
-
-Unow.be/rc/selsimp
 
 Java For Testers
 
@@ -1662,15 +1648,7 @@ Contact Alan
 
 [Source link: @eviltester](https://twitter.com/eviltester)
 
-[Source link: Unow.be/at/techwebtest101](http://unow.be/at/techwebtest101)
-
-[Source link: Unow.be/at/startwebdriver](http://unow.be/at/startwebdriver)
-
-[Source link: Unow.be/at/webdriverapi](http://unow.be/at/webdriverapi)
-
 [Source link: youtube.com/user/EviltesterVideos](http://www.youtube.com/user/EviltesterVideos)
-
-[Source link: Unow.be/rc/selsimp](http://unow.be/rc/selsimp)
 
 [Source link: leanpub.com/javaForTesters](http://leanpub.com/javaForTesters)
 

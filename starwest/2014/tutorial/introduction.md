@@ -8,8 +8,6 @@ StarWest 2014
 
 13th October 2014
 
-<http://unow.be/conf/starwest2014>
-
 Alan Richardson
 
 @eviltester
@@ -22,11 +20,10 @@ Alan Richardson
 
 # Materials &amp; Code etc.
 
-- <http://unow.be/conf/starwest2014>
-    - Main Slides
-    - Exercise Slides
-    - Link to Source Code Repo
-    - Link to test pages
+- Main Slides
+- Exercise Slides
+- Link to Source Code Repo
+- Link to test pages
 
 \+ Discount on Online Selenium 2 WebDriver with Java Training course
 
@@ -40,8 +37,6 @@ Alan Richardson
     - svn/HandsOnWebDriverOneDayCourseJava/trunk
 - Http://seleniumsimplified.com
     - /training/handson/handsOn1DayCode.zip
-
-<http://unow.be/conf/starwest2014>
 
 <https://xp-dev.com/svn/HandsOnWebDriverOneDayCourseJava/trunk/>
 
@@ -63,9 +58,9 @@ Blogs and Websites
 
 Online Training Courses
 
-- Technical Web Testing 101 Unow.be/at/techwebtest101
-- Intro to Selenium Unow.be/at/startwebdriver
-- Selenium 2 WebDriver API Unow.be/at/webdriverapi
+- Technical Web Testing 101
+- Intro to Selenium
+- Selenium 2 WebDriver API
 
 Videos
 
@@ -74,8 +69,6 @@ youtube.com/user/EviltesterVideos
 Books
 
 Selenium Simplified
-
-Unow.be/rc/selsimp
 
 Java For Testers
 

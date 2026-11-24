@@ -1,4 +1,4 @@
-<!-- Original footer: @eviltester | http://unow.be/at/ltg2013 -->
+<!-- Original footer: @eviltester -->
 
 <!-- Slide 1 -->
 
@@ -8,7 +8,7 @@ The Evil Tester's Guide to HTTP Proxies And Developer Tools
 
 London Tester Gathering 2013 Alan Richardson
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -16,7 +16,7 @@ London Tester Gathering 2013 Alan Richardson
 
 # Introductory Notes
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -34,9 +34,9 @@ Blogs and Websites
 
 Online Training Courses
 
-- Technical Web Testing 101 Unow.be/at/udemy101
-- Intro to Selenium Unow.be/at/udemystart
-- Selenium 2 WebDriver API Unow.be/at/udemyapi
+- Technical Web Testing 101
+- Intro to Selenium
+- Selenium 2 WebDriver API
 
 Videos
 
@@ -45,8 +45,6 @@ youtube.com/user/EviltesterVideos
 Books
 
 Selenium Simplified
-
-Unow.be/rc/selsimp
 
 Java For Testers
 
@@ -82,15 +80,7 @@ Independent Test Consultant
 
 [Source link: @eviltester](https://twitter.com/eviltester)
 
-[Source link: Unow.be/at/udemy101](http://unow.be/at/udemy101)
-
-[Source link: Unow.be/at/udemystart](http://unow.be/at/udemystart)
-
-[Source link: Unow.be/at/udemyapi](http://unow.be/at/udemyapi)
-
 [Source link: youtube.com/user/EviltesterVideos](http://www.youtube.com/user/EviltesterVideos)
-
-[Source link: Unow.be/rc/selsimp](http://unow.be/rc/selsimp)
 
 [Source link: leanpub.com/javaForTesters](http://leanpub.com/javaForTesters)
 
@@ -154,7 +144,7 @@ As well as the tools I want to cover the testing thought processes and models th
 
 Turn up with some modern browsers installed (Chrome, Firefox, Opera), a couple of proxy servers (BurpSuite, Fiddler, Zed Attack Proxy), possibly some plugins (Firebug), to maximize your time in the workshop.
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -171,7 +161,7 @@ Turn up with some modern browsers installed (Chrome, Firefox, Opera), a couple o
 - Used Browser Dev Tools?
     - Chrome? Firefox? Opera? What else?
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -187,7 +177,7 @@ MORIM - Model through Observation, Reflection, Interrogation and Manipulation
 - Interrogate - focused observation with intent
 - Manipulation - hypothesis exploration
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -208,7 +198,7 @@ Never tools to control.
 
 Always Tools to augment.
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -224,7 +214,7 @@ Always Tools to augment.
 
 Then we will debrief
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -239,7 +229,7 @@ Then we will debrief
 - Plugins? Why?
 - XPath? CSS Selectors?
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -251,7 +241,7 @@ Then we will debrief
 - Learn to observe the things you didn't observe before
 - Find them in the tool you used
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -261,7 +251,7 @@ Then we will debrief
 
 Technical Web Testing: A Model
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -277,7 +267,7 @@ Technical Web Testing: A Model
 - Interrogate
 - Manipulate
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -295,7 +285,7 @@ Technical Web Testing: A Model
 - Interrogate
 - Manipulate
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -314,7 +304,7 @@ Technical Web Testing: A Model
 - Interrogate
 - Manipulate
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -332,7 +322,7 @@ Technical Web Testing: A Model
     - etc.
 - Manipulate
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -349,8 +339,6 @@ Technical Web Testing: A Model
     - Change the state
     - Edit the communication
     - Change the environment context e.g. speed, memory, etc.
-
-<http://unow.be/at/ltg2013>
 
 ---
 
@@ -370,7 +358,7 @@ Manipulation
 
 - What do you want to amend? How could you? Why?
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -380,7 +368,7 @@ Manipulation
 
 Our Basic Web Technology Knowledge
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -413,7 +401,7 @@ Our Basic Web Technology Knowledge
 
 ![Source slide 21, preserving annotation arrows and layout](images/annotated-slides-021.png)
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -475,7 +463,7 @@ We can work from model to tool...
 
 We can also work from tool function to model.
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -485,7 +473,7 @@ We can also work from tool function to model.
 
 The Proxies
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -506,7 +494,7 @@ Traffic {Request, Response} CRUD
     - Replay Requests
 - Delete - block requests or responses
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -523,7 +511,7 @@ Traffic {Request, Response} CRUD
 - For Embedding – BrowserMobProxy
     - <http://bmp.lightbody.net/>
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -535,7 +523,7 @@ Traffic {Request, Response} CRUD
     - Chrome Incognito and normal mode share proxy settings
 - Firefox and Opera can maintain proxy settings independently of system settings
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -553,7 +541,7 @@ Traffic {Request, Response} CRUD
 - Spider
 - Intruder - variety of params for fuzzing
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -570,7 +558,7 @@ Traffic {Request, Response} CRUD
 - Auto Responders
 - Scripting Rules – multiple breakpoints via scripts
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 [Source link: www.fiddler2.com/fiddler2/extensions.asp](http://www.fiddler2.com/fiddler2/extensions.asp)
 
@@ -613,7 +601,7 @@ Traffic {Request, Response} CRUD
 
 # Proxy Demos based on Login Exercise Debriefs
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -628,7 +616,7 @@ Traffic {Request, Response} CRUD
     - Install, Start, Config Browser with Proxy
     - Start App, Home, Login Without Registering, SignUp, Try HTTPs, Logout, check session closed on logout
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -672,7 +660,7 @@ Traffic {Request, Response} CRUD
 - Try again with a different tool
 - Max 10 mins
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -688,7 +676,7 @@ Traffic {Request, Response} CRUD
         - In fiddler try auto responders, e.g. replace the css
 - Repeat Requests out of context
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -716,7 +704,7 @@ Traffic {Request, Response} CRUD
 
 # Debrief &amp; Q&amp;A
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -726,7 +714,7 @@ Traffic {Request, Response} CRUD
 
 The Developer Tools
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -738,7 +726,7 @@ The Developer Tools
 - No longer “A User would never do that”, now you don't know who will do what
 - Even IE has good 'developer' tools
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -753,7 +741,7 @@ The Developer Tools
 - JavaScript Console
 - Profilers
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -765,7 +753,7 @@ The Developer Tools
 - Opera – Cntrl + Shift + I
 - Or right click and “Inspect Element”
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -778,7 +766,7 @@ The Developer Tools
 - Chrome Overrides
     - user-agent, geo and emulate device form factors
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -797,7 +785,7 @@ The Developer Tools
 
 # Debrief &amp; Q&amp;A
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -807,7 +795,7 @@ The Developer Tools
 
 End Notes
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -815,7 +803,7 @@ End Notes
 
 # Is this just Security Testing?
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -832,7 +820,7 @@ End Notes
     - What did you want to manipulate?
     - What could you not manipulate?
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -848,7 +836,7 @@ You can manipulate a whole bunch of things, why would you want to manipulate the
 - Params?
 - Payload?
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -864,7 +852,7 @@ e.g.
 - What could I use the save as HAR file for?
 - etc.
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -894,7 +882,7 @@ e.g.
 - Debugging with Fiddler
     - by Eric Lawrence
 
-@eviltester http://unow.be/at/ltg2013
+@eviltester
 
 ---
 
@@ -912,9 +900,9 @@ Blogs and Websites
 
 Online Training Courses
 
-- Technical Web Testing 101 Unow.be/at/udemy101
-- Intro to Selenium Unow.be/at/udemystart
-- Selenium 2 WebDriver API Unow.be/at/udemyapi
+- Technical Web Testing 101
+- Intro to Selenium
+- Selenium 2 WebDriver API
 
 Videos
 
@@ -923,8 +911,6 @@ youtube.com/user/EviltesterVideos
 Books
 
 Selenium Simplified
-
-Unow.be/rc/selsimp
 
 Java For Testers
 
@@ -962,15 +948,7 @@ Contact Alan for training and consultancy tailored to your needs: http://compend
 
 [Source link: @eviltester](https://twitter.com/eviltester)
 
-[Source link: Unow.be/at/udemy101](http://unow.be/at/udemy101)
-
-[Source link: Unow.be/at/udemystart](http://unow.be/at/udemystart)
-
-[Source link: Unow.be/at/udemyapi](http://unow.be/at/udemyapi)
-
 [Source link: youtube.com/user/EviltesterVideos](http://www.youtube.com/user/EviltesterVideos)
-
-[Source link: Unow.be/rc/selsimp](http://unow.be/rc/selsimp)
 
 [Source link: leanpub.com/javaForTesters](http://leanpub.com/javaForTesters)
 

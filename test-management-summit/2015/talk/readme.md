@@ -9,7 +9,7 @@ https://www.eviltester.com/conference/testmanagementsummit2015_conference/
 ## Content
 
 - [slides in Markdown](slides.md)
-- [original slides as PDF](export/test-management-summit-2015.pdf)
+- [Slides as PDF](export/test-management-summit-2015.pdf)
 
 ## Overview
 

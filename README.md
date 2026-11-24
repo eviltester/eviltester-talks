@@ -1,6 +1,6 @@
 # EvilTester Talks
 
-Slides and content for various conference talks.
+Slides and content for various conference talks. Retired short links have been removed from the Markdown and PDF copies in this repository.
 
 I have a list of talks on my website, these contain links to slides and any publicly viewable recordings:
 
@@ -262,6 +262,14 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [WebDriver tutorial on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-management-summit/2014/tutorial)
 - [Automation Abstractions discussion on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-management-summit/2014/discussion)
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/testmanagementsummit2014_conference/)
+
+
+## 2013 Software Development Summit - Two Keynotes
+
+- [All materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/software-development-summit/2013)
+- [Experiences of Exploratory Testing slides and notes](https://github.com/eviltester/eviltester-talks/tree/main/software-development-summit/2013/exploratory-testing)
+- [My Quest for Silver Bullets slides and notes](https://github.com/eviltester/eviltester-talks/tree/main/software-development-summit/2013/silver-bullets)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/sdsummit2013_conference/)
 
 
 ## 2013 Let's Test - The Evil Tester's Guide to Web Testing

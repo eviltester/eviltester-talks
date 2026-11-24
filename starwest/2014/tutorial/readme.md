@@ -25,7 +25,6 @@ The exercise index identifies the prompts and demonstrations in the main deck. N
 
 - [Selenium Test Pages source](https://github.com/eviltester/seleniumTestPages)
 - [Get started with Selenium WebDriver](https://seleniumsimplified.com/get-started/)
-- [Original STARWEST materials short link](http://unow.be/conf/starwest2014)
 - [Original course source repository](https://xp-dev.com/svn/HandsOnWebDriverOneDayCourseJava/trunk/)
 - [Original course code ZIP location](http://seleniumsimplified.com/training/handson/handsOn1DayCode.zip)
 

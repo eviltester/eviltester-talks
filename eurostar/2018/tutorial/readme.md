@@ -17,7 +17,6 @@ https://www.eviltester.com/conference/eurostar2018_conference/
 - [FreeMind instructor notes](Instructor-Notes.mm)
 - [tutorial notes](notes.txt)
 - [opening slide image](EuroSTAR_2018_Tutorial-slide.png)
-- [opening slide PowerPoint](EuroSTAR_2018_Tutorial-slide.pptx)
 
 ## Overview
 

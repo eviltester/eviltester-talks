@@ -28,7 +28,6 @@ Both PDFs were generated from `TutorialIntroSlide.odp` and `handsOnWebDriverTalk
 
 ## Related Links
 
-- [Original event materials short link](http://unow.be/at/tmsummit2014)
 - [Selenium Test Pages source](https://github.com/eviltester/seleniumTestPages)
 - [Get started with Selenium WebDriver](https://seleniumsimplified.com/get-started/)
 

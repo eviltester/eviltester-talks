@@ -12,15 +12,14 @@ The session explores technical testing through models, risks, observation, inter
 
 - [Slides - Markdown, 25 slides](slides.md)
 - [Prepared talk notes - Markdown](talk-notes.md)
-- [Original slides - PDF](export/slides.pdf)
+- [Slides - PDF](export/slides.pdf)
 - [Published slides on SlideShare](https://www.slideshare.net/eviltester/the-evil-testers-guide-to-web-testing)
-- [Original materials short link](http://unow.be/at/letstest2013)
 
 ## Version Selection and Conversion
 
 The original 25-page PDF from the conference folder was selected for this release. It includes the MORIM model, expanded explanations of surface and deep structures, and the group exploration demo. Its wording also differs from the 19-slide PowerPoint and PDF exports in `googleDocsExport/`. The Markdown follows the selected 25-slide version, preserving the original order, text, nested lists, exercises, and historical links. The final profile slide has been given a descriptive heading for navigation.
 
-The original PDF is retained unchanged. The four diagram PNGs supplied with the talk match the embedded PDF diagrams pixel for pixel and are used directly. The portrait and four course/book pictures were extracted from the PDF. All nine included images are referenced by the Markdown. Repeated slide footers are recorded once at the start of the Markdown and linked here.
+The PDF copy retains the source content apart from the removed retired short links. The four diagram PNGs supplied with the talk match the embedded PDF diagrams pixel for pixel and are used directly. The portrait and four course/book pictures were extracted from the PDF. All nine included images are referenced by the Markdown. Repeated slide footers are recorded once at the start of the Markdown; retired short links are omitted.
 
 The two ODT notes files contain identical text. Both notes PDFs contain the same words after normalising whitespace, bullets, and punctuation. One ODT copy was converted to `talk-notes.md`, preserving all 103 non-empty source paragraphs and the list structure. These are prepared notes, not a transcript of the delivered session. They follow an earlier outline and retain presenter cues, including an unfinished demo TODO.
 

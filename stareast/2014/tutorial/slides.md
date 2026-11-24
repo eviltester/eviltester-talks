@@ -24,11 +24,10 @@ www.JavaForTesters.com
 
 # Materials &amp; Code etc.
 
-- <http://unow.be/at/se2014>
-    - Main Slides
-    - Exercise Slides
-    - Link to Source Code Repo
-    - Link to test pages
+- Main Slides
+- Exercise Slides
+- Link to Source Code Repo
+- Link to test pages
 
 \+ Discount on Online Selenium 2 WebDriver with Java Training course – discount ends 30th June
 
@@ -48,9 +47,9 @@ Blogs and Websites
 
 Online Training Courses
 
-- Technical Web Testing 101 Unow.be/at/techwebtest101
-- Intro to Selenium Unow.be/at/startwebdriver
-- Selenium 2 WebDriver API Unow.be/at/webdriverapi
+- Technical Web Testing 101
+- Intro to Selenium
+- Selenium 2 WebDriver API
 
 Videos
 
@@ -59,8 +58,6 @@ youtube.com/user/EviltesterVideos
 Books
 
 Selenium Simplified
-
-Unow.be/rc/selsimp
 
 Java For Testers
 
@@ -304,8 +301,6 @@ public class MyFirstTest {
 - <http://compendiumdev.co.uk/>
     - files/conferences/se2014/handson20140504.zip
 
-<http://unow.be/at/se2014>
-
 <https://xp-dev.com/svn/HandsOnWebDriverOneDayCourseJava/trunk/>
 
 <http://compendiumdev.co.uk/files/conferences/se2014/handson20140504.zip>
@@ -327,8 +322,6 @@ Section: WebDriver is an API
 ![slides 018 api overview](images/slides-018-api-overview.png)
 
 <http://www.mindmeister.com/280141421/selenium-2-webdriver-commands>
-
-<http://unow.be/at/apimindmap>
 
 ---
 
@@ -2763,9 +2756,9 @@ Blogs and Websites
 
 Online Training Courses
 
-- Technical Web Testing 101 Unow.be/at/techwebtest101
-- Intro to Selenium Unow.be/at/startwebdriver
-- Selenium 2 WebDriver API Unow.be/at/webdriverapi
+- Technical Web Testing 101
+- Intro to Selenium
+- Selenium 2 WebDriver API
 
 Videos
 
@@ -2774,8 +2767,6 @@ youtube.com/user/EviltesterVideos
 Books
 
 Selenium Simplified
-
-Unow.be/rc/selsimp
 
 Java For Testers
 

@@ -9,7 +9,7 @@ https://www.eviltester.com/conference/agilepoland2015_conference/
 ## Content
 
 - [tutorial slides in Markdown](slides.md)
-- [original tutorial slides as PDF](export/technicalTestingAgileEnvironmentTutorial.pdf)
+- [tutorial slides as PDF](export/technicalTestingAgileEnvironmentTutorial.pdf)
 - [tutorial images](images/)
 - [exercise handout](export/ExercisesForTechnicalTestingTutorialAADays.pdf)
 - [demo and tools cheat sheets](export/DemoCheatSheets.pdf)

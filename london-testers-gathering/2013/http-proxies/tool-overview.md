@@ -138,10 +138,8 @@ Create a new instance
 # Introduction to Proxies
 
 
-@eviltester slides: http://unow.be/at/gtn\_tute
+@eviltester
 
-
-[Source link: http://unow.be/at/gtn_tute](http://unow.be/at/gtn_tute)
 
 ---
 
@@ -553,11 +551,8 @@ Blogs and Websites
 Online Training Courses
 
 - Technical Web Testing 101
-    - Unow.be/at/udemy101
 - Intro to Selenium
-    - Unow.be/at/udemystart
 - Selenium 2 WebDriver API
-    - Unow.be/at/udemyapi
 Videos
 
 youtube.com/user/EviltesterVideos
@@ -566,22 +561,12 @@ Books
 
 Selenium Simplified
 
-Unow.be/rc/selsimp
-
 Java For Testers
 
 leanpub.com/javaForTesters
 
 
-[Source link: Unow.be/at/udemy101](http://unow.be/at/udemy101)
-
-[Source link: Unow.be/at/udemystart](http://unow.be/at/udemystart)
-
-[Source link: Unow.be/at/udemyapi](http://unow.be/at/udemyapi)
-
 [Source link: youtube.com/user/EviltesterVideos](http://youtube.com/user/EviltesterVideos)
-
-[Source link: Unow.be/rc/selsimp](http://unow.be/rc/selsimp)
 
 [Source link: leanpub.com/javaForTesters](https://leanpub.com/javaForTesters)
 

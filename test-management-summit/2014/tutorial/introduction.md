@@ -21,7 +21,6 @@ Alan will take questions throughout the workshop, and tailor the material as muc
 # Special Offer &amp; Slides etc.
 
 - Visit
-    - <http://unow.be/at/tmsummit2014>
     - Discount code 'tmsummit2014' == $150 for
 
 ![introduction 002 special offer slides etc](images/introduction-002-special-offer-slides-etc.jpg)

@@ -1,4 +1,4 @@
-<!-- Original slide footer: @EvilTester | http://unow.be/at/letstest2013 -->
+<!-- Original slide footer: @EvilTester -->
 
 <!-- Slide 1 -->
 
@@ -15,8 +15,6 @@ Alan Richardson
 [www.compendiumdev.co.uk](http://www.compendiumdev.co.uk/)
 
 [www.seleniumsimplified.com](http://www.seleniumsimplified.com/)
-
-Slides available at <http://unow.be/at/letstest2013>
 
 ---
 
@@ -316,11 +314,8 @@ Contact Alan for training and consultancy tailored to your needs:
 ## Online Training Courses
 
 - Technical Web Testing 101
-    - [Unow.be/at/udemy101](http://unow.be/at/udemy101)
 - Intro to Selenium
-    - [Unow.be/at/udemystart](http://unow.be/at/udemystart)
 - Selenium 2 WebDriver API
-    - [Unow.be/at/udemyapi](http://unow.be/at/udemyapi)
 
 ![Selenium 2 WebDriver with Java](images/selenium-webdriver-with-java.jpg)
 
@@ -335,7 +330,5 @@ Contact Alan for training and consultancy tailored to your needs:
 ## Books
 
 Selenium Simplified
-
-[Unow.be/rc/selsimp](http://unow.be/rc/selsimp)
 
 ![Selenium Simplified book](images/selenium-simplified.png)

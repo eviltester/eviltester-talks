@@ -8,8 +8,6 @@ Alan Richardson
 
 @eviltester
 
-<http://unow.be/conf/starwest2014>
-
 www.SeleniumSimplified.com
 
 www.EvilTester.com
@@ -41,8 +39,6 @@ Alan Richardson provides an overview of options available to you when modeling a
 Illustrated with a number of code examples, Alan shows you a variety of approaches and discusses the pros and cons associated with each.
 
 <https://xp-dev.com/svn/AutomationAbstractions>
-
-unow.be/conf/starwest2014
 
 ---
 
@@ -121,8 +117,6 @@ Jerusalem: The Emanation of the Giant Albion
 ```
 
 NoAbstractionTest.java
-
-unow.be/conf/starwest2014
 
 ---
 
@@ -249,8 +243,6 @@ NoAbstractionTest.java
 - Makes automation readable and maintainable
 - We can unit test some of our test code
 - etc.
-
-unow.be/conf/starwest2014
 
 ---
 
@@ -436,8 +428,6 @@ Example: 'NoAbstractionTest.java'
 <!-- Slide 21 -->
 
 # Example Implementations
-
-unow.be/conf/starwest2014
 
 ---
 
@@ -695,8 +685,6 @@ public interface Checkbox {
 }
 ```
 
-unow.be/conf/starwest2014
-
 ---
 
 <!-- Slide 38 -->
@@ -722,8 +710,6 @@ unow.be/conf/starwest2014
 - If you create them...
     - allow return WebElement
         - so that I can go beyond the abstraction layer if I need to. Not required if it is just a WebElement wrapper.
-
-unow.be/conf/starwest2014
 
 ---
 
@@ -893,8 +879,6 @@ Robert Anton Wilson
     - One Step at a Time
     - <https://www.youtube.com/watch?v=dFPgzH_XP1I>
 
-unow.be/conf/starwest2014
-
 ---
 
 <!-- Slide 51 -->
@@ -911,9 +895,9 @@ Blogs and Websites
 
 Online Training Courses
 
-- Technical Web Testing 101 Unow.be/at/techwebtest101
-- Intro to Selenium Unow.be/at/startwebdriver
-- Selenium 2 WebDriver API Unow.be/at/webdriverapi
+- Technical Web Testing 101
+- Intro to Selenium
+- Selenium 2 WebDriver API
 
 Videos
 
@@ -922,8 +906,6 @@ youtube.com/user/EviltesterVideos
 Books
 
 Selenium Simplified
-
-Unow.be/rc/selsimp
 
 Java For Testers
 
@@ -965,5 +947,3 @@ Contact Alan
     - Investigate how the Page Objects delegate to each other, and the Domain Objects use Page Objects
     - Examine the 'test' usage of the Page Objects and Domain Objects
     - Examine the different navigation approaches
-
-unow.be/conf/starwest2014

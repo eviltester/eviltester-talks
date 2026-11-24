@@ -11,7 +11,7 @@ https://www.eviltester.com/conference/oredev2014_conference/
 ## Content
 
 - [Slides in Markdown](slides.md)
-- [Original slides as PDF](export/accidentalSecurityPDF.pdf)
+- [Slides as PDF](export/accidentalSecurityPDF.pdf)
 - [Conference recording on Vimeo](https://vimeo.com/111049859)
 - [Original SlideShare release](https://www.slideshare.net/eviltester/confessions-of-an-accidental-security-tester)
 
@@ -21,7 +21,7 @@ The talk describes how lower-level observation, browser developer tools, HTTP pr
 
 ## Archive Notes
 
-All 44 slides were converted from `accidentalSecurity.odp`, matching the original PDF's 44 pages. The original PDF is retained unchanged. The talk's wording, examples, screenshots, and historical references are preserved as conference material.
+All 44 slides were converted from `accidentalSecurity.odp`, matching the original PDF's 44 pages. The PDF copy retains the source content apart from the removed retired short links. The talk's wording, examples, screenshots, and historical references are preserved as conference material.
 
 Slides 9, 19, 22, 23, 24, and 39 retain PNG renders from the original PDF alongside their Markdown text. These preserve the before/after game-score arrow, HTTP request/response diagram, CRUD labels, screenshot callouts, and slippery-slope illustration.
 

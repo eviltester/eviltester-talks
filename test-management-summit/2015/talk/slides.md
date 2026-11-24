@@ -318,9 +318,7 @@ Blogs and Websites
 Online Training Courses
 
 - Selenium 2 WebDriver with Java
-    - [Unow.be/at/webdriverapi](http://unow.be/at/webdriverapi)
 - Technical Web Testing 101
-    - [Unow.be/at/techwebtest101](http://unow.be/at/techwebtest101)
 Videos
 
 [youtube.com/user/EviltesterVideos](http://youtube.com/user/EviltesterVideos)
@@ -328,8 +326,6 @@ Videos
 Books
 
 Selenium Simplified
-
-[Unow.be/rc/selsimp](http://unow.be/rc/selsimp)
 
 Java For Testers
 

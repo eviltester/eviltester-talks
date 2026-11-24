@@ -514,14 +514,10 @@ Blogs and Websites
 Online Training
 
 - Technical Web Testing 101
-    - [Unow.be/at/techwebtest101](http://unow.be/at/techwebtest101)
 - Selenium 2 WebDriver API
-    - [Unow.be/at/webdriverapi](http://unow.be/at/webdriverapi)
 Books
 
 Selenium Simplified
-
-[Unow.be/rc/selsimp](http://unow.be/rc/selsimp)
 
 Java For Testers
 

@@ -11,13 +11,12 @@ The workshop combines technical-testing models with practical work using Fiddler
 ## Slides and Resources
 
 - [Workshop slides - Markdown, 59 slides](slides.md)
-- [Workshop slides - original PDF](export/TheEvilTesterGuideToHTTPProxiesAndDeveloperToolsTutorial.pdf)
+- [Workshop slides - PDF](export/TheEvilTesterGuideToHTTPProxiesAndDeveloperToolsTutorial.pdf)
 - [Tool Overview of HTTP Proxies - Markdown, 34 slides](tool-overview.md)
-- [Tool Overview of HTTP Proxies - original PDF](export/TheEvilTestersToolOverviewOfHTTPProxies.pdf)
+- [Tool Overview of HTTP Proxies - PDF](export/TheEvilTestersToolOverviewOfHTTPProxies.pdf)
 - [Original tutorial links sheet - Markdown](links.md)
-- [Original event materials short link](http://unow.be/at/ltg2013)
 
-The links sheet identifies the tool overview as bonus support material. It is a separate reference guide, retained alongside the event deck. Both PDFs are copied unchanged from the original archive. Neither selected presentation contains substantive speaker notes.
+The links sheet identifies the tool overview as bonus support material. It is a separate reference guide, retained alongside the event deck. Both PDFs follow the original archive copies, with retired short links removed. Neither selected presentation contains substantive speaker notes.
 
 The original tool-overview PDF clips its final "etc." bullet on slide 27. The complete list is retained in the Markdown conversion.
 

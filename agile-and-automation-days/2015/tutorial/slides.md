@@ -71,9 +71,9 @@ Blogs and Websites
 
 Online Training Courses
 
-- Technical Web Testing 101 Unow.be/at/techwebtest101
-- Intro to Selenium Unow.be/at/startwebdriver
-- Selenium 2 WebDriver API Unow.be/at/webdriverapi
+- Technical Web Testing 101
+- Intro to Selenium
+- Selenium 2 WebDriver API
 
 Videos
 
@@ -82,8 +82,6 @@ youtube.com/user/EviltesterVideos
 Books
 
 Selenium Simplified
-
-Unow.be/rc/selsimp
 
 Java For Testers
 
@@ -187,7 +185,6 @@ Not so much 'Agile' knowledge
 
 # Logistics & Check Environment Up
 
-- http://unow.be/aadays/doc
 - [ ] Check
     - admin \ settings \ authentication
     - automatic account activation
@@ -214,8 +211,6 @@ Not so much 'Agile' knowledge
     - 5 mins testing, however you want
         - “A user can only login with the correct credentials, an error message is shown when invalid, this should maintain privacy”
     - 10 – 15 mins debrief
-
-For Environment See http://unow.be/aadays/doc
 
 OR: http://demo.redmine.org
 
@@ -1266,9 +1261,9 @@ Blogs and Websites
 
 Online Training Courses
 
-- Technical Web Testing 101 Unow.be/at/techwebtest101
-- Intro to Selenium Unow.be/at/startwebdriver
-- Selenium 2 WebDriver API Unow.be/at/webdriverapi
+- Technical Web Testing 101
+- Intro to Selenium
+- Selenium 2 WebDriver API
 
 Videos
 
@@ -1277,8 +1272,6 @@ youtube.com/user/EviltesterVideos
 Books
 
 Selenium Simplified
-
-Unow.be/rc/selsimp
 
 Java For Testers
 

@@ -10,7 +10,7 @@ https://www.eviltester.com/conference/oredev2014_conference/
 
 - [Slides in Markdown](slides.md)
 - [Notes from the presentation source](speaker-notes.md)
-- [Original slides as PDF](export/abstractionLayersPageObjectsPDF.pdf)
+- [Slides as PDF](export/abstractionLayersPageObjectsPDF.pdf)
 - [Recording with louder audio on YouTube](https://www.youtube.com/watch?v=YExv0Dlm0bc)
 - [Original conference recording on Vimeo](https://vimeo.com/111214646) - the conference page notes that its audio is very quiet.
 - [Original SlideShare release](https://www.slideshare.net/eviltester/automation-abstraction-layers-page-objectspdf)

@@ -6,8 +6,6 @@
 
 Alan Richardson
 
-<http://unow.be/conf/starwest2014>
-
 SeleniumSimplified.com
 
 JavaForTesters.com
@@ -130,8 +128,6 @@ seleniumsimplified.com/get-started/
 
 - Exercise: Download the source code
     - Download the source code
-        - http://unow.be/conf/handsonzip or
-        - <http://unow.be/conf/handsonsvn>
 - Exercise: Run a test from Command Line
     - Run “mvn test -Dtest=MyFirstTest” from the command line
 - Exercise: Import code into IDE
@@ -234,8 +230,6 @@ Section: WebDriver is an API
 ![slides 016 api overview](images/slides-016-api-overview.png)
 
 <http://www.mindmeister.com/280141421/selenium-2-webdriver-commands>
-
-<http://unow.be/at/apimindmap>
 
 ---
 
@@ -3051,9 +3045,9 @@ Blogs and Websites
 
 Online Training Courses
 
-- Technical Web Testing 101 Unow.be/at/techwebtest101
-- Intro to Selenium Unow.be/at/startwebdriver
-- Selenium 2 WebDriver API Unow.be/at/webdriverapi
+- Technical Web Testing 101
+- Intro to Selenium
+- Selenium 2 WebDriver API
 
 Videos
 
@@ -3062,8 +3056,6 @@ youtube.com/user/EviltesterVideos
 Books
 
 Selenium Simplified
-
-Unow.be/rc/selsimp
 
 Java For Testers
 

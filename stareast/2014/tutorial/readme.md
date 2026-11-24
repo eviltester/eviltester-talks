@@ -23,7 +23,6 @@ The source deck also includes bonus sections on alerts, user interactions, cooki
 ## Practice Pages and Original Code References
 
 - [Selenium Test Pages source](https://github.com/eviltester/seleniumTestPages), linked from the conference page and slides.
-- [Original tutorial materials link](http://unow.be/at/se2014).
 - [Original conference code ZIP location](http://compendiumdev.co.uk/files/conferences/se2014/handson20140504.zip).
 - [Original SVN code location](https://xp-dev.com/svn/HandsOnWebDriverOneDayCourseJava/trunk/).
 - [Selenium WebDriver API mind map](http://www.mindmeister.com/280141421/selenium-2-webdriver-commands), linked on slide 18.

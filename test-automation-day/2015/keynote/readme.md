@@ -9,7 +9,7 @@ https://www.eviltester.com/conference/testautomationday2015_conference/
 ## Content
 
 - [keynote slides in Markdown](slides.md)
-- [original keynote slides as PDF](export/TestAutomationDay2015KeynoteAlanRichardson.pdf)
+- [keynote slides as PDF](export/TestAutomationDay2015KeynoteAlanRichardson.pdf)
 - [keynote script](transcript/scriptTestAutomationDay2015Keynote.md)
 - [introduction video script](transcript/introScript.md)
 - [closing remarks](transcript/closingRemarksScript.md)

@@ -28,5 +28,3 @@ The PDF was generated using LibreOffice. The Blake image-credit URL on slide 6 w
 - Other images were retained from the original presentation.
 
 ## Historical Materials Link
-
-[Original event materials short link](http://unow.be/at/tmsummit2014)
