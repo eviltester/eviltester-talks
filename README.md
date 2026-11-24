@@ -331,6 +331,13 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/lestTest2012_conference/)
 
 
+## 2012 TestBash - The Evil Tester's Guide to Evil
+
+- [Slides, notes, prepared script, and outline on Github](https://github.com/eviltester/eviltester-talks/tree/main/testbash/2012/talk)
+- [Recording on Ministry of Testing](https://www.ministryoftesting.com/media-sessions/the-evil-tester-s-guide-to-evil-alan-richardson)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/testBash1_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
