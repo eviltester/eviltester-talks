@@ -256,6 +256,14 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/starwest2014_conference/)
 
 
+## 2014 Test Management Summit - WebDriver Tutorial and Automation Abstractions
+
+- [Test Management Summit 2014 materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-management-summit/2014)
+- [WebDriver tutorial on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-management-summit/2014/tutorial)
+- [Automation Abstractions discussion on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-management-summit/2014/discussion)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/testmanagementsummit2014_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
