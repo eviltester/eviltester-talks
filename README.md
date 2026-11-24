@@ -350,6 +350,13 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/tmf2011_conference/)
 
 
+## 2010 Test Management Summit - Exploratory and Innovative Testing
+
+- [Exploratory testing and innovation workshop on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-management-summit/2010/workshop)
+- [Exploratory Testing Techniques presentation on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-management-summit/2010/talk)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/tms2010_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)

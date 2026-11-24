@@ -1,0 +1,78 @@
+# Exploratory Testing and Innovation - Prepared Workshop Outline
+
+Complete outline converted from the source mind map. Timings and sequence reflect workshop preparation, rather than a transcript.
+
+Test Management Summit Workshop
+
+- \[1\] introduction
+    - 2hrs
+        - keep as practical as possible
+        - discussion invited and encouraged
+    - Pre-start setup and connect to env
+    - (10) talky bit
+        - Alan Richardson?
+        - Group?
+        - exploratory testing?
+            - standard definitions
+    - (20) innovation?
+        - (4) newness
+            - global context
+            - local context
+            - responding to challenge
+            - cheat the 3 constraints
+        - (6) examples in testing
+            - mine
+            - group
+            - example @ C4
+        - (10) 1st practical discuss
+            - in pairs, 3s, 4s
+                - 5 or 6 mins
+            - debrief
+                - 4 mins
+- \[2\] Current situation
+    - (15) 2nd practical
+        - do some exploratory testing
+        - debrief
+- (25) fundamentals
+    - (2) risks of innovation
+    - (2) objections to exploratory testing
+    - (2) risks of introducing exploratory testing
+    - (2) characteristics of exploratory testing
+    - (1) attitude of exploratory testers
+    - (15) 3rd practical explore
+        - adopt attidute
+        - pick some characteristics
+        - test again
+        - debrief
+- References and follow on reading
+- Secrets of the exploratory testing masters (2)
+    - hard work
+- Managing for exploration and innovation (6)
+    - recruiting (2)
+        - cv review
+        - phone interview
+        - F2F interview
+            - auditions
+    - build the right context (2)
+    - encourage innovation (2)
+- Tools (20)
+    - Augment rather than replace (2)
+        - think MacGuyver rather than Guyver
+    - Identify Need (2)
+        - search
+    - demo (2)
+    - 5th practical explore 15)
+        - tool assisted
+        - pick a tool you haven't used
+        - identify areas that 'if only you had a tool'
+- canoncial ideas (25)
+    - Risk Driven (3)
+        - beyond project risk
+        - coverage risk
+        - target risk
+    - Heuristics &amp; Mnemonics (3)
+    - Session based testing (3)
+    - 4th practical explore (15)
+        - adopt part of the canon
+        - test again
+        - debrief
