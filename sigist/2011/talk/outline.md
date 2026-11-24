@@ -1,0 +1,349 @@
+# SIGIST Technical Testing - Prepared Outline
+
+Complete outline converted from the source mind map. This is preparation material, not a transcript.
+
+Sigist Technical Testing
+
+- Traditional testing concepts that stop you testing technically
+    - black box/ white box
+        - makes ‘lazy’ modelling an acceptable technique
+        - stops you thinking systemically
+        - \+ there is a system, parts of which you know more about the terrain than the map than others, others you only know the map. but there are different degrees of knowledge about the terrain and different levels of map. Think with systems, not boxes.
+        - \+ I use those terms ironically to describe me when I test lazily and fall into the ’old’ patterns of testing that I was brought up on
+    - Functional/Non-functional testing
+        - \+ Both are ‘requirements’ testing
+        - \+ We are hard wired with word definitions. Misusing them ‘non-functional testing’ doesn’t help you think clearly.
+        - \+ I hate having to communicate testing using these words.
+        - \+ Functional - something that works, Non-functional - something that doesn’t (in the way it was intended) i.e. that hard drive is non-functional - that’s not a hard drive, that’s my hammer.
+        - \+ Non-functional testing then is....???
+        - \+ Why would you define non-functional requirements?
+        - \+ People waste years of their life in this are defining poxy requirements that no-one implements (I want it fast, how fast exactly? I’ll sack you if its slow - just make it fast OK)
+    - +ve, -ve testing
+        - o lazy thinking
+        - o +ve (non-error testing)
+        - o -ve (error handling testing)
+        - o error handling testing should be +ve testing
+        - o -ve testing is... ? f\*ck knows
+        - o what does this mean?
+            - \+ paths we expect to work
+            - \+ paths we expect to reveal an error in the application?
+            - \+ No, often it means test stuff, test error handling for stuff
+        - o Build better and clearer models than this!
+        - o Given an input field that accepts a date of birth formatted dd/mm/yyyy and displays an error if the date does not validate against mm(01 -12), dd(01-31, with correct number based on mm, and yyyy (leap years)).
+        - \+ what is -ve testing? we already know that ‘displays an error’ is a requirement, is requirement testing -ve testing?
+        - o Possible alternatives, risk based (from what? the technical implementation)
+    - Basics
+        - technical testing deals with new technologies, new applications, new teams
+        - Gestalt, Context, Weltanschauung - call it what you want
+        - Dealing with Systems - adopt systems approaches
+        - Reference
+            - <http://www.hitchins.net/SysBooks.html>
+        - Techniques are approaches aplied to models
+            - so think in terms of models
+            - think in terms of doing things to models
+    - 5 Whys
+        - o why takes you away from the problem
+        - o how takes you closer
+- How to get more from your testing books than they ever intended to tell you
+    - Assume that all testing books are out of date
+    - Rephrase and generalise the technique or description
+        - deconstruct the techniques
+    - Find the underlying principles
+    - Google for new ways of doing the underlying principles
+    - e.g.
+        - interviewing technical testers for web testing
+        - \+ I ask how candidate can test a drop down box where all the items in the drop down box are part of the same equivalence category for the submit path on the form
+        - \# many of them include the browser terrain in the test scope
+            - \* e.g. up and down arrows, initial letter keys etc.
+            - \* which might be fine if they recognise it is browser terrain and disassociate it from the web app
+        - some of them tell me they will save the page to a file and amend it, then load it back into the browser.
+            - Because this is listed in “How to break web software”, which is out of date, that is what we used to do, but we have other ways now e.g. Firebug, out of box functionality in Opera and Chrome
+        - \# after exercising all the obvious answers I’ll ask how they can choose a value not listed in the drop down box
+    - So generalise and spot patterns.
+    - o Lee Copelands book on test techniques starts with boundary value analysis and equivalence partitioning as test design approaches, then later covers domain analysis. I generalise BVA and Equivalence Partitioning into Data Domain Analysis and Modelling with Ordered Sets
+    - example
+        - how to Break Web Software
+            - An example of how to go meta and learn what the books don’t tell you.
+            - Attack 1 - Panning for gold
+                - find ways to observe system
+                    - (mentions: paros, IEHTTPServer, grep, ‘The regulator’)
+                    - proxy servers
+                        - burpsuite
+                            - builds a site map
+                - know how to interpret and use observations (what to look for)
+                    - ‘leaked’ information
+                    - comments in source code
+                    - sensitive information
+                    - error messages
+                    - urls
+                    - ip addresses
+                    - sql
+                    - DB Connection strig
+            - Attack 2 - Guessing Files and directories
+                - (tools mentioned: iDefence)
+                - default locations
+                - use generated ‘site map’ for
+                    - gaps
+                - guess subdomains (e.g. admin)
+            - Attack 3 - vulnerabilities in sample applications
+                - (tools mentioned: Nikto)
+                - ‘leaked’ information leads to ‘known vulnerability’ search
+                    - patterns
+            - Attack 4 - bypass restrictions on input choices
+                - (out of date chapter)
+                - interrupt communication flow
+                - amend gui - javascript, validation html etc.
+                - in browser using firefox, or proxy to filter out
+            - Attack 5 - bypass client side validation
+                - amend javascript
+                - hack hidden fields
+            - Attack 6 - Hidden fields
+                - (out of data approach using src file saving)
+                - amend in situ
+                - amend via proxy
+            - Attack 7 - CGI Parameters
+                - url params ?...&amp;...&amp;
+                - amend them
+                - parameter guessing e.g. &amp;debug=on etc.
+            - Attack 8 - cookie poisoning
+                - (out of date - amends cookies in file)
+                - just amend in situ in requests or in browser - firecookie etc.
+            - Attack 9 - Url Jumping
+                - model flow
+                - interfere with flow
+                - easy to do with proxy message replay
+            - Attack 10 - Session Hijacking
+                - \[generalise cookie, session as “static/session payload amends”\]
+            - Attack 11 - cross-site scripting
+                - a technical vulnerability to be aware of - doesn’t really help your testing
+            - Attack 12 - SQL Injection
+                - a technical vulnerability to be aware of - doesn’t really help your testing
+            - Attack 13 - Directory traversal
+                - use other pages to display each other i.e. pass page name as a param to a page that displays info
+                - traverse directories to find other items
+                - ../
+            - Attack 14 - Buffer Overflows
+                - (tools mentioned: spikeproxy)
+                    - a technical vulnerability to be aware of - doesn’t really help your testing
+            - Attack 15 - canonicalization
+                - encoding data to bypass controls
+                - still a useful and underused technique
+            - Attack 16 - null-string attacks
+            - Attack 17 - SQL Injection 2 - stored procedures
+            - Attack 18 - Command Injection
+            - Attack 19 - Fingerprinting the server
+                - generalise as duplicate of “Attack 3 - vulnerabilities in sample applications”
+                - mentions (securityfocus.com, osvdb.org)(foundstone sitedigger)
+            - Attack 20 - Denial of service
+                - long running queries
+                - slow bandwidth
+            - Attack 21 - Fake cryptography
+            - Attack 22 - Breaking Authentication
+                - (mentions hoobie.net/brutus)
+            - Attack 23 - cross-site tracing
+            - Attack 24 - forcing weak cryptography
+            - Tools:
+                - alternative text editor
+                - nikto
+                - wikto
+                - stunnel
+                - blackwidow softbytelabs.com (crawler/spider)
+                - wget
+                - curl
+                - paros (proxy tool)
+                - spike proxy
+                - ssldigger
+- Technical Testing is not hacking
+    - o I used to tell people to learn hacking if they want to learn technical testing
+    - o I think that is good, but flawed, advice
+    - o Hacking and technical testing are different
+    - How to Break Web Software has some good examples to help illustrate the difference
+        - \+ SQL Injection is not a ‘test technique’ it is a ‘Hacking Technique’. It is a known technique for exploiting a specific risk in apps that communicate with a DB. You may or may not choose to use it in your testing.
+        - \+ The general principle that SQL is based on is a test approach. “impact of data may change, as it flows through the system”. SQL Injection is a specific instantiation of this, or other possible generalisations in this area.
+        - \+ As technical testers we want the generalisations, and need to know instantiations of them. But if we just have the instantiations then we are bluffing our way through.
+    - o The hacking literature is an excellent source of building those generalisations and learning the technology that we test against. So do learn hacking, but make sure you Generalise.
+- How to build test techniques from first principles
+    - Techniques are approaches aplied to models
+        - so think in terms of models
+        - think in terms of doing things to models
+    - Generalised approaches
+        - flow (metaphors, tap, river)
+            - interrupt
+            - flood
+            - stop/start timing
+        - physical boxes
+            - too small
+            - too big
+            - just right
+                - round peg in a square hole
+        - presuppositions
+    - o Model
+        - flow models
+        - data models
+        - logical (wooly) models
+        - etc.
+    - o Possibilities and options
+    - o This is the only good reason I can think of for getting someone to test a ‘spoon’ or a ‘pen’. It forces them to build new techniques, becuase they haven’t read the “Bluffers Guide to Spoon Testing” (possibly written by Ian Rowland or Guy Bavli)
+    - if testers were physicists they'd probably have invented the atom bomb by accident
+- ying and yang
+    - o Observe
+        - how can i see?
+        - what could I see?
+        - can I see more?
+    - o Manipulate
+        - etc.
+    - these principles drive my tool selection
+        - If I'm not doing these I'm nervous
+        - 'all' technology has this
+- Cross discipline metaphors to guide technical testing
+    - Technical Testing like magic/magick
+        - Anthropomorphic magickal thinking
+            - The system doesn’t want you to know how it works, or prodding about with it, to understand its motivations or reasons
+            - The system conceals intent
+        - Misdirection
+            - Be Aware of the possibility of misdirection
+            - Ignorance of the law is no excuse
+- The right way to quickly build a map
+    - start building it
+        - at whatever level of 'observation' you have
+    - tools can help
+        - spiders
+        - proxy servers
+        - graphviz
+        - pen &amp; paper
+- What is Technical Testing?
+    - Thanks for asking the question of defining technical testing. I don't really like definitions :) I don't consider technical testing to be technique based though. I think traditional 'testing techniques' can prove detrimental to the technical tester if they use 'techniques' to identify their tests. I think of technical testing as being driven by technical risk and based on system modelling. Testing techniques can provide a way of identifying the coverage scope within the technical risks identified. The technical tester needs to be able to work from first principles and define their own techniques because they may be working with new technology and new approaches. Actually the phrase "Technical Tester" is a lie, and it is really "Systems Testing" but that phrase is taken, so "Systems Based Testing" is better, but "Technical Tester" is how I think of it.
+    - For me a technical tester would look at a web form and rather than approaching it from a requirements and business perspective. Deals with the implementation and technology involved.
+    - So to get all Zen. For a technical tester there is no +ve, or -ve test, there is only the flow and how we handle it. There are no boundaries, there are only arbitrary overlapping categories. There are no absolutes, only overlapping and possibly contradictory models.
+    - If the System lets me do it, then the system needs to handle it. And the System includes, what we write as software, browser, communication protocols, etc. etc. So for a web form there is. the browser, the config, the form, the javascript, the validation, the payload, the transport mechanism, the receiver; there are flow models, data models, server models and the technical tester looks at the interaction of all this to identify risk. The limitation of the approach of the technical tester is their knowledge and their skill.
+    - Part of this is the generalised models from the "How to break books", the difference and overlap between hacking and testing, etc.
+    - Crappy definition I know. But then I don't like definitions. I'm more interested in the approach than the definition, so I need to provide examples, and explain mindsets and strategies. Obviously I need a 'bluffers' guide - which contains the tools and mnemonics.
+- Talk
+    - 45 mins
+    - \+ Technical Web Testing Intro
+    - Can testers still coast by with a few techniques, and a few buzzwords? Can testers still survive by producing endless pages of tests without executing them and relying on the project getting canned after a few years? In some companies they possibly still can, but not for very much longer, Alan Richardson will explain why.
+    - Title: Learning, Developing, Evolving: The Path of the Technical Tester
+    - Call to action: Testers need to get more technical, here are the basic steps
+    - Thesis: Testers will not be able to survive for much longer with the traditional approach to testing. We need to smarten up, get more technical, become IT professionals if we want to survive. And buy survive I mean, ‘work on good projects’ and not be left on the side like little dinosours awaiting extinction.
+    - Intro
+    - Times are changing and testers need to change with them
+        - description of the bad old days
+        - description of current approaches
+        - the challenge to testers of the new approaches
+        - \+ Testing Used to be Easy
+            - year + projects
+            - nothing to test (sometimes ever)
+            - lots of scripts, meetings, techniques, derivation, writing, updating, amending etc.
+            - Y2K
+            - Outsourcing
+        - Testing can still be easy... but not for very much longer
+            - Software Development changes constantly. Software Testing needs to change too. The ‘Test’ no longer remains the sole property of the ‘tester’. Developers and business analysts can write automated requirement tests numbered in the thousands without any help from testers. Testers need to evolve their role and approach. By adopting more technical approaches testers can add value that no-one else on the development team does.
+            - Agile, Lean, TDD, BDD, O/S Automation
+        - Testers need to change
+            - The ‘tester’ needs to work quickly, to learn to approach the system technically as well as from the requirements domain. The ‘technical tester’ comes armed with tools, and the ability to construct their own tools. Able to strip the application down to its basics. Able to hone in on technical risk and exploit it. Ah, you ask, is it really possible to learn this dark art? Are these terrible secrets available for anyone to use? No, we say, not just anyone. For, only to those that attend this talk will Alan explain the approaches he uses to do this.
+        - What about business/ requirements testing?
+            - I assume every tester can do that and has learned the basics of test analysis and business domain/requirements testing.
+            - I assume you can do that
+            - This is on top of that
+            - Technical testers build on these skills
+        - The old software development terrain and how we got away with crap testing
+            - Everyone hated testing (process and people)
+                - I was around then, so I know, and it wasn’t just me - I’m a likeable guy
+            - o Waterfall
+            - ‘Traditional’ software testing strategies evolved from crap software development practices
+            - o Build a Systems effects and flow model to illustrate
+        - The new development terrain and why technical testing is essential
+            - o We can’t get away with ‘it’ any more
+            - We have learned that Waterfall doesn’t mean we have to act badly - although interpretations around ISEB and standards seem to lead people to the same old conclusions
+            - o Agile
+            - o TDD
+            - o Build a systems effects and flow model to illustrate
+    - What is the secret of change o worry wart?
+        - More importantly will Alan will explain some of the mind sets, models, and techniques that form his general technical testing model, including:
+        - \- Learn the traditional testing concepts that stop you testing technically
+        - \- How to get more from your testing books than they ever intended to tell you
+        - \- How to build test techniques from first principles
+        - \- How to quickly build a map
+        - \- How to use the difference between map and territory to improve your testing
+        - \- The Ying and Yang of technical testing: Observe and Manipulate
+        - I try and keep things simple. All my models and concepts are pretty simple when it comes right down to it because I generalise up. I remember stuff at the trunk, and follow derivational paths to get to the leaves and branches. I try and start with first principles, and simple principles. So that is where these models come from.
+        - There are models and approaches that can help
+            - These are generic models and are not just applicable to web testing
+        - How to use the difference between map and territory to improve your testing
+            - o MAP
+            - o Understand the system architecture
+                - \+ Draw it up
+                    - \# graphviz?
+                - \+ Research it
+                    - \# Make Notes
+                        - \* Freemind
+                        - \* Leo
+                - \+ Identify test approaches
+                - \+ Identify coverage areas
+            - o Understand the technologies in use
+                - \+ Make a list
+                - \+ Google research
+                - \+ Speak to devs
+                - \+ Try and work with the technologies
+                - \+ Identify impact/benefits for testing
+                - \+ identify known vulnerabilities
+            - o TERRITORY
+            - o Understand the implementation techniques
+                - \+ use of cookies
+                - \+ ajax
+                - \+ etc.
+            - o Find ways to observe the system
+                - \+ Based on technology and architecture
+            - o Find ways to manipulate the system
+            - o find ways to manipulate the flow of information
+            - o Find ways to enter the communication flow at different levels
+            - o Find ways to automated the system
+            - o Identify tools to help
+            - Differentiate between Environment terrain and application terrain
+                - A system exists at multiple levels
+                - Web app, lives in a browser (so some functionality is associated with the browser terrain and not the web app terrain)
+                    - We don’t need to ‘test’ the browser functionality
+                    - We might associate ‘risk’ with the differences between how browsers implement this functionality, so we might want to exercise the difference. But because it is based on ‘risk’ and not ‘functionality’ you dont have to repeat it for every web app version, but for different browser versions
+            - Mindsets
+                - o Map &amp; Territory
+                - o Map - model
+                - o Territory - actual
+                    - \+ Territory is physical and can be changed
+    - Bluffers Guide to Technical Web Testing
+        - All tools must tie in to principles above
+        - BurpSuite, WebScarab, Fiddler - or if you want to pay money BurpSuite, Charles
+        - Firefox, Chrome
+        - Out of the Box
+        - Plugins
+        - Of course, Alan will describe some of the free and open source tools he currently uses to approach testing technically. But this is no mere “Bluffers guide to Technical Testing”. You will get more than just a simple list of tools and tool types.
+        - Some Actual tools of a technical web tester
+        - o Adhoc Automation
+            - \+ curl
+        - o Automation
+            - \+ JMeter
+            - \+ Selenium
+        - o Database access
+        - o Programming
+            - \+ language of the dev team
+            - \+ scripting languages
+        - o Test Data
+            - \+ Benerator
+            - \+ PerlClip
+        - o Proxies
+            - \+ Fiddler
+            - \+ Burpsuite
+            - \+ WebScarab
+    - Summary
+        - \+ Summary
+        - Attendees will leave with an understanding of the need for, and the pragmatics of, technical testing . And a solid set of next actions and research topics leading them towards the path of increasing technical skill.
+        - plug book
+    - Related Reading
+        - Create a bitly for this:
+        - <http://www.eviltester.com/index.php/2009/04/29/how-on-earth-did-we-test-the-web-without-these-tools/>
+        - How to break web software
+        - How to break software
+        - Web Application Hacker's Handbook
+        - Selenium Simplified <http://www.compendiumdev.co.uk/selenium> (create bitly link) Automation and Programming is not a secret art
+        - Stafford Beer - Diagnosing the System for Organizations
+        - The Art of War - Sun Tzu - provides a generalisable model for technical testing - including map/territory, observation (use of spies) and manipulation www.sonshi.com
+        - the book of Five Rings - Miyamoto Musashi - <http://samuraiconsulting.ca/5rings/>
