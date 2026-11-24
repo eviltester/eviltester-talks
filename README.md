@@ -312,6 +312,18 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Black Ops Testing details on EvilTester.com](https://www.eviltester.com/conference/ltgw2013_blackops_conference/)
 
 
+## 2012 EuroSTAR - Keynote, Selenium Clinic, and Webinars
+
+- [All EuroSTAR 2012 materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2012)
+- [Unconventional Influences - keynote, paper, and notes](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2012/keynote)
+- [Selenium Clinic - tutorial with Simon Stewart](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2012/tutorial)
+- [Keynote and tutorial details on EvilTester.com](https://www.eviltester.com/conference/eurostar2012-unconventional_conference/)
+- [Thinking Visually in Software Testing - webinar materials](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2012/thinking-visually)
+- [Thinking Visually webinar details and recording](https://www.eviltester.com/conference/eurostar2012-thinking-visually-webinar/)
+- [The Evil Tester's Guide to Technical Testing - webinar materials](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2012/technical-testing)
+- [Technical Testing webinar details and recording](https://www.eviltester.com/conference/eurostar2012-technical-testing-webinar/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)

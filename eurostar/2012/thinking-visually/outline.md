@@ -1,0 +1,198 @@
+# thinking visually
+
+Prepared outline converted from the source mind map. This is not a transcript.
+
+- Whu?
+    - aid thinking
+    - aid communication
+- This is based on
+    - learning to communicate more succinctly
+    - helping me spot gaps in my thinking
+        - don't rely on reviews
+    - learning systems thinking
+        - systems
+        - entities
+        - flows
+        - relationships
+    - reviewing other plans &amp; docs
+        - frustration
+        - data
+        - focus not on communication
+    - writing a diagramming/outlining tool
+    - reading quickly
+        - how texts help
+        - how texts hinder
+        - techniques for bypassing this
+    - this is not based on psychology
+        - based on experience
+- A visual example of adhoc Thinking visually
+    - e.g. testing google search box
+    - normally I'd do this on paper
+- adhoc tooling
+    - paper and pen
+    - camera
+    - scanner
+- not thinking visually
+    - actually we do think visually, but we have learned not to communicate visually
+    - I think we have learned
+        - bad
+            - doodles
+            - small time spent
+        - good
+            - paragraphs with big words
+            - big is better
+    - I don't think we spend enough time on
+        - value
+        - communicaton
+        - novelty
+        - how people remember
+        - design
+    - this is the norm
+        - express thinking linearly
+        - no big picture
+        - word processor as outline
+    - what this looks like &amp; traps
+        - the block
+            - reaction
+                - yada yada yada
+        - summarise without thought to the reader
+        - templates - using standard text
+        - don't know what is important
+        - the numbered list
+        - the outline list
+        - copy and paste diags
+            - this isn't testing!
+    - on the web examples
+        - document examples
+            - [softwaretestinghelp](http://www.softwaretestinghelp.com/wp-content/qa/uploads/2007/07/sample-test-plan-template.pdf)
+            - test plan file:pdf
+                - [saml test plan](http://projectliberty.org/liberty/content/download/4160/27946/file/Liberty_Interoperability_SAML_Test_Plan_v3.1.pdf)
+                - [bdonline](http://bdonline.sqe.com/documents/testplans.pdf)
+            - test strategy file:doc
+                - [fsda template](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCcQFjAA&url=http%3A%2F%2Fwww.fsa.usda.gov%2FInternet%2FFSA_File%2Fsdlc_template_test_strategy.doc&ei=omyRT8TsG8Xf8QPF5fDCBA&usg=AFQjCNFTraKwHe7CL8YqQpTo52u7R4EnOw&sig2=5MypQirfL86jWUiHXcMSPw)
+                - [british columbia test strategy](http://www.bced.gov.bc.ca/imb/downloads/cdmdt/dt_te010.doc)
+            - test plan file:doc
+                - [http://www.rbcs-us.com/software-testing-resources/library/basic-library](http://www.rbcs-us.com/software-testing-resources/library/basic-library)
+                - [sumatra test plan](http://www.rbcs-us.com/images/documents/Sumatra-Test-Plan-%28Final%29.doc)
+                - [gaojerry course](http://www.engr.sjsu.edu/gaojerry/course/287/TestPlan.doc)
+- But this is not how you think!
+    - we think big picture
+    - we build big picture quickly
+    - examples from my notebooks
+- My View
+    - words are pictures
+        - words are concepts
+        - what you think of as words are drawings on a page
+    - unless you are blind - everything has a visual impact
+    - documents are pictures
+        - some books are beautiful
+        - some books are ugly
+        - some books flow
+        - some books stutter and block us
+    - thinking is different from communicating
+        - different processes
+        - different tools
+        - thinking is personal
+        - communication triggers thinking
+        - we want to aid others to think
+    - thinking is for us
+        - our reflective loop
+    - communicating is for others
+        - our relationship to them
+    - different visual models have different purposes and impact
+- making your testing visible
+    - screenshots
+    - movies
+    - demos
+    - face 2 face
+    - logs
+    - note taking
+- tools to experiment with
+    - [graphviz](http://www.graphviz.org/)
+    - [umlet](http://www.umlet.com/)
+    - [drawtiming](http://drawtiming.sourceforge.net/index.html)
+    - [asciiflow](http://www.asciiflow.com/)
+    - <http://www.websequencediagrams.com/>
+    - xmind
+    - freemind
+    - freeplane
+    - evernote
+    - [yuml](http://yuml.me/diagram/scruffy/class/samples)
+    - [yed](http://www.yworks.com/en/products_yed_about.html)
+- thinking visually
+    - diagrams
+    - cartoons
+- why and how communicate visually
+    - help people get the big picture
+    - help people chunk it
+    - remodel it in different ways
+        - list
+        - time
+            - timeline
+            - gantt chart
+        - attribute relationships
+            - tables
+            - categories
+            - outlines
+        - space
+            - spatial notes
+            - use white space effectively
+        - flows
+- Slogans
+    - how little can you get away with?
+    - 'game' the templates
+    - imporant things first
+    - summarise for the reader
+    - meet the readers needs
+- For communication
+    - visualise the outcome
+        - what do you want people to say?
+        - what do you want them to do?
+        - what is important for them to know?
+    - visualise how this will be used
+        - study
+        - talked in a meeting
+        - perm communication
+        - temp
+    - visualise the user
+        - stakeholder needs drive content
+        - persona drives style
+- Systems Thinking
+    - book examples flip through
+        - diagnosing the system
+        - desiging for freedom
+        - systems, management and change
+        - pyramid principle
+- process
+    - collate
+    - structure
+        - outline
+    - layout for communication
+        - story boards
+- thinking spatially
+    - mind maps
+    - text editors
+    - outlines
+    - layout
+        - layout comes last
+        - move away from test strategy and think about strategising
+- obvious things first
+    - mind maps
+        - for memory
+        - for study
+        - not for communication
+            - terrible communication tool
+            - great thinking tool
+            - but normally used as an outline
+    - diagrams
+        - illustrations to backup text
+        - standalone communication
+    - outlines
+- rapid reading
+    - most words are padding
+    - outlines reveal big picture
+    - images, summaries, callouts
+    - 1st and last paras
+    - read backwards
+
+The internal examples branch, containing preparation and proprietary-source reminders, is omitted.

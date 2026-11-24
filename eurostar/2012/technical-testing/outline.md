@@ -1,0 +1,78 @@
+# The Evil Tester's Guide to Technical testing
+
+Prepared outline converted from the source mind map. This is not a transcript.
+
+- Warning, Opinions Within
+- Unused
+    - What stops technical testing
+        - confidence
+        - Fear
+        - mental blocks
+            - You can block yourself
+            - You can also unblock
+        - The Message
+    - What is technical testing?
+        - I don't know
+            - since I was wee
+            - white box/ black box
+            - worse: test techniques mislead
+            - white box != technical
+            - I want to understand
+    - Test Techniqes Revisited
+        - drop down bug story
+- Next Up: You
+- [Why should you care?](http://www.mindmeister.com/)
+    - Technical Testing sounds like hard work
+    - Reasons based on FEAR
+        - projects are becoming more technical
+        - "They" are now testing
+    - Reasons based on HOPE
+        - Flexibility
+        - Find different types of bugs faster
+        - Add more value
+        - Future proof yourself
+- Bluffers Guide
+    - Web Testing
+    - Further Reading
+- Can Anyone do this?
+    - I don't know
+    - I've learned some secrets
+    - But I've seen people do it
+- What stops Technical testing?
+    - 4 Areas to think about
+    - environment blockers
+        - Lock down the environment
+        - I'm a manager
+    - Personal Motivation
+        - this will trump everything
+- what is Technical Testing?
+    - I don't know
+        - I jump between domains
+        - testing != technical
+    - But I know it when I see it
+        - that's not my job
+            - NO - wrong attitude
+        - I run these queries
+            - NO - not enough understanding
+        - I do the defaults
+            - YES - but more to learn
+        - of course...
+            - YES
+        - how to spot it?
+            - Attitude
+            - Asking questions
+            - Leave no stone unturned
+            - Tool Up
+            - Pairing
+            - Experiment
+            - Own it
+- How a technical tester views a system
+    - A non-technical view
+    - A Technical View - Web App Terrain
+    - A Technical View - Server Terrain
+    - A Technical View - Browser Terrain
+    - A Technical View - Architecture Terrain
+    - A Technical View - User Terrain
+- Test Techniques Revisited
+    - BVA
+    - BVA + Technical Knowledge
