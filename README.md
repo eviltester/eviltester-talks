@@ -363,6 +363,14 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details and expanded notes on EvilTester.com](https://www.eviltester.com/conference/tmsJan2009_conference/)
 
 
+## 2005 BCS North London - Context Driven Testing, A Personal View
+
+- [Short talk slides, notes and transcripts on Github](https://github.com/eviltester/eviltester-talks/tree/main/bcs-north-london/2005/talk)
+- [Draft paper](https://github.com/eviltester/eviltester-talks/tree/main/bcs-north-london/2005/paper)
+- [Extended presentation - not delivered](https://github.com/eviltester/eviltester-talks/tree/main/bcs-north-london/2005/extended)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/northLondonBCS2005_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
