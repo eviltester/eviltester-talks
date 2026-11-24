@@ -264,6 +264,15 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/testmanagementsummit2014_conference/)
 
 
+## 2013 TestBash 2.0 - 99-Second Talks
+
+- [All talk material on Github](https://github.com/eviltester/eviltester-talks/tree/main/testbash/2013)
+- [Delivered talk: Contrast, Analyse, Ridicule](https://github.com/eviltester/eviltester-talks/tree/main/testbash/2013/talk)
+- [Prepared alternative: Words as Symbols](https://github.com/eviltester/eviltester-talks/tree/main/testbash/2013/alternative-talk)
+- [Live conference recording - starts about four minutes in](https://vimeo.com/64753585#t=4m)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/testBash2_conference/)
+
+
 ## 2013 Software Development Summit - Two Keynotes
 
 - [All materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/software-development-summit/2013)
