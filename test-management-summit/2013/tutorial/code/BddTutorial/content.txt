@@ -1,0 +1,7 @@
+!contents -R2 -g -p -f -h
+
+!define TEST_SYSTEM {slim}
+!path .\target\classes
+!path .\target\test-classes
+!path .\target\tracksAutomation-1.0-SNAPSHOT-jar-with-dependencies.jar
+

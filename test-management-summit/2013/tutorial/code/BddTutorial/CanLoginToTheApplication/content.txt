@@ -1,0 +1,11 @@
+!contents -R2 -g -p -f -h
+
+|import|
+|com.eviltester.fitnesse|
+
+A known user should be able to login with their username and password
+
+!| A known user can login |
+| username | password | success? |
+| user | password | loggedin |
+| user | badword | failed |

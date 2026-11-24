@@ -264,6 +264,13 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/testmanagementsummit2014_conference/)
 
 
+## 2013 Test Management Summit - BDD Tutorial and Managing Technical Testers
+
+- [Lessons Learned with BDD - tutorial slides and materials](https://github.com/eviltester/eviltester-talks/tree/main/test-management-summit/2013/tutorial)
+- [How to Manage Technical Testers - facilitated discussion](https://github.com/eviltester/eviltester-talks/tree/main/test-management-summit/2013/discussion)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/tmsJan2013_conference/)
+
+
 ## 2013 TestNet - Silver Bullets Keynote and HTTP Proxy Tutorial
 
 - [All materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/testnet/2013)

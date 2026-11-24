@@ -1,0 +1,214 @@
+# Lessons Learned With BDD
+
+Prepared outline converted from the source mind map. This is not a transcript. The internal TODO branch for preparing the tutorial has been omitted.
+
+- BDD, ATDD, TDD
+    - what are they?
+        - "build the right product"
+            - Domain Driven Design
+            - Specification By Example
+            - Acceptance Test Driven Development
+            - Behaviour Driven Development
+        - "build the product right"
+            - Test Driven Development
+    - Does it matter?
+        - acceptance - how do we know
+            - examples
+            - which become tests
+        - behaviour - outcomes
+    - Similarities
+        - Collaboration
+        - Examples
+        - Written in terms of the domain
+- Ubiquitous Language
+    - shared by all
+    - not just 'business' terms
+    - technical terms
+    - topology terms
+    - environment terms
+- Workshop format
+    - I'll code and demonstrate
+    - you'll discuss and write
+    - why?
+        - because that's how you will start in the real world
+- Natural Language vs Domain Specific
+    - natural
+        - ambiguous
+        - open to interpretation
+    - domain
+        - agreed meanings
+        - single meanings
+        - risk: people think it isn't ambiguous
+- Most people...
+    - Don't
+        - model
+        - use a ubiquitous language
+        - use a DSL
+        - abstract to a model
+        - iterate enough over the model
+        - Decorate examples with text
+        - As a ... in order to... I want ...
+        - think about options
+        - think they have multiple domains
+            - multiple models
+            - multiple languages
+    - Know about...
+        - Declarative vs Procedural
+        - examples
+        - Given, when, then
+        - As a... I want ... so that ...
+- Question Types
+    - why
+        - targets beliefs
+        - good for goals and value
+        - people defend beliefs
+        - might need to rephrase in terms of how, or what
+    - how do you know
+        - checks evidence
+    - how?
+        - features
+    - how else?
+        - options
+    - iterate over question types
+- Declarative vs Procedural
+    - how vs what
+        - 'real options'
+        - defer decision to commit
+        - freedom to change
+    - procedural
+        - how to do something
+        - change in implentation demands a change in spec
+    - declarative
+        - what is required
+        - what it does
+        - outcomes
+        - inputs
+        - change in implementation should not impact spec
+    - do we always want one or the other?
+    - Is the domain declarative or procedural?
+- Models
+    - most people miss these out and go straight to the spec
+        - model fast and high
+        - fast to explore
+        - easy to experiment with
+        - draw diagrams
+        - people more eager to amend than written language specs
+    - use to drive and discuss specs
+    - use to spot future evolutions in advance
+    - from domain driven design
+        - "...every model represents some aspect of reality or an idea that is of interest. A model is a simplification. It is an interpretation of reality that abstracts the aspects relevant to solving the problem at hand and ignores extraneous detail."
+        - the model and the heart of the design shape each other
+        - the model is the backbone of the language used by all team members
+        - The model is distilled knowledge
+        - pages 2-4
+    - business domains can be inconsistent and ill thought through. Our domain has to be clearer and may introduce new terms into the domain model
+        - ubiquitous language evolves
+- Principles
+    - Use Examples to instantiate rules
+    - Write down the rules
+    - Write explanatory text if necessary
+    - examples need to be concise
+    - Flexibility adds value
+        - Goals &amp; Value define scope
+        - define value scope before feature scope
+        - Create 'options' at all levels
+        - commit late
+    - Ubiquitous Language
+    - Model it
+        - don't just spec it
+        - don't just test it
+    - Living Executable Documentation
+    - Favour declarative above procedural
+    - There are multiple levels
+        - not just Epic, Story, Task
+        - 1 ft, 10 ft, 100 ft, 1000 ft, 10,000 ft, ..., big picture
+- Tools
+    - FitNesse
+        - SLiM
+            - Decision Table
+            - Query Table
+            - Script Table
+            - Scenario Table
+        - Danger
+            - doing everything in one table
+                - Setup, Execute, Verify
+                - Become more declarative
+    - Cucumber
+- Exercises
+    - Create a common domain
+- Suggestions
+    - avoid fixed data
+        - e.g. dates, specific ids etc
+- Multiple Domains
+    - Physical Application GUI Domain
+    - Workflow Domains
+        - Users
+        - Admins
+        - Visitors
+    - Business Domain
+    - Specification Language Tool Domain
+- Languages
+    - Gherkin
+        - Feature
+        - Scenario
+            - Given, When, Then
+            - Given
+                - preconditions
+                - some of this summarised by the DSL
+                    - visitor
+                    - user
+                    - admin
+                - context
+                - data
+                - state
+            - When
+                - actions
+                - triggers
+            - Then
+                - checks
+                - outcomes
+                - observable
+                - post conditions
+                - state
+                - data
+    - Tables
+    - User Stories
+        - As a
+            - valued by
+        - I want ...
+            - features
+        - So that ...
+            - outcome
+            - goal
+        - sometimes people focus on features before goals
+            - ordering and wording can impact this
+            - as a.. in order to ... I want ...
+            - put the benefit, goal, value first
+- Dangers
+    - examples lose the rules
+    - Story Card Hell
+    - just because it executes doesn't mean you can trust it
+        - implementation code has been hidden
+        - abstraction layers in place
+        - code can be wrong
+    - Be careful about adding too much documentation that is not executable
+        - because it needs to be maintained
+        - and it probably won't be
+        - If it is not executable you can't trust it as much
+    - easy to create too many examples
+        - illustrative
+        - authorative
+        - not exhuastive
+- References
+    - Links
+        - [Virtual Panel on TDD BDD](http://www.infoq.com/articles/virtual-panel-tdd-bdd)
+        - [Real Options enhance Agility](http://www.infoq.com/articles/real-options-enhance-agility)
+        - [Introducing BDD by Dan North](http://dannorth.net/introducing-bdd/)
+        - [Feature Injection by Chris Matts &amp; Gojko Adzic](http://www.infoq.com/articles/feature-injection-success)
+            - Value -&gt; Features -&gt; Examples
+        - [Specification by example resources](http://specificationbyexample.com/resources.html)
+    - Books
+        - ATDD by Example: A Practical Guide to Acceptance Test-Driven Development
+        - Specification by Example by Gojko Adzic
+        - Lean Software books
+        - Domain Driven Design
