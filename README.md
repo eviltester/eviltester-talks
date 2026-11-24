@@ -264,6 +264,12 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/testmanagementsummit2014_conference/)
 
 
+## 2013 Let's Test - The Evil Tester's Guide to Web Testing
+
+- [Talk slides and notes on Github](https://github.com/eviltester/eviltester-talks/tree/main/letstest/2013/talk)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/letstest2013_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
