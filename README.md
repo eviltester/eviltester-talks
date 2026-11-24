@@ -357,6 +357,12 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/tms2010_conference/)
 
 
+## 2009 Test Management Summit - Exploring Open Source Test Tools
+
+- [Discussion slides and archived session notes on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-management-summit/2009/discussion)
+- [Full Details and expanded notes on EvilTester.com](https://www.eviltester.com/conference/tmsJan2009_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
