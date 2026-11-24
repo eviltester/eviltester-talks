@@ -380,6 +380,14 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/eurostar2004_conference/)
 
 
+## 2003 EuroSTAR - Be a Better Tester, Be a Beta Tester
+
+- [Presentation slides and prepared notes on Github](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2003/talk)
+- [Supporting paper](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2003/paper)
+- [Annotated tools and beta-programme guides](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2003/supporting)
+- [Full Details and additional points on EvilTester.com](https://www.eviltester.com/conference/eurostar2003_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
