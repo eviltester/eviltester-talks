@@ -371,6 +371,15 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/northLondonBCS2005_conference/)
 
 
+## 2004 EuroSTAR - Alternative Test Tools in Action
+
+- [Presentation slides and prepared notes on Github](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2004/talk)
+- [Four supporting papers](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2004/papers)
+- [Sample defect report](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2004/examples)
+- [Mind maps and tools catalogue](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2004/supporting)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/eurostar2004_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
