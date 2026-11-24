@@ -1,0 +1,58 @@
+# Gruyere Login With Fiddler 15 min testing
+
+Exercise notes converted from the original FreeMind map. Tool names, behaviour, versions, and download links describe the 2013 demonstration.
+
+- 15 min fiddler debrief
+    - can see cookies set and changed in the raw response
+    - url params in the URL in session view
+    - All GET requests, posts have a different icon, but can see the GET in the Inspectors
+    - Fiddler functionality used
+        - Inspector
+            - request
+            - response
+        - Composer
+            - to experiment with cookie changing
+        - Process Limitation
+        - WebView Tab
+            - render html without css
+        - Firefox fiddler plugin
+        - Options for https
+        - decrypt HTTPs
+        - Session view
+- basic setup
+    - [install Fiddler](http://fiddler2.com/)
+    - [install any add-ons](http://fiddler2.com/add-ons)
+- Run
+    - start exe
+    - limit to browser process
+    - Ctrl X to clean up any old traffic in the session display
+    - enable fiddler using fiddler addon
+    - when traffic is captured you are good to go
+- test login
+    - home page
+    - login without registring
+        - traffic shows a login with username an password in url
+        - login request is a get
+        - not even https
+    - sign up
+        - bob/bob
+        - sign up request is a get as well
+        - not https
+        - automatically logged in
+        - just noticed a cookie id
+            - check cookie id is on all previous requests
+        - new cookie set - can see in the raw request
+            - assume session id
+            - with username
+            - with blank? what is this
+            - with permission
+    - what happens if I use https?
+        - works fine
+        - assuming fiddler https decrypt is on
+    - logout
+        - clears the GRUYERE cookie
+    - what happens if I resend an old request, after logging out, with those details?
+        - still valid
+        - perhaps logout does not close the session cookie on the server?
+    - what if I change the name on that request?
+        - The session is not viewed as valid, so the name/session id is important

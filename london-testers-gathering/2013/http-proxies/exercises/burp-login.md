@@ -1,0 +1,53 @@
+# Gruyere Login with Firefox &amp; BurpSuite
+
+Exercise notes converted from the original FreeMind map. Tool names, behaviour, versions, and download links describe the 2013 demonstration.
+
+- Debrief
+    - BurpSuite Functionality Used
+        - Proxy / Options
+        - Proxy / History
+            - shows commands
+        - Params Tab
+            - shows url params clearly
+        - Render Tab
+            - uses full css
+        - Target / SiteMap
+            - shows additional scope
+        - Repeater
+            - not shown in history
+    - Proxy Notes
+        - https decrypted by default
+        - deliberately configure browser to use proxy
+            - no accidental traffic
+    - On App Additionally noticed
+        - on sign up, page title says "Error" but message account created
+- [download](http://portswigger.net/burp/download.html)
+- run
+    - java -jar burpsuite\_free\_v1.5.jar
+    - proxy options
+        - listener
+        - 127.0.0.1:8080
+        - config browser
+    - visit gruyere
+        - intercept on by default
+        - switch it off
+        - history shows traffic
+- Testing
+    - Start App
+        - BurpSuite History shows message calls clearly as GET
+        - and http not https
+        - Headers Show cookie set on initial GET /start
+        - SiteMap shows areas I haven't tested yet, good for scope and understanding
+    - Sign Up
+        - Request.Params tab clearly shows username and password in clear text
+        - New Cookie set in the response using headers view
+        - Why does title say error? but message account created?
+        - back to home already logged in
+    - Home
+        - try https and works fine
+        - decrypted automatically in Burp
+    - Sign Out
+        - resend Home request after sign out
+        - send to repeater
+            - not shown in history
+            - shows as logged in

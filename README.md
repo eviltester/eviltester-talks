@@ -270,6 +270,15 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/letstest2013_conference/)
 
 
+## 2013 London Tester Gathering Workshops - HTTP Proxies and Black Ops Testing
+
+- [Workshop materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/london-testers-gathering/2013)
+- [HTTP Proxies and Developer Tools slides and exercises](https://github.com/eviltester/eviltester-talks/tree/main/london-testers-gathering/2013/http-proxies)
+- [Black Ops Testing slides and session materials](https://github.com/eviltester/eviltester-talks/tree/main/london-testers-gathering/2013/black-ops)
+- [HTTP Proxies workshop details on EvilTester.com](https://www.eviltester.com/conference/ltgw2013_proxies_conference/)
+- [Black Ops Testing details on EvilTester.com](https://www.eviltester.com/conference/ltgw2013_blackops_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
