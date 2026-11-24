@@ -388,6 +388,15 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details and additional points on EvilTester.com](https://www.eviltester.com/conference/eurostar2003_conference/)
 
 
+## 2003 STAR East - Practical Experiences with Graph Based Testing
+
+- [Presentation slides on Github](https://github.com/eviltester/eviltester-talks/tree/main/stareast/2003/talk)
+- [Complete supporting paper](https://github.com/eviltester/eviltester-talks/tree/main/stareast/2003/paper)
+- [Graph spreadsheet, instructions, VBA and DOT example](https://github.com/eviltester/eviltester-talks/tree/main/stareast/2003/examples)
+- [Presentation overview mind map](https://github.com/eviltester/eviltester-talks/tree/main/stareast/2003/supporting)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/stareast2003_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)

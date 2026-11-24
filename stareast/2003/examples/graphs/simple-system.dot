@@ -1,0 +1,13 @@
+digraph G2 {
+rankdir = LR;
+node16[label = "start application (16)"];
+node17[label = "main window (17)"];
+node18[label = "exit application (18)"];
+node19[label = "file edit window (19)"];
+node17 -> node19[ label = "open file (23)"];
+node19 -> node19[ label = "edit file (24)"];
+node19 -> node19[ label = "save file (25)"];
+node19 -> node17[ label = "close file (26)"];
+node16 -> node17[ label = "start (27)"];
+node17 -> node18[ label = "exit (28)"];
+}
