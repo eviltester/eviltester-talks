@@ -137,6 +137,13 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/nstc2018_conference/)
 
 
+## 2017 Xebia Meetup - Resolutions and Trends in Software Testing
+
+- [Published preparation notes and recording details on Github](https://github.com/eviltester/eviltester-talks/tree/main/xebia/2017/talk)
+- [Watch the talk and Q&A on YouTube](https://www.youtube.com/watch?v=3qIyLwY9Z3s)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/xebiameetup2017_conference/)
+
+
 ## 2017 UKSTAR - Automation and People Conversation
 
 - [Conversation slides and PDF on Github](https://github.com/eviltester/eviltester-talks/tree/main/ukstar/2017/talk)
