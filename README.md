@@ -137,6 +137,13 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/nstc2018_conference/)
 
 
+## 2017 Test Focus Groups - QA in DevOps
+
+- [Published discussion notes on Github](https://github.com/eviltester/eviltester-talks/blob/main/test-focus-groups/2017/discussion/discussion-notes.md)
+- [Pre-event preparation prompts on Github](https://github.com/eviltester/eviltester-talks/blob/main/test-focus-groups/2017/discussion/preparation-notes.md)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/testfocusgroups2017_conference/)
+
+
 ## 2017 Xebia Meetup - Resolutions and Trends in Software Testing
 
 - [Published preparation notes and recording details on Github](https://github.com/eviltester/eviltester-talks/tree/main/xebia/2017/talk)
