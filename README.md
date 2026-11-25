@@ -435,6 +435,14 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/uktest2005_conference/)
 
 
+## 2004 SIGIST - NLP for Testers, a Brief Introduction
+
+- [Talk slides on Github](https://github.com/eviltester/eviltester-talks/tree/main/sigist/2004/talk)
+- [Prepared paper](https://github.com/eviltester/eviltester-talks/tree/main/sigist/2004/paper)
+- [Public talk abstract](https://github.com/eviltester/eviltester-talks/tree/main/sigist/2004/supporting)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/sigist2004_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
