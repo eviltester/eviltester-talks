@@ -137,6 +137,13 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/nstc2018_conference/)
 
 
+## 2017 UKSTAR - Automation and People Conversation
+
+- [Conversation slides and PDF on Github](https://github.com/eviltester/eviltester-talks/tree/main/ukstar/2017/talk)
+- [Joint and individual session descriptions on Github](https://github.com/eviltester/eviltester-talks/tree/main/ukstar/2017/supporting)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/ukstar2017_conference/)
+
+
 ## 2017 Agile Tour London - Effective Software Testing for Modern Software Development
 
 - [Slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/agile-tour-london/2017/talk)
