@@ -10,15 +10,7 @@ const explorer = path.join(root, 'explorer');
 const output = path.join(explorer, 'dist');
 if (path.dirname(output) !== explorer || path.basename(output) !== 'dist') throw new Error('Unexpected build directory');
 const config = JSON.parse(await readFile(path.join(explorer, 'catalogue.json'), 'utf8'));
-const rootReadme = await readFile(path.join(root, 'README.md'), 'utf8');
-const archiveTitles = [];
-let eventTitle = '';
-for (const line of rootReadme.split('\n')) {
-  if (line.startsWith('## ')) eventTitle = line.slice(3).trim();
-  for (const match of line.matchAll(/https:\/\/github\.com\/eviltester\/eviltester-talks\/tree\/main\/([^\s)]+)/g)) {
-    archiveTitles.push({ prefix: decodeURIComponent(match[1]).replace(/\/$/, ''), title: eventTitle });
-  }
-}
+const archiveTitles = Object.entries(config.eventTitles || {}).map(([prefix, title]) => ({ prefix, title }));
 archiveTitles.sort((a, b) => b.prefix.length - a.prefix.length);
 
 async function walk(directory) {

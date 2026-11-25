@@ -18,7 +18,7 @@ Open <http://127.0.0.1:4173/>. Rebuild after editing archive content or the cata
 ## Search and browse
 
 - Pagefind indexes substantive Markdown directly using its custom-record API. README indexes, images and PDF copies are excluded to avoid indexing the same navigation and material repeatedly. Documents available only as PDFs are not searched.
-- Conference/collection and year come from folder paths. Material type comes from filenames and folders. Titles come from Markdown headings, with conference context from the repository README.
+- Conference/collection and year come from folder paths. Material type comes from filenames and folders. Titles come from Markdown headings, with optional event labels from `eventTitles` in the catalogue. The main repository README does not control which documents are indexed.
 - Topic labels are keyword-based suggestions: a matching title or at least three occurrences of a topic rule in the body. They are not manually reviewed classifications.
 - The document, session and collection totals open their respective browse lists. Sessions and collections link to their matching documents. The totals always browse the complete archive; filters can then narrow a browse list.
 - Search and filters combine. Words match their indexed word forms; wrap a phrase in double quotes to search it together. Terms are quoted internally to prevent Pagefind's automatic shortening of unknown words into unrelated prefix matches. Results have excerpts, and all GitHub links open in a new tab. Search, browse view and filter choices are stored in the URL and support browser back/forward navigation.
@@ -28,7 +28,7 @@ Open <http://127.0.0.1:4173/>. Rebuild after editing archive content or the cata
 
 ## Edit the catalogue
 
-`catalogue.json` contains readable conference names, topic patterns, `hideFromWordCloud` (words to hide from the cloud while keeping them searchable), and optional overrides. Override keys are repository-relative document paths or directory prefixes. More specific entries take priority.
+`catalogue.json` contains readable conference names, `eventTitles` (display labels for archive folder prefixes), topic patterns, `hideFromWordCloud` (words to hide from the cloud while keeping them searchable), and optional overrides. The most specific matching event-title prefix supplies a document's event label; missing labels do not exclude documents from search. Override keys are repository-relative document paths or directory prefixes. More specific entries take priority.
 
 For example, add this inside `overrides`:
 
