@@ -181,6 +181,15 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/test_automation_guild_2017_conference/)
 
 
+## 2016 Tabara de Testare - Lessons Learned When Automating
+
+- [Webinar slides and PDF on Github](https://github.com/eviltester/eviltester-talks/tree/main/tabara-de-testare/2016/webinar)
+- [WebDriver bonus slides and PDF on Github](https://github.com/eviltester/eviltester-talks/tree/main/tabara-de-testare/2016/webdriver-bonus)
+- [Talk, Q&A and bonus transcripts on Github](https://github.com/eviltester/eviltester-talks/tree/main/tabara-de-testare/2016/transcripts)
+- [Exercises, references and preparation mind map on Github](https://github.com/eviltester/eviltester-talks/tree/main/tabara-de-testare/2016/supporting)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/tabaradetestare201602_conference/)
+
+
 ## 2016 SIGIST - Push Your Functional Testing Further
 
 - [Keynote slides, transcript, and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/sigist/2016/keynote)

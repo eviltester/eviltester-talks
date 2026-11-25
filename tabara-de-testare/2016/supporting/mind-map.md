@@ -1,0 +1,498 @@
+# Preparation Mind Map — Lessons Learned When Automating
+
+This is an outline of the original preparation map, retaining its questions, working ideas and hierarchy. It describes preparation, not a transcript or a claim that every topic was presented. Visual editor styling has been omitted.
+
+## Tabara Webinar Feb 2016
+
+- **Automating**
+    - **Words and Definitions**
+        - **Note: I'm using the words 'test ' and 'automate' rather loosely here (JML)**
+        - **we are becoming more careful with our words**
+        - **testing vs checking**
+        - **you can't 'automate' testing**
+        - **avoid the word 'automation'**
+        - **automate specific verb statements**
+            - **creation of test data to fit specific paths**
+            - **startup environments**
+            - **deploy softare**
+            - **put system into a specific state**
+            - **assert certain conditions**
+    - **What to Automate?**
+        - **What heuristics do you have for deciding if a test should be automated? (JML)**
+            - **I don't consciously use heuristics and mnemonic classifications**
+            - **But I've tried to do that here**
+        - **'detection' thought process**
+            - **is it part of the basic acceptance criteria of the application?**
+            - **is it a bug we think will re-appear?**
+            - **is it an area of the system that lacks lower levels of verification?**
+                - **no unit tests**
+                - **no integration tests**
+            - **is it a problem we never want to re-appear?**
+            - **is it a risk that is slow to detect if it manifests?**
+                - **slow feedback**
+            - **is it intermittent behaviour we are trying to track down?**
+                - **unpredictable**
+            - **is it a problem that is hard to detect if it does reappear?**
+                - **hidden**
+        - **'testing' thought process**
+            - **is the variability the scope of data?**
+                - **single path**
+                - **lots of data**
+            - **will I care about this execution path/data combo in the future?**
+                - **can I randomise the data?**
+            - **am I prepared to manually do this next time?**
+                - **when we manually 'test' for this, do we do the same thing each time?**
+                    - **boring**
+                    - **no value**
+                    - **no information**
+                    - **waste**
+            - **how easy is this to automate?**
+                - **do I already have the abstraction layers?**
+            - **is this hard/slow to do manually?**
+            - **predictable results checking**
+            - **have we explored this already?**
+    - **Secrets of Automating**
+        - **Path**
+            - **model paths through an application**
+            - **automate the execution of paths through an application**
+            - **subpaths**
+                - **can be executed in isolation if preconditions are met**
+        - **Data**
+            - **identify data**
+            - **generate data**
+            - **control the data**
+            - **data invariant/variant**
+                - **invariant data controls paths**
+                - **variant data 'explores' system tolerances**
+        - **Assertion**
+            - **model the checks and assertions?**
+            - **automate the checking of assertions**
+            - **effective assertion coverage**
+    - **What problems of Automating Testing?**
+        - **what problems did you encounter in writing automated tests? how did you resolve those issues? (Anon)**
+        - **At The Start**
+            - **lack of tool familiarity**
+                - **slow to automate**
+                - **simple mistakes**
+                - **blame the tool**
+                - **don't know the limits, waste time attempting to automate that which the tool cannot**
+            - **tool immaturity**
+                - **bugs in the tool**
+                - **still happens**
+                - **easy with Ruby because you override the tool methods with your own implementations via monkey patching**
+            - **choice of tools**
+                - **risk of commitment**
+                - **choice between WebDriver and RC**
+                - **tool abstraction layers to allow us to switch between tools as necessary**
+                - **experimenting**
+            - **you don't know what are your problems and what are tool problems**
+            - **No abstractions**
+                - **temptation to use a framework to 'speed up' scope coverage**
+                - **no code and abstractions to build on**
+                - **designing support code as well as path coverage code**
+                - **refactoring to improve code seems to slow things down, because learning**
+            - **Problem Diagnostic**
+                - **isolate the issue with a small test**
+                - **make the issue repeatable**
+                    - **on other applications**
+                    - **not just your applications**
+                - **debug**
+                - **step through slowly**
+                    - **if problem goes away - synchronisation problem**
+                - **view the tool source code**
+                - **try different tool versions, different browser versions, different os versions**
+                - **identify work arounds**
+        - **Now**
+            - **deciding on the level of abstraction**
+                - **What is a page object? Pages or Components?**
+                - **Navigator? Navigation on page?**
+                - **Inheritence hierarchy?**
+            - **deciding on the technology stack level to target the execution and results checking**
+                - **Distracted by 'test pyramid'**
+            - **what tooling to use**
+                - **choice of tools**
+                - **new tools**
+                - **new libraries**
+                - **new frameworks**
+            - **unit test, or not unit test my code**
+            - **synchronisation**
+                - **always synchronisation issues**
+            - **make system easier to automate**
+                - **not just GUI hooks**
+                - **architect to make easier to automate**
+                - **class hierarchies**
+                - **apis**
+                - **'test' versions of application**
+            - **mobile and new platforms**
+                - **wearable**
+    - **What levels to Automate at?**
+        - **What logic do you use for figuring out the level (i.e. unit, component, integration, API, and GUI) where to run those tests? (JML)**
+            - **What is your model of the system?**
+                - **how you model the system will determine what you can target**
+                - **e.g.**
+                - **do you understand the persistence approach?**
+                - **do you know how to access the persistence storage directly?**
+                - **do you know the APIs?**
+                - **are they enabled?**
+                - **Do you have the tools?**
+            - **Where do you trust/value feedback from?**
+                - **if you test at the API, do you retest at the GUI?**
+                - **do you test different things at the GUI?**
+                - **what do you trust?**
+            - **where can you automate fast to add value quickly?**
+                - **where do you have abstraction layers?**
+                - **do you have tools for certain features?**
+                - **e.g. mobile automation hard, but could the code be tested on 'non'-mobile and just test the 'mobile' part?**
+                - **It isn't just layers, it is also 'approach'**
+            - **what are you prepared to maintain?**
+                - **overlap between levels?**
+            - **What environments do/will you have?**
+                - **integrations?**
+                - **mocks?**
+                - **external apps?**
+                - **https?**
+            - **In general I try and automate the parts of the application that I have modelled.**
+                - **an that I understand the technology of**
+        - **Would you combine different levels, e.g. using GUI to create a user account, editing info, and then verifying from the DB if data was stored properly? (JML)**
+            - **Yes**
+            - **Secret is paths**
+            - **A Path Segment has preconditions**
+                - **Can I setup those preconditions another way?**
+                - **Do I trust my model of those preconditions?**
+                - **Can I jump into the middle of a path segment?**
+                    - **e.g. login with http requests**
+                    - **hijack cookies into GUI**
+            - **Automate at the ultimate level of the risk manifestation you want to detect**
+            - **Assert at the level of the risk manifestation you want to detect**
+                - **persistence?**
+                    - **DB**
+                - **messaging?**
+                    - **API/HTML**
+                - **rendering?**
+                    - **GUI Flow**
+            - **if a paths is 'covered' by other @Tests then do we always need to follow that path?**
+            - **Build Automated execution code libraries at the different levels**
+                - **re-use in different ways**
+                - **re-combine in different ways**
+                - **support exploratory testing as well**
+        - **Do you use abstractions?**
+            - **Do you use the page object model, data models or any other models?**
+                - **Yes**
+                - **Page objects are a physical abstraction**
+                    - **Pages**
+                    - **compnents**
+                    - **navigation**
+                    - **local persistence**
+                    - **... etc.**
+                - **Data Models**
+                    - **for Random Data Generation**
+                    - **for domain validation**
+                - **Other models**
+                    - **Path and System models**
+                        - **coverage**
+                        - **spidering**
+                        - **"model based testing"**
+                    - **API models**
+                    - **HTTP 'string' message models**
+                    - **GUI As API**
+    - **How to improve testability for automation?**
+        - **What advices would you give for beginners to improve testability for automation (e.g. buttons/scripts to reset &amp; populate a DB)? (JML)**
+        - **Aims**
+            - **non-intervention repeatability**
+            - **support for execution 'executability'**
+            - **write code for re-use for adhoc**
+                - **layered abstractions**
+                - **not just 'cucumber'**
+                - **create 'libraries' at different tech levels**
+                - **allow 'invalid' paths and data**
+            - **Create tools?**
+                - **I tend to write code wrapped with @Test**
+                - **rare for me to write a 'tool' on a project**
+                - **'tools' span projects**
+                - **batch scripts**
+- **Future**
+    - **how do you see the future of testing?**
+        - **Same**
+            - **Contextual**
+                - **Testing is a 'response' to the process**
+                - **Testing a way of providing feedback**
+                - **Testing a way of providing information**
+                - **To allow 'control'**
+            - **coding and technical**
+                - **move away from 'commercial'**
+                - **more 'overt' about being part of the strategy now**
+                - **more demand for these skills as part of the recruitment process now**
+            - **Exploration**
+                - **again now part of the strategy**
+                - **used to be more 'hidden'**
+                - **but always done**
+            - **done badly**
+        - **Trends**
+            - **more technical**
+                - **more emphasis on automating execution**
+                - **more emphasis on testing at levels below the GUI**
+            - **deeper testing knowledge**
+                - **more developers/analysts testing so 'testers' need a deeper knowledge of testing to stand out**
+                - **more emphasis on checking acceptance criteria so testers need to know 'testing' to add value above the general 'checking'**
+            - **better testing**
+                - **less documentation**
+                - **less process**
+                - **more information and feedback**
+                - **faster information and feedback**
+            - **done badly**
+                - **because people do not know how to tailor their approach to the environment that they work in**
+                - **because still an emphasis on waste in testing**
+        - **Future is in our hands**
+            - **"What are you doing to improve your testing?"**
+            - **Learning tools I use in more detail**
+            - **codifying my approaches more explictly**
+            - **expanding my knowledge of 'security' testing**
+            - **improving my programming skills to work more effectively at lower levels of the stack and add adhoc tooling to my process**
+    - **techniques**
+        - **decision making**
+            - **take responsibility**
+                - **I used to automate when I didn't have permission to automate**
+                - **I didn't ask for permission**
+                - **I did it because I felt responsible for improving my testing**
+                - **and I had the skills, so I used them**
+                - **what if I get blamed?**
+                    - **was it your fault?**
+                    - **learn to work within the aims and rules of the project**
+                    - **try to change it if you know you are going to be in violation**
+            - **how do I know I'm making the right decision?**
+                - **you don't**
+                - **you could conduct an experiment to build your certainty**
+                - **If status quo doesn't work then**
+                    - **No decision is the wrong decision**
+                - **make a decision**
+                - **learn as fast as you can**
+            - **What if I make the wrong decision?**
+                - **responsibility**
+                - **are you sure it was wrong?**
+                - **figure out what went wrong**
+                - **learn**
+                - **identify alternatives**
+                - **make a decision to change**
+                - **reponsibility**
+            - **not just management**
+                - **decision making is not just for management**
+                - **in some cultures this may be frowned upon and you put yourself in the firing line**
+                - **in some cultures this is expected**
+                - **exemplify the culture you want to work in**
+                - **responsibility**
+        - **use words to help you**
+            - **avoid ambiguity**
+                - **'automation' ambiguous**
+                - **avoid it and you avoid the whole 'test automation' does not exist debate**
+                - **other phrases to avoid**
+                - **Page Objects**
+                - **Performance Testing**
+                - **Stress Testing**
+                - **Acceptance Testing**
+            - **if you can't avoid, then own your definitions**
+                - **working definitions in context**
+                - **A page object is...**
+                - **We have decided to ... because ...**
+            - **This is also an aspect of responsibility**
+        - **books**
+            - **old books**
+                - **use the references of modern books to find what they build on**
+                - **Clean Code**
+                    - **plenty of 'old' 1970's books listed in the references**
+                    - **find peer books of the time**
+                    - **benefit of older books is you have to interpret what they say and take responsibility for the decision because they usually don't use the same programming language as you**
+                - **structured methodologies etc.**
+                    - **were trying to make sense of abstractions and how to construct code**
+                    - **they have a lot of good advice**
+            - **modern books to recommend**
+                - **Growing object-oriented software**
+                - **working with legacy code**
+                - **implementation patters**
+                - **domain driven design**
+                - **refactoring**
+            - **systems books**
+                - **we study and model systems**
+    - **Career**
+        - **How do you arrive/What was the journey from a technical side to having conference talks and training people? (ANON)**
+            - **Do you feel strongly enough to be the change you want to see?**
+                - **A reaction**
+                - **Speaking at conferences**
+                    - **Anger at the rubbish that was being spoken**
+                    - **Anger that I had paid money to listen to this rubbish that was clearly not aligned with my beliefs and experiences**
+                    - **Vow: never going to a conference again unless I'm talking because I'm not going to pay to listen to this rubbish**
+                    - **Was not prepared to let a vocal minority have the only message out there.**
+                    - **Even if my voice does not make a difference, it is out there**
+                - **Training**
+                    - **No Excuses**
+                    - **Make is simpler for people to do stuff**
+                    - **Try and remove the 'skill' and 'knowledge' barriers**
+                    - **I believe in the capability of people more than they do, so I want them to experience what I believe they are capable of.**
+            - **Doing the work**
+                - **start small**
+                - **write down your thoughts**
+                    - **blog**
+                    - **tweet**
+                - **talk**
+                    - **to yourself and record it on youtube**
+                    - **rant at local meetups**
+                    - **conferences**
+                - **I had to work**
+                    - **I'm not a people person**
+                    - **I;m not a public speaker**
+                    - **I'm not a writer**
+                    - **I had to learn**
+                    - **I had to practice**
+                    - **I had to get out there and be bad in front of people. And learn to get better.**
+                    - **I had to adapt to feedback when training**
+                        - **"I don't understand"**
+                - **build momentum**
+                    - **everytime I think, "that's it. No more."**
+                    - **something will happen and I'll react to it**
+                - **You might be motivated with a more 'towards orientation'**
+                    - **towards a big mightl utopian vision**
+                    - **I'm primarily an 'away from' motivation**
+- **WebDriver**
+    - **Locators:**
+        - **Do you have any suggestions or tips for writing the locators? E.g. for CSS Selectors, do you base the locators more on ID, class, parent/ancestor tags or other identifiers?**
+            - **for single items, I prefer ID**
+                - **ID**
+            - **try for an ID in the hierarchy**
+            - **build them less about speed of execution and more about accuracy across multiple pages**
+            - **we have more arguments about managing in the code**
+                - **maintain in a yaml, json, text file**
+                - **add to code**
+                - **constants in code**
+                - **have the constant as a BY instead of the locator String**
+    - **What Common Problems of WebDriver**
+        - **what problems did you encounter in writing automated tests? how did you resolve those issues? (Anon)**
+            - **synchronisation**
+                - **add more than you think**
+                - **sync prior to action**
+                - **slowLoadableComponent for page objects and components**
+                - **people seem nervous about adding waits - but if the 'wait' is already complete it won't take much time.**
+                - **exception to above is for remote grid execution, when each 'sync' check can add to slow down because of round trip execution**
+            - **creating abstraction layers**
+            - **workarounds for bugs**
+                - **JavaScriptExecutor**
+                - **inject cookies after performing direct HTTP calls**
+    - **waits?**
+        - **do you use both implicit and explicit waits in Selenium? What do you do in case of none works? (for example, in my case, many times the test fails due to time out errors)**
+            - **I never use implicit wait**
+            - **Always use explicit waits**
+            - **when 'none' works that usually means**
+                - **missing synchronisation**
+                - **environment speed variablity**
+                - **possibly running through a cloud grid - additional delay because of lag time**
+                - **usually no other choice but increasing time out for 'big' actions**
+    - **How do you structure your WebDriver-Java project?**
+        - **maven structure**
+        - **\\test**
+            - **my @Test code**
+        - **\\src**
+            - **the abstractions**
+        - **sub levels - no rules, I package as I think best for organisation**
+        - **easy to refactor into new positions**
+    - **Do you use any frameworks or additional tools (like serenity)?**
+        - **no, I try to avoid frameworks**
+        - **WebDriver doesn't seem hard enough to warrant use of a framework**
+        - **concentrate on building abstraction layers that model my application domain**
+        - **closest to a framework I come is Cucumber or JUnit**
+            - **Cucumber**
+                - **DSL**
+            - **JUnit**
+                - **test runner**
+            - **Still make sure I have abstraction layers that these use.**
+    - **Disadvantages of WebDriver**
+        - **what disadvantages did you find of using Selenium Webdriver?**
+            - **not fully supported by browser vendors yet**
+                - **safari**
+                - **microsoft**
+                - **opera**
+            - **compared to what though?**
+                - **I don't know what I would use other than WebDriver for Web Automation**
+- **Coding**
+    - **How is java different for testers than for programmers? (AC)**
+        - **subset of the language**
+        - **@Test driven**
+        - **JUnit test runner execution rather than packaged application running in a container**
+    - **More broadly, do you see coding as different for testers and for programmers? If so, in what way? (AC)**
+        - **not normally coding for efficiency**
+            - **Tend to code for**
+            - **readability**
+            - **maintainability**
+            - **reportability**
+            - **change**
+            - **rather than efficiency**
+        - **"You aren't going to need it" vs "I don't know what Testers Are Going to Need"**
+            - **I value**
+            - **composition**
+            - **single reponsibility**
+            - **libraries rather than frameworks**
+            - **requisite variety is high**
+        - **Multiple Usages vs Controlled Access**
+            - **Testers very often need to use abstraction layers in multiple ways, and in 'incorrect ways'**
+            - **We need to send incorrect requests**
+            - **Devs need to minimise the chance that they's send incorrect requests**
+            - **Leads to multiple layers of composition rather than inheritance**
+                - **message at HTTP level**
+                - **message at 'string' level**
+                - **message at 'domain' level which protects against incorrect usage**
+            - **I learned reflection because I needed to bypass controls put in place in our application code for testing**
+        - **writing execution paths and libraries rather than applications**
+            - **I write @Test methods**
+            - **I rarely write applications**
+            - **We tend to execute paths, rather than generic systems that adapt to input or handle many variations of input**
+        - **For testing I avoid frameworks, and prefer libraries**
+            - **I try and avoid, or minimise frameworks**
+            - **I prefer libraries**
+            - **I prefer to minimise dependencies**
+            - **Because change**
+        - **Coding for Change vs Requirements**
+            - **Always trying to minimise impact of change**
+            - **Hence prefer composability rather than inheritance**
+            - **Interfaces rather than inheritance**
+            - **Small Single Responsibility Classes**
+    - **Similarities**
+        - **Advanced Books**
+            - **'basic' books differ**
+            - **Advanced books are the same**
+        - **Static Analysis Tools**
+        - **Unit Testing**
+        - **TDD**
+        - **Naming and coding conventions**
+        - **Test Execution Framework**
+        - **Libraries**
+    - **What coding skills do you think are different? (AC)**
+        - **same skills**
+        - **different experiences**
+        - **different levels of knowledge**
+        - **Devs tend to have**
+            - **more experience with build tools**
+            - **CI systems**
+            - **dependency management systems**
+            - **version control branching**
+- **Tools**
+    - **Is there another option (except Selenium WebDriver) which you would recommend for UI automation? (ANON)**
+        - **For Web I use WebDriver**
+        - **Different technologies use different tools**
+        - **I don't work with many other technologies, most of my work is Web and HTTP based**
+- **Estimation**
+    - **What do you answer when asked for an estimation of how much time is needed to automate an application? (ANON)**
+        - **avoid**
+    - **How do you estimate how much time is needed since you are just starting-up the automation project? (ANON)**
+        - **same as any dev project**
+        - **split into chunks**
+        - **make unknowns clear**
+        - **make risks, unknowns and assumptions clear**
+        - **gain experience for better estimates**
+        - **experiments to improve estimates and target risks**
+        - **Depends**
+            - **skills**
+            - **experience**
+            - **levels of change**
+            - **choice of technology**
+        - **Process**
+            - **who is doing the work**
+            - **% of time given to automating**
+            - **same people testing and automating?**
+            - **easier with agile stories, because like any other 'task'**
