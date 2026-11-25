@@ -1,12 +1,20 @@
-## SIGIST June 2004 - NLP for Testers, a Brief Introduction
+# SIGIST 2004 — NLP for Testers
 
-Alan Richardson's introduction to applying the NLP Meta Model to ambiguity in requirements, communication and test ideas.
+Alan Richardson presented a short talk in June and a separate 90-minute tutorial on 7 December 2004.
+
+## June — A Brief Introduction
 
 - [Talk slides](talk/)
 - [Prepared paper](paper/)
 - [Public talk abstract](supporting/)
-- [Conference page on EvilTester.com](https://www.eviltester.com/conference/sigist2004_conference/)
+- [June conference page](https://www.eviltester.com/conference/sigist2004_conference/)
 
-The existing conference page identifies June 2004. This archive does not establish a more precise event date. Here, NLP means Neuro-Linguistic Programming.
+## 7 December — 90-Minute Tutorial
 
-PDFs were generated from the original PowerPoint and Word files and are under the relevant `export/` folders. Original sources remain unchanged. Feedback results, private correspondence and biography files are excluded.
+- [Dated tutorial archive](2004-12-07/)
+- [Tutorial slides and presenter notes](2004-12-07/tutorial/)
+- [Talk recording transcript](2004-12-07/transcripts/)
+- [Associated exercises and preparation](2004-12-07/supporting/)
+- [December conference page](https://www.eviltester.com/conference/sigist20041207_conference/)
+
+The [NLP resource page](https://www.eviltester.com/nlp-for-testers/) dates the December tutorial explicitly. PDFs are under each session's `export/` folder. Original archives remain unchanged. Feedback, reviewer correspondence, editor binaries and recordings are excluded.

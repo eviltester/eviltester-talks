@@ -59,6 +59,14 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/epicconference2020_conference/)
 
 
+## 2019 Test Tribe AMA — Testing and Automation in Testing
+
+- [Full caption transcript on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-tribe/2019/transcripts)
+- [AI-generated question-and-answer summary slides on Github](https://github.com/eviltester/eviltester-talks/tree/main/test-tribe/2019/ama)
+- [Watch the AMA on YouTube](https://www.youtube.com/watch?v=I_IK_Q6LwRM)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/testtribeama_conference/)
+
+
 ## 2019 DevFest Bishkek - A Guide to Testing Web Applications
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/devfest-bishkek/2019/keynote)
@@ -440,6 +448,12 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/northLondonBCS2005_conference/)
 
 
+## 2004 SIGIST, 7 December — NLP for Testers Tutorial
+
+- [Tutorial slides, notes, transcript and associated exercises on Github](https://github.com/eviltester/eviltester-talks/tree/main/sigist/2004/2004-12-07)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/sigist20041207_conference/)
+
+
 ## 2004 EuroSTAR - Alternative Test Tools in Action
 
 - [Presentation slides and prepared notes on Github](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2004/talk)
@@ -486,6 +500,14 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [LEWT 10: Eeevil preparation, March 2012](https://github.com/eviltester/eviltester-talks/tree/main/lewt/2012)
 - [Undated XML-editor report](https://github.com/eviltester/eviltester-talks/tree/main/lewt/undated)
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/lewt_conference/)
+
+
+## 2006 ICS Test — NLP for Testers, Full-Day Tutorial
+
+- [Tutorial, exercises, handout and preparation on Github](https://github.com/eviltester/eviltester-talks/tree/main/ics-test/2006)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/icstest2006_conference/)
+
+September 2006 and ICS Test are the assumed event attribution.
 
 
 ## 2006 SQS UK - How Testers Can Benefit from Using NLP

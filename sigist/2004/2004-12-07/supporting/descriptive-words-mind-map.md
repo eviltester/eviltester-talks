@@ -1,0 +1,45 @@
+# Descriptive Words — Preparation Mind Map
+
+Original preparation hierarchy and topic notes; timings and draft wording are retained.
+
+- Descriptive Words
+    - \[Name\]
+        - Advertising blurb
+        - Basic Feature Set
+        - Generalities
+        - Basic Requirements
+    - \[Name\] \[version\]
+        - Specific Changes
+        - Specific Risks
+        - Specific Requirements
+        - Have all changes been made?
+        - Delivery Dates &amp; Schedules
+    - System
+        - Made of what parts?
+        - Integration
+        - Interfaces
+        - Data Syntax
+        - System Flow
+    - Application
+        - Applied to what?
+        - Use it for what?
+        - How to apply it?
+        - Apply What? (functionality)
+    - Program
+        - What Language?
+    - Software
+        - What operating systems/Versions?
+        - Interfaces with hardware
+            - Disk
+            - Memory
+        - Data Semantics
+        - Common elements
+            - Manual
+            - Box
+            - Help File
+            - Install Routine
+    - Solution
+        - For whom?
+        - What problem?
+        - Effectiveness of solution?
+        - Alternatives?
