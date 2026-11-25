@@ -1,0 +1,4 @@
+explorer/node_modules/
+explorer/dist/
+output/playwright/
+.playwright-cli/

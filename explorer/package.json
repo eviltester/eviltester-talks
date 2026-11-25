@@ -1,0 +1,20 @@
+{
+  "name": "eviltester-talks-explorer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "devDependencies": {
+    "d3-cloud": "2.0.0",
+    "esbuild": "0.28.2",
+    "markdown-it": "15.0.3",
+    "pagefind": "1.6.0"
+  }
+}

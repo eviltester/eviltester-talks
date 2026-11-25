@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Search and explore Alan Richardson's testing talks, slides, papers, transcripts and exercises.">
+  <meta name="theme-color" content="#131416">
+  <title>Evil Tester · Talk Explorer</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='8' fill='%23ed453d'/%3E%3Ctext x='6' y='28' fill='white' font-family='sans-serif' font-size='23' font-weight='bold'%3EET%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#results">Skip to results</a>
+  <header class="masthead wrap">
+    <a class="brand" href="./">Evil Tester <span>talks</span></a>
+    <nav aria-label="Main"><a href="https://www.eviltester.com/conference/">Conference pages ↗</a><a href="https://github.com/eviltester/eviltester-talks" target="_blank" rel="noopener noreferrer">GitHub ↗</a></nav>
+  </header>
+  <main class="wrap">
+    <section class="intro" aria-labelledby="heading">
+      <h1 id="heading">Talk archive</h1>
+      <p class="intro-text">Slides, papers, transcripts and exercises by Alan Richardson.</p>
+      <p id="archive-stats" class="archive-stats">Loading the archive…</p>
+    </section>
+    <form id="search-form" role="search" class="search-bar">
+      <label for="query" class="sr-only">Search the archive</label>
+      <input type="search" id="query" name="q" placeholder="Search text or an &quot;exact phrase&quot;" autocomplete="off" spellcheck="false" disabled>
+      <button type="submit" id="search-button" disabled>Search</button>
+    </form>
+    <div class="workspace">
+      <aside class="filters" aria-labelledby="filter-heading">
+        <div class="panel-heading"><h2 id="filter-heading">Filters</h2><button id="reset" class="text-button" type="button">Reset</button></div>
+        <label for="topic">Topic</label><select id="topic" disabled><option value="">All topics</option></select>
+        <label for="conference">Conference / collection</label><select id="conference" disabled><option value="">All collections</option></select>
+        <label for="year">Year</label><select id="year" disabled><option value="">All years</option></select>
+        <label for="type">Material</label><select id="type" disabled><option value="">All materials</option></select>
+        <p class="filter-note">Topics are assigned by keyword rules and can overlap.</p>
+      </aside>
+      <section class="results-panel" aria-labelledby="results-heading">
+        <div class="results-toolbar">
+          <h2 id="results-heading">Documents</h2>
+          <label class="sort-label">Sort <select id="sort" aria-label="Sort results"><option value="relevance">Relevance</option><option value="newest">Newest first</option><option value="oldest">Oldest first</option></select></label>
+        </div>
+        <p id="result-count" role="status" aria-live="polite">Loading documents…</p>
+        <div id="active-filters" class="active-filters" aria-label="Active filters"></div>
+        <div id="results" tabindex="-1" aria-busy="true"></div>
+        <button id="more" class="more-button" type="button" hidden>Show more documents</button>
+      </section>
+      <aside class="words-panel" aria-labelledby="words-heading">
+        <details class="word-tools" open>
+          <summary><h2 id="words-heading">Word explorer</h2></summary>
+          <p class="word-intro">Select a word to search with the current filters.</p>
+          <div id="cloud" class="cloud" aria-hidden="true"></div>
+          <p class="word-note">Size and count show matching sessions. Common words are excluded.</p>
+          <details open><summary>Words and session counts</summary><div id="word-list" class="word-list"></div></details>
+        </details>
+      </aside>
+    </div>
+    <noscript><p class="notice">The explorer needs JavaScript. <a href="https://github.com/eviltester/eviltester-talks" target="_blank" rel="noopener noreferrer">Browse the archive on GitHub</a>.</p></noscript>
+  </main>
+  <footer class="wrap footer">
+    <span>Alan Richardson · Evil Tester talks</span>
+    <a href="https://www.eviltester.com/" target="_blank" rel="noopener noreferrer">eviltester.com ↗</a>
+    <details class="credits">
+      <summary>Library credits</summary>
+      <div class="credits-content" tabindex="0" role="region" aria-label="Library license notices"><!--LIBRARY_CREDITS--></div>
+    </details>
+  </footer>
+</body>
+</html>

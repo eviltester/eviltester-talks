@@ -1,0 +1,51 @@
+name: Deploy talk explorer to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+      - 'explorer/**'
+      - '.github/workflows/explorer-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: explorer/package-lock.json
+      - run: npm ci
+        working-directory: explorer
+      - run: npm test
+        working-directory: explorer
+      - run: npm run build
+        working-directory: explorer
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: explorer/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

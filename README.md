@@ -12,6 +12,8 @@ And these can be accessed ad free with a [Patreon membership](https://www.patreo
 
 The content in this repo will expand as I sort out my hard-drive and make the material public. Current content listed below.
 
+The [Talk Explorer](https://eviltester.github.io/eviltester-talks/) provides full-text search, topic filters and an interactive word cloud, with results linking directly to the GitHub material. See the [explorer README](explorer/README.md) for local preview and GitHub Pages setup.
+
 ## 2021 - SauceCon - Adding More Security To Your Testing and Automating
 
 - [Slides and material on Github](https://github.com/eviltester/eviltester-talks/tree/main/saucelabs/2021/add-more-security)

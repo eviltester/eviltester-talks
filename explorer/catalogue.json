@@ -1,0 +1,54 @@
+{
+  "repository": "https://github.com/eviltester/eviltester-talks",
+  "githubBranch": "main",
+  "conferences": {
+    "abn-amro": "ABN AMRO", "agile-and-automation-days": "Agile & Automation Days",
+    "agile-testing-days": "Agile Testing Days", "bcs-north-london": "BCS North London",
+    "black-ops-testing": "Black Ops Testing", "browserstack": "BrowserStack",
+    "devfest-bishkek": "DevFest Bishkek", "eurostar": "EuroSTAR", "fistb": "FiSTB",
+    "fusionBirmingham": "Fusion Birmingham", "ics-test": "ICS Test", "letstest": "Let's Test",
+    "lewt": "LEWT", "nlp": "NLP", "nstc": "NSTC", "odinstar": "OdinSTAR",
+    "oredev": "Øredev", "qasymphony": "QASymphony", "sigist": "SIGIST", "sqs": "SQS UK",
+    "stareast": "STAREAST", "starwest": "STARWEST", "syncherts": "SYNCHERTS",
+    "test-tribe": "The Test Tribe", "testbash": "TestBash", "testbash-netherlands": "TestBash Netherlands",
+    "testnet": "TestNet", "testworks": "TestWorks", "ukstar": "UKSTAR", "uktest": "UKTest",
+    "xebia": "Xebia", "virtuoso": "Virtuoso", "saucelabs": "Sauce Labs"
+  },
+  "topics": {
+    "Automation": ["\\bautomat(?:e|ed|ing|ion)\\b", "\\bselenium\\b", "\\bwebdriver\\b"],
+    "Exploratory testing": ["\\bexploratory\\b", "\\bsession.based testing\\b"],
+    "Technical testing": ["\\btechnical test(?:er|ing|ers)\\b", "\\btechnical skills\\b"],
+    "Web & API testing": ["\\bapi(?:s)?\\b", "\\bhttp\\b", "\\bweb testing\\b", "\\bdevtools\\b", "\\brest(?:ful)?\\b"],
+    "Security": ["\\bsecurity\\b", "\\bpenetration\\b", "\\bowasp\\b", "\\bxss\\b"],
+    "Tools & programming": ["\\bprogramming\\b", "\\bcoding\\b", "\\bjavascript\\b", "\\bjava\\b", "\\bpython\\b"],
+    "Test strategy": ["\\bstrategy\\b", "\\bstrategic\\b", "\\btest management\\b", "\\brisk.based\\b"],
+    "Learning & careers": ["\\blearning\\b", "\\bcareer(?:s)?\\b", "\\bdeliberate practice\\b", "\\bskill development\\b"],
+    "Communication & NLP": ["\\bnlp\\b", "\\bneuro.linguistic\\b", "\\bmeta.model\\b", "\\bcommunication\\b"],
+    "Mindset & creativity": ["\\bcreativ(?:e|ity)\\b", "\\bmindset\\b", "\\bpsychology\\b", "\\bbias(?:es)?\\b"],
+    "Agile & teams": ["\\bagile\\b", "\\bscrum\\b", "\\bteamwork\\b", "\\bcollaboration\\b"],
+    "AI": ["\\bartificial intelligence\\b", "\\bllm(?:s)?\\b", "\\bgenerative ai\\b", "\\bchatgpt\\b"]
+  },
+  "overrides": {
+    "test": { "exclude": true },
+    "ics-test/2006": { "talk": "ics-test/2006/tutorial" }
+  },
+  "hideFromWordCloud": [
+    "alan", "richardson", "eviltester", "compendium", "compendiumdev", "developments", "github",
+    "slides", "slide", "transcript", "markdown", "copyright", "www", "com", "http", "https", "pdf",
+    "source", "page", "pages", "original", "recording", "tutorial", "conference", "minutes", "notes",
+    "speaker", "readme", "figure", "image", "images", "workshop", "talk", "talks", "footer", "slidenumbers",
+    "testing", "test", "tests", "tester", "testers", "software",
+    "abstract", "abstracts", "document", "documents", "section", "sections", "book", "books",
+    "ask", "asks", "asked", "asking", "find", "finds", "finding", "found", "read", "reads", "reading",
+    "add", "adds", "added", "adding", "allow", "allows", "allowed", "allowing", "help", "helps", "helped", "helping",
+    "keep", "keeps", "keeping", "kept", "let", "lets", "made", "mean", "means", "meant",
+    "start", "starts", "started", "starting", "show", "shows", "showed", "shown", "showing",
+    "seem", "seems", "seemed", "tell", "tells", "told", "took", "taken", "went", "came",
+    "else", "end", "ends", "ended", "etc", "set", "sets", "stuff", "enough", "anything", "everything",
+    "anyone", "anyway", "someone", "sometimes", "always", "never", "others", "although", "across", "along",
+    "away", "behind", "later", "early", "long", "short", "hard", "easy", "simple", "simply", "possible",
+    "probably", "perhaps", "quite", "basically", "certainly", "generally", "usually", "maybe", "okay", "can't",
+    "best", "better", "wrong", "important", "useful", "whole", "part", "parts", "point", "points",
+    "name", "names", "called", "list", "lists", "listed", "cover", "covers", "covered", "include", "includes", "included"
+  ]
+}
