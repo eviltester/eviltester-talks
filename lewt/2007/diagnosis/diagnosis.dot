@@ -1,0 +1,118 @@
+digraph diagnostics{
+
+	
+	/* 
+	I was coughing and sneezing for over 3 weeks so I went to the doctor.
+   	Explained the Symptoms, Observations and Behaviours (SOB story)
+	*/
+
+	Client [label = "Patient"]
+	Fixer [label = "Doctor"]
+	Model [label = "Diagnostic Model"]
+
+	Client -> Fixer [label="SOB Story"] /* Symptoms, Observations, Behaviours */
+
+	/*
+		The doctor asked some questions, and got some more SOB back.
+		Doctor did some Tests to Check for stuff - presumeably building a model internally
+	*/
+
+	Fixer -> Client [label="Tests"]
+	Client -> Fixer [label="Test \n Results"]
+	Fixer -> Model [label="Construct \n Model"]
+	Model -> Fixer [label="Use Model \n for Questioning"]
+
+
+	
+	/* Doctor came up with a diagnosis
+		"probably not bacterial - prescribe some antibiotics just in case"
+	*/
+
+	Solution [label="Diagnosis"]
+	Fixer -> Solution [label="Use Model \n & knowledge \n to construct \n Diagnosis"]
+
+
+		Fix [label="Cure"]
+		Solution -> Fix [label="Diagnosis \n end point \n = obvious cure"]
+
+	/*
+		Solution was not monitored - sideeffects from antibiotics so
+		did not lead to a cure
+	*/
+
+	edge [label="need to \n monitor", style=dotted]
+	Fixer -> Fix
+	Client -> Fix
+
+
+
+	Warning_Diagnosis [shape=square, label="Warning: Diagnosis is \n an end point and \n has an obvious solution. \n BUT... all attributes \n of Diagnosis must \n match 'standard' Solution \n for it to work"]
+	Diagnosis_Defn [shape=square, label="Diagnosis as Root Cause \n only happens at level of cause. \n\n Diagnosis as classification \n TOO BIG e.g. chronic illness"]
+	Notes_On_Limitations [shape=square, label="Limited by our \n ability to observe \n and our observation \n instruments accuracy"]
+	Heuristics_to_avoid_diagnosis [shape=square, label="Heuristics to avoid diagnosis \n and instead do investigation \n MetaModel (nlp) \n eprime (gs) \n Indexing (gs) \n Uncertainty "]
+
+	edge [style=invis, label=""]
+	Warning_Diagnosis -> Diagnosis_Defn -> Notes_On_Limitations -> Heuristics_to_avoid_diagnosis
+
+
+	/* Notes:
+		"You have a cough" is not a diagnosis. Surely that statement describes a symptom.
+	*/
+
+
+	/* Sub story:
+		I have a great 3 monitor setup at work. Laptop on the right with an external monitor. Laptop
+		sits on a desktop and I have maxivista to let me use the desktop monitor as part of my laptop desktop 
+		so I get 3 screens on my laptop.
+
+		I was testing an outsource delivered app and playing "what button makes it freeze" and I was doing pretty well
+		Finding at least 1 menu item in each app that made it freeze.
+
+		So I wrote an email with the problem "in App Y clicking X makes the app freeze" etc.
+		Done deal. Diagnosis - app freezing bug
+
+		Got responses back from dev "can you send me a screenshot?"
+		"Function Z can take a long time"
+		And "App Y displays a dialog box"....oooh
+
+	*/
+
+	edge [style=solid, label=""]
+
+	play [label="Play \n - freeze button"]
+	play -> Response
+	Response -> Thinking
+
+	/* 	I did not see a dialog box 
+	   	I wonder if this is related to my observation tools
+		Dialog Scan - and lo, there is a dialog present, but I can't see it
+		Reconfigure monitor (single monitor) Dialog in center of screen
+		Reconfigure monitor (2 monitors) Dialog is half off screen to right
+		Reconfigure monitor (3 monitors) Can't see the dialog (off the screen)
+	*/
+
+	Thinking -> "1 Monitor" -> "2 Monitors" -> "3 Monitors" -> Hypothesis
+
+	/* 
+		My hypothesis is that desktop is being used as the dialog parent rather than the 
+		app,and that the monitor width is being used, without realising that the left most
+		point of the desktop is not 0 it is actually -2056 (-1028 + -1028)
+		
+		I report the hypothesis as observation and supposition (includes uncertainty) but
+		not a diagnosis as I haven't looked at the code. Taking my observation and supposition
+		should allow the 'Fixer' to do a Diagnosis, which leads to a fix.
+	*/
+
+	Hypothesis -> "Report Hypothesis"
+
+
+	/*
+		I was training some non-testers in exploratory testing using a small JS App I wrote
+		for the purpose and they raised the comment ... 
+	*/
+
+	edge [style=invis, label=""]
+	Done_Enough [label = "I have done enough \n to let someone else \n fix it. I don't need \n to keep looking into \n the problem to get the \n root cause."] 
+	Heuristics_to_avoid_diagnosis -> Done_Enough
+	
+}

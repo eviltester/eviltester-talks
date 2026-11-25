@@ -409,6 +409,16 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/seleniumMeetup2011_conference/)
 
 
+## LEWT - London Exploratory Workshop in Testing
+
+- [All LEWT material on Github](https://github.com/eviltester/eviltester-talks/tree/main/lewt)
+- [LEWT 3, 2006: bugs and anomalous phenomena](https://github.com/eviltester/eviltester-talks/tree/main/lewt/2006)
+- [LEWT 5, 2007: diagnosis and E-Prime](https://github.com/eviltester/eviltester-talks/tree/main/lewt/2007)
+- [LEWT 10: Eeevil preparation, March 2012](https://github.com/eviltester/eviltester-talks/tree/main/lewt/2012)
+- [Undated XML-editor report](https://github.com/eviltester/eviltester-talks/tree/main/lewt/undated)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/lewt_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
