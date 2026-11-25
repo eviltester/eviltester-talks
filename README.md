@@ -202,6 +202,14 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/nstc2016_conference/)
 
 
+## 2015 Tabara de Testare - An Introduction to Technical Testing
+
+- [Webinar slides and PDF on Github](https://github.com/eviltester/eviltester-talks/tree/main/tabara-de-testare/2015/webinar)
+- [Illustrated resources deck on Github](https://github.com/eviltester/eviltester-talks/tree/main/tabara-de-testare/2015/resources)
+- [Published preparation notes on Github](https://github.com/eviltester/eviltester-talks/tree/main/tabara-de-testare/2015/supporting)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/tabaradetestare2015_conference/)
+
+
 ## 2015 Agile and Automation Days - Technical Test Ability and Technical Testing in Agile
 
 - [Keynote slides, transcript, and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/agile-and-automation-days/2015/keynote)
