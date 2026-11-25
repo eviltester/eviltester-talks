@@ -37,6 +37,13 @@ The content in this repo will expand as I sort out my hard-drive and make the ma
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/openquality2020_conference/)
 
 
+## 2020 Virtuoso Webinar - The Future of Testing
+
+- [Webinar slides, full bonus deck and speaker notes on Github](https://github.com/eviltester/eviltester-talks/tree/main/virtuoso/2020/talk)
+- [Preparation notes and mind-map outline on Github](https://github.com/eviltester/eviltester-talks/tree/main/virtuoso/2020/supporting)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/virtuoso_webinar_future_testing_conference/)
+
+
 ## 2020 EuroSTAR - Technical Web Testing Tutorial
 
 - [Tutorial slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/eurostar/2020/tutorial)
