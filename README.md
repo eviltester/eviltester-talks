@@ -319,6 +319,13 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/testmanagementsummit2014_conference/)
 
 
+## 2013 SIGIST Winter Panel - Should Testers Code?
+
+- [Published panel preparation notes on Github](https://github.com/eviltester/eviltester-talks/blob/main/sigist/2013/panel/preparation-notes.md)
+- [Panel reflections and closing thoughts on Github](https://github.com/eviltester/eviltester-talks/blob/main/sigist/2013/panel/panel-reflections.md)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/sigist2013_conference/)
+
+
 ## 2013 Test Management Summit - BDD Tutorial and Managing Technical Testers
 
 - [Lessons Learned with BDD - tutorial slides and materials](https://github.com/eviltester/eviltester-talks/tree/main/test-management-summit/2013/tutorial)
