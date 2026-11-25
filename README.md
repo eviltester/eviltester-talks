@@ -2,6 +2,8 @@
 
 Slides and content for various conference talks. Retired short links have been removed from the Markdown and PDF copies in this repository.
 
+Copyright © Alan Richardson. Free to use for personal study.
+
 I have a list of talks on my website, these contain links to slides and any publicly viewable recordings:
 
 https://www.eviltester.com/conference/
