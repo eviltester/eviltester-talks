@@ -419,6 +419,14 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/lewt_conference/)
 
 
+## 2006 SQS UK - How Testers Can Benefit from Using NLP
+
+- [Presentation slides and embedded notes on Github](https://github.com/eviltester/eviltester-talks/tree/main/sqs/2006/talk)
+- [Informal preparation paper](https://github.com/eviltester/eviltester-talks/tree/main/sqs/2006/paper)
+- [Public abstract and preparation mind map](https://github.com/eviltester/eviltester-talks/tree/main/sqs/2006/supporting)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/sqs2006_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
