@@ -427,6 +427,14 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/sqs2006_conference/)
 
 
+## 2005 UKTest - Testing with Neuro-Linguistic Programming
+
+- [Keynote slides on Github](https://github.com/eviltester/eviltester-talks/tree/main/uktest/2005/keynote)
+- [Prepared keynote script](https://github.com/eviltester/eviltester-talks/tree/main/uktest/2005/prepared-script)
+- [Abstract and unused preparation drafts](https://github.com/eviltester/eviltester-talks/tree/main/uktest/2005/supporting)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/uktest2005_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
