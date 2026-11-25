@@ -403,6 +403,12 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/testIstanbulMay2013_conference/)
 
 
+## 2011 London Selenium Meetup - Web Scraping as a Test Design Approach
+
+- [Slides and recording links on Github](https://github.com/eviltester/eviltester-talks/tree/main/london-selenium-meetup/2011/talk)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/seleniumMeetup2011_conference/)
+
+
 ## 2017 FiSTB - Tutorial and Keynote
 
 - [Keynote slides and materials on Github](https://github.com/eviltester/eviltester-talks/tree/main/fistb/2017/keynote)
