@@ -181,6 +181,16 @@ The conference was cancelled because of COVID-19. These materials were prepared 
 - [Full Details on EvilTester.com](https://www.eviltester.com/conference/test_automation_guild_2017_conference/)
 
 
+## 2016 QASymphony - Risk Mitigation Using Exploratory and Technical Testing
+
+- [Released slides, PDF and speaker notes on Github](https://github.com/eviltester/eviltester-talks/tree/main/qasymphony/2016/webinar)
+- [Author's explanatory guide on Github](https://github.com/eviltester/eviltester-talks/tree/main/qasymphony/2016/notes)
+- [Office/practice-recording transcript on Github](https://github.com/eviltester/eviltester-talks/tree/main/qasymphony/2016/transcripts)
+- [Exercises and resources on Github](https://github.com/eviltester/eviltester-talks/tree/main/qasymphony/2016/supporting)
+- [Unused draft slides and notes on Github](https://github.com/eviltester/eviltester-talks/tree/main/qasymphony/2016/unused)
+- [Full Details on EvilTester.com](https://www.eviltester.com/conference/qasymphony2016-risk-mitigation/)
+
+
 ## 2016 Tabara de Testare - Lessons Learned When Automating
 
 - [Webinar slides and PDF on Github](https://github.com/eviltester/eviltester-talks/tree/main/tabara-de-testare/2016/webinar)
