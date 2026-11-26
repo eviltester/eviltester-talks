@@ -1,4 +1,4 @@
-﻿## Some Notes and Thoughts on Risk
+# Some Notes and Thoughts on Risk
 
 I'm just finishing up at Eurostar. In fact, I've finished the Eurostar. I'm just waiting for the taxi to arrive, and then I'll head off.
 

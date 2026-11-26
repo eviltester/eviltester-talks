@@ -13,8 +13,10 @@ https://www.eviltester.com/conference/testautomationday2015_conference/
 - [keynote script](transcript/scriptTestAutomationDay2015Keynote.md)
 - [introduction video script](transcript/introScript.md)
 - [closing remarks](transcript/closingRemarksScript.md)
-- [exercise handout](export/exercises.pdf)
-- [references and further reading](export/references.pdf)
+- [exercise handout — Markdown](exercises.md)
+- [exercise handout — PDF](export/exercises.pdf)
+- [references and further reading — Markdown](references.md)
+- [references and further reading — PDF](export/references.pdf)
 
 ## Bonus: Unused Slides
 

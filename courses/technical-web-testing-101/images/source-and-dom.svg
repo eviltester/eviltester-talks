@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-labelledby="title desc">
+<title id="title">Delivered source and live DOM</title><desc id="desc">A browser parses an HTML response into a DOM. JavaScript can modify that DOM after delivery.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ffdf00"/></marker></defs>
+<rect width="1000" height="350" rx="12" fill="#080808"/>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<line x1="285" y1="125" x2="385" y2="125" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="615" y1="125" x2="715" y2="125" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="830" y1="245" x2="830" y2="180" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="55" y="75" width="230" height="105" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="170.0" y="109" fill="#ffdf00" font-size="24">HTML response</text>
+<text x="170.0" y="139" fill="#fff" font-size="20">Delivered source</text>
+<rect x="385" y="75" width="230" height="105" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="500.0" y="109" fill="#ffdf00" font-size="24">Browser parser</text>
+<text x="500.0" y="139" fill="#fff" font-size="20">Builds the document</text>
+<rect x="715" y="75" width="230" height="105" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="830.0" y="109" fill="#ffdf00" font-size="24">Live DOM</text>
+<text x="830.0" y="139" fill="#fff" font-size="20">Inspected elements</text>
+<rect x="715" y="245" width="230" height="85" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="830.0" y="279" fill="#ffdf00" font-size="24">JavaScript</text>
+<text x="830.0" y="309" fill="#fff" font-size="20">Changes the document</text>
+<text x="300" y="280" fill="#fff" font-size="22">View Source and Inspect Element answer different questions.</text>
+</g></svg>

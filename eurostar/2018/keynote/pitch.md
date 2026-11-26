@@ -1,3 +1,5 @@
+# Exploring Testing from First Principles — Keynote Pitch
+
 What if we knew nothing about testing, how would we start? Does our every day life provides the tools we need to help us investigate a domain and develop the necessary skills we need to survive? This talk will start by assuming that about Software Testing and Technical software testing we know nothing. And then, using a process of questioning and exploration we will see how far we get in terms of building a model of Software Testing and Testing an application from a Technical perspective.
 
 Over the course of the presentation, we will see a repeatable process of working from first principles to improve our knowledge, experience and skills. We will see that we can learn to perform complicated and technical software testing activities without having to adopt a complex understanding of software testing. 

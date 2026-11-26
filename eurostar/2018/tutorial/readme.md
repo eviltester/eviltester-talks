@@ -15,7 +15,7 @@ https://www.eviltester.com/conference/eurostar2018_conference/
 - [instructor notes as pdf](exports/instructor-notes.pdf)
 - [FreeMind tutorial mind map](testability-audit-tutorial.mm)
 - [FreeMind instructor notes](Instructor-Notes.mm)
-- [tutorial notes](notes.txt)
+- [tutorial notes](notes.md)
 - [opening slide image](EuroSTAR_2018_Tutorial-slide.png)
 
 ## Overview

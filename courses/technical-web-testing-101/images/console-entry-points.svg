@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+<title id="title">Console and GUI entry points</title><desc id="desc">GUI events and console function calls can reach application logic. Logic changes model state, which can affect the DOM and persisted data.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ffdf00"/></marker></defs>
+<rect width="1000" height="360" rx="12" fill="#080808"/>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<line x1="260" y1="92" x2="380" y2="165" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="260" y1="265" x2="380" y2="195" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="650" y1="185" x2="765" y2="185" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="25" y="35" width="235" height="115" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="142.5" y="69" fill="#ffdf00" font-size="24">GUI interaction</text>
+<text x="142.5" y="99" fill="#fff" font-size="20">Event handlers</text>
+<text x="142.5" y="126" fill="#fff" font-size="20">Visible behaviour</text>
+<rect x="25" y="210" width="235" height="115" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="142.5" y="244" fill="#ffdf00" font-size="24">Console code</text>
+<text x="142.5" y="274" fill="#fff" font-size="20">Direct function calls</text>
+<text x="142.5" y="301" fill="#fff" font-size="20">Inspect and manipulate</text>
+<rect x="380" y="125" width="270" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="515.0" y="159" fill="#ffdf00" font-size="24">Application logic</text>
+<text x="515.0" y="189" fill="#fff" font-size="20">Functions and models</text>
+<text x="515.0" y="216" fill="#fff" font-size="20">State changes</text>
+<rect x="765" y="125" width="210" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="870.0" y="159" fill="#ffdf00" font-size="24">Observable effects</text>
+<text x="870.0" y="189" fill="#fff" font-size="20">DOM / interface</text>
+<text x="870.0" y="216" fill="#fff" font-size="20">Stored data</text>
+</g></svg>

@@ -9,9 +9,9 @@ https://www.eviltester.com/conference/eurostar2018_conference/
 ## Content
 
 - [lightning talk slide](lightning-alan-richardson-slide.png)
-- [live transcript](../transcripts/lightning-talk/live/eurostar2018-live-alan-richardson-lightning-talk.mp4-compressed.txt)
+- [live transcript](../transcripts/lightning-talk/live/eurostar2018-live-alan-richardson-lightning-talk.mp4-compressed.md)
 - [live subtitles](../transcripts/lightning-talk/live/eurostar2018-live-alan-richardson-lightning-talk.mp4-compressed.srt)
-- [practice transcript](../transcripts/lightning-talk/practice/lightningtalk-agile-screwed.mp4-compressed.txt)
+- [practice transcript](../transcripts/lightning-talk/practice/lightningtalk-agile-screwed.mp4-compressed.md)
 - [practice subtitles](../transcripts/lightning-talk/practice/lightningtalk-agile-screwed.mp4-compressed.srt)
 
 ## Overview

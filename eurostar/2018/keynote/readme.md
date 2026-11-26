@@ -11,8 +11,8 @@ https://www.eviltester.com/conference/eurostar2018_conference/
 - [slides in markdown format](slides.md)
 - [slides as pdf](exports/eurostar-slides-alan-richardson-template-next.pdf)
 - [FreeMind keynote mind map](exploring-testing-from-first-principles.mm)
-- [keynote pitch](pitch.txt)
-- [practice transcript](../transcripts/keynote/eurostar2018KeynotePractice.mp4-compressed.txt)
+- [keynote pitch](pitch.md)
+- [practice transcript](../transcripts/keynote/eurostar2018KeynotePractice.mp4-compressed.md)
 - [practice subtitles](../transcripts/keynote/eurostar2018KeynotePractice.mp4-compressed.srt)
 
 ## Overview

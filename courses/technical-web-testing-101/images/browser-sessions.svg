@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-labelledby="title desc">
+<title id="title">Browser profiles and sessions</title><desc id="desc">The recorded Chrome exercise uses two profiles, each with a normal and private session. Private windows within the same profile share a session.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ffdf00"/></marker></defs>
+<rect width="1000" height="350" rx="12" fill="#080808"/>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<rect x="25" y="22" width="460" height="275" rx="10" fill="#080808" stroke="#666" stroke-width="2"/>
+<text x="255" y="60" fill="#ff4b4b" font-size="26">Profile A</text>
+<rect x="45" y="90" width="420" height="80" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="255.0" y="124" fill="#ffdf00" font-size="24">Normal session</text>
+<text x="255.0" y="154" fill="#fff" font-size="20">Normal tabs share its state</text>
+<rect x="45" y="190" width="420" height="80" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="255.0" y="224" fill="#ffdf00" font-size="24">Private session</text>
+<text x="255.0" y="254" fill="#fff" font-size="20">Private tabs share within this profile</text>
+<rect x="515" y="22" width="460" height="275" rx="10" fill="#080808" stroke="#666" stroke-width="2"/>
+<text x="745" y="60" fill="#ff4b4b" font-size="26">Profile B</text>
+<rect x="535" y="90" width="420" height="80" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="745.0" y="124" fill="#ffdf00" font-size="24">Normal session</text>
+<text x="745.0" y="154" fill="#fff" font-size="20">Normal tabs share its state</text>
+<rect x="535" y="190" width="420" height="80" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="745.0" y="224" fill="#ffdf00" font-size="24">Private session</text>
+<text x="745.0" y="254" fill="#fff" font-size="20">Private tabs share within this profile</text>
+<text x="500" y="330" fill="#fff" font-size="21">Four session contexts in the recorded Chrome setup; verify other versions.</text>
+</g></svg>

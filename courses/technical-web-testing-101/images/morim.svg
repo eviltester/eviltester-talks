@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
+<title id="title">MORIM: no fixed sequence</title><desc id="desc">Model, Observe, Reflect, Interrogate and Manipulate support a testing question. Choose and repeat any action.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ffdf00"/></marker></defs>
+<rect width="1000" height="390" rx="12" fill="#080808"/>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<line x1="500" y1="97" x2="500" y2="145" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<line x1="295" y1="177" x2="360" y2="190" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<line x1="705" y1="177" x2="640" y2="190" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<line x1="370" y1="285" x2="425" y2="240" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<line x1="630" y1="285" x2="575" y2="240" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<rect x="365" y="12" width="270" height="85" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="500.0" y="46" fill="#ffdf00" font-size="24">Model</text>
+<text x="500.0" y="76" fill="#fff" font-size="20">Architecture and unknowns</text>
+<rect x="20" y="132" width="275" height="85" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="157.5" y="166" fill="#ffdf00" font-size="24">Observe</text>
+<text x="157.5" y="196" fill="#fff" font-size="20">Notice behaviour and data</text>
+<rect x="705" y="132" width="275" height="85" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="842.5" y="166" fill="#ffdf00" font-size="24">Reflect</text>
+<text x="842.5" y="196" fill="#fff" font-size="20">Review evidence and ideas</text>
+<rect x="175" y="285" width="275" height="85" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="312.5" y="319" fill="#ffdf00" font-size="24">Interrogate</text>
+<text x="312.5" y="349" fill="#fff" font-size="20">Inspect a particular instance</text>
+<rect x="550" y="285" width="275" height="85" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="687.5" y="319" fill="#ffdf00" font-size="24">Manipulate</text>
+<text x="687.5" y="349" fill="#fff" font-size="20">Change input or conditions</text>
+<rect x="360" y="145" width="280" height="95" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="500.0" y="179" fill="#ffdf00" font-size="24">Testing question</text>
+<text x="500.0" y="209" fill="#fff" font-size="20">Choose the next action</text>
+</g></svg>

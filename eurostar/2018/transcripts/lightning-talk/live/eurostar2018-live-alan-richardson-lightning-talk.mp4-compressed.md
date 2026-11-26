@@ -1,4 +1,4 @@
-﻿## Lightning Talk - Our Agile Process is Screwed Up
+# Lightning Talk - Our Agile Process is Screwed Up
 
 So now I don't have to get struck by lightning, Fran's shown you what happens.
 

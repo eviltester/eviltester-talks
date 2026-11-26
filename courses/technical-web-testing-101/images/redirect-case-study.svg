@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="320" viewBox="0 0 1020 320" role="img" aria-labelledby="title desc">
+<title id="title">Data-driven mobile redirect check</title><desc id="desc">Collect candidate user-agent strings, filter them, send each to the target, inspect the resulting destination, then investigate exceptions.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ffdf00"/></marker></defs>
+<rect width="1020" height="320" rx="12" fill="#080808"/>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<line x1="180" y1="123" x2="215" y2="123" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="385" y1="123" x2="420" y2="123" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="590" y1="123" x2="625" y2="123" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="795" y1="123" x2="830" y2="123" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="10" y="65" width="170" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="95.0" y="99" fill="#ffdf00" font-size="24">Collect</text>
+<text x="95.0" y="129" fill="#fff" font-size="20">User agents</text>
+<rect x="215" y="65" width="170" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="300.0" y="99" fill="#ffdf00" font-size="24">Filter</text>
+<text x="300.0" y="129" fill="#fff" font-size="20">Mobile candidates</text>
+<rect x="420" y="65" width="170" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="505.0" y="99" fill="#ffdf00" font-size="24">Request</text>
+<text x="505.0" y="129" fill="#fff" font-size="20">Set User-Agent</text>
+<rect x="625" y="65" width="170" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="710.0" y="99" fill="#ffdf00" font-size="24">Check</text>
+<text x="710.0" y="129" fill="#fff" font-size="20">Final destination</text>
+<rect x="830" y="65" width="170" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="915.0" y="99" fill="#ffdf00" font-size="24">Investigate</text>
+<text x="915.0" y="129" fill="#fff" font-size="20">Unexpected results</text>
+<text x="500" y="240" fill="#fff" font-size="23">Input variation expands coverage of the routing rule.</text>
+<text x="500" y="280" fill="#ffdf00" font-size="23">The exceptions still need an oracle and a project decision.</text>
+</g></svg>

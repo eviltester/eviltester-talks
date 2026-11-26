@@ -1,4 +1,4 @@
-﻿## Practice Talk Transcript
+# Practice Talk Transcript
 
 This is the practise recording for my Eurostar keynote.
 

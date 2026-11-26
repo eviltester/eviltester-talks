@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-labelledby="title desc">
+<title id="title">Mobile traffic through a desktop proxy</title><desc id="desc">The device reaches a proxy listener at the desktop network address and port. The proxy forwards requests to the server. Screen viewing uses a separate connection.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ffdf00"/></marker></defs>
+<rect width="1000" height="350" rx="12" fill="#080808"/>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<line x1="270" y1="125" x2="410" y2="125" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="340.0" y="112.0" fill="#fff" font-size="18">network</text>
+<line x1="680" y1="125" x2="790" y2="125" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="735.0" y="112.0" fill="#fff" font-size="18">HTTP/S</text>
+<rect x="30" y="65" width="240" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="150.0" y="99" fill="#ffdf00" font-size="24">Mobile device</text>
+<text x="150.0" y="129" fill="#fff" font-size="20">Wi-Fi proxy setting</text>
+<text x="150.0" y="156" fill="#fff" font-size="20">Desktop IP + port</text>
+<rect x="410" y="65" width="270" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="545.0" y="99" fill="#ffdf00" font-size="24">Desktop proxy</text>
+<text x="545.0" y="129" fill="#fff" font-size="20">Reachable listener</text>
+<text x="545.0" y="156" fill="#fff" font-size="20">Traffic history</text>
+<rect x="790" y="65" width="180" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="880.0" y="99" fill="#ffdf00" font-size="24">Server</text>
+<text x="880.0" y="129" fill="#fff" font-size="20">Application</text>
+<text x="500" y="245" fill="#fff" font-size="21">Device and desktop need network reachability; listener and firewall settings matter.</text>
+<text x="500" y="285" fill="#ffdf00" font-size="21">VNC / AirPlay screen viewing provides a separate view of the same test.</text>
+</g></svg>

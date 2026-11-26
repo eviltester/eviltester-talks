@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-labelledby="title desc">
+<title id="title">Two guests on one host</title><desc id="desc">A browser virtual machine and application virtual machine run on a host. Their configured network allows the browser to reach the application guest address.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ffdf00"/></marker></defs>
+<rect width="1000" height="350" rx="12" fill="#080808"/>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<rect x="25" y="20" width="950" height="305" rx="12" fill="#080808" stroke="#777" stroke-width="2"/>
+<text x="500" y="60" fill="#ff4b4b" font-size="25">Host computer / virtual machine manager</text>
+<line x1="410" y1="185" x2="590" y2="185" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="500.0" y="172.0" fill="#fff" font-size="18">network</text>
+<rect x="70" y="110" width="340" height="145" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="240.0" y="144" fill="#ffdf00" font-size="24">Browser VM</text>
+<text x="240.0" y="174" fill="#fff" font-size="20">Windows guest in the demo</text>
+<text x="240.0" y="201" fill="#fff" font-size="20">Browser and testing tools</text>
+<rect x="590" y="110" width="340" height="145" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="760.0" y="144" fill="#ffdf00" font-size="24">Application VM</text>
+<text x="760.0" y="174" fill="#fff" font-size="20">Linux guest in the demo</text>
+<text x="760.0" y="201" fill="#fff" font-size="20">Redmine and its API</text>
+<text x="500" y="298" fill="#fff" font-size="21">Connect to the application guest address reported by its network configuration.</text>
+</g></svg>

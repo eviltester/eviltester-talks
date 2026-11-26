@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+<title id="title">RestMud GUI and API entry points</title><desc id="desc">The GUI route and API route use shared command processing and game state, with different interface parsing and representations.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ffdf00"/></marker></defs>
+<rect width="1000" height="360" rx="12" fill="#080808"/>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<line x1="300" y1="105" x2="435" y2="175" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="300" y1="265" x2="435" y2="195" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<line x1="695" y1="185" x2="785" y2="185" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="30" y="45" width="270" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="165.0" y="79" fill="#ffdf00" font-size="24">GUI route</text>
+<text x="165.0" y="109" fill="#fff" font-size="20">Browser / HTML</text>
+<text x="165.0" y="136" fill="#fff" font-size="20">GUI parsing and rendering</text>
+<rect x="30" y="205" width="270" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="165.0" y="239" fill="#ffdf00" font-size="24">API route</text>
+<text x="165.0" y="269" fill="#fff" font-size="20">HTTP client / JSON</text>
+<text x="165.0" y="296" fill="#fff" font-size="20">API parsing and response</text>
+<rect x="435" y="125" width="260" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="565.0" y="159" fill="#ffdf00" font-size="24">Command processing</text>
+<text x="565.0" y="189" fill="#fff" font-size="20">Shared application logic</text>
+<text x="565.0" y="216" fill="#fff" font-size="20">Verb and noun processing</text>
+<rect x="785" y="125" width="190" height="120" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="880.0" y="159" fill="#ffdf00" font-size="24">Game state</text>
+<text x="880.0" y="189" fill="#fff" font-size="20">Rooms and objects</text>
+<text x="880.0" y="216" fill="#fff" font-size="20">Players and inventory</text>
+</g></svg>

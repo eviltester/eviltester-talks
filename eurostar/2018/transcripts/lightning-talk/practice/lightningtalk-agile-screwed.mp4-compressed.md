@@ -1,4 +1,4 @@
-﻿## Lightning Talk Practice with Additional Information about Cybernetics and feedback
+# Lightning Talk Practice with Additional Information about Cybernetics and feedback
 
 So I'm at Eurostar, I was thinking about what lightning talk I'm going to do this morning.
 

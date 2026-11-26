@@ -1,0 +1,637 @@
+{
+  "video_id": "jWwfMo5Ziz0",
+  "title": "Technical Web Testing 101 - Full Software Testing Course",
+  "url": "https://www.youtube.com/watch?v=jWwfMo5Ziz0",
+  "duration_seconds": 21906,
+  "youtube_published": "2025-12-18",
+  "transcript_source": "YouTube automatic English captions (en-orig)",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Introduction",
+      "directory": "sections/01-introduction",
+      "start": 0,
+      "end": 195,
+      "chapters": [
+        {
+          "title": "Introduction",
+          "start": 0,
+          "end": 195,
+          "transcript_anchor": "chapter-01"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Absolute Basics",
+      "directory": "sections/02-absolute-basics",
+      "start": 195,
+      "end": 945,
+      "chapters": [
+        {
+          "title": "Absolute Basics",
+          "start": 195,
+          "end": 385,
+          "transcript_anchor": "chapter-01"
+        },
+        {
+          "title": "Should you maintain a Tool List?",
+          "start": 385,
+          "end": 560,
+          "transcript_anchor": "chapter-02"
+        },
+        {
+          "title": "The MORIM model",
+          "start": 560,
+          "end": 945,
+          "transcript_anchor": "chapter-03"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Applications to Use for Testing",
+      "directory": "sections/03-applications-to-use-for-testing",
+      "start": 945,
+      "end": 1138,
+      "chapters": [
+        {
+          "title": "Some free online applications to test against",
+          "start": 945,
+          "end": 1038,
+          "transcript_anchor": "chapter-01"
+        },
+        {
+          "title": "Self Study Applications to test against",
+          "start": 1038,
+          "end": 1138,
+          "transcript_anchor": "chapter-02"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Modern Browsers",
+      "directory": "sections/04-modern-browsers",
+      "start": 1138,
+      "end": 3358,
+      "chapters": [
+        {
+          "title": "Intro to modern browsers",
+          "start": 1138,
+          "end": 1191,
+          "transcript_anchor": "chapter-01"
+        },
+        {
+          "title": "Overview of Firebug in Firefox",
+          "start": 1191,
+          "end": 1327,
+          "transcript_anchor": "chapter-02"
+        },
+        {
+          "title": "Firefox WebConsole",
+          "start": 1327,
+          "end": 1494,
+          "transcript_anchor": "chapter-03"
+        },
+        {
+          "title": "Google Chrome Incognito Mode",
+          "start": 1494,
+          "end": 1700,
+          "transcript_anchor": "chapter-04"
+        },
+        {
+          "title": "Chrome Editing Cookies",
+          "start": 1700,
+          "end": 2106,
+          "transcript_anchor": "chapter-05"
+        },
+        {
+          "title": "An exploratory technical web testing session using chrome",
+          "start": 2106,
+          "end": 3358,
+          "transcript_anchor": "chapter-06"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "View Page Source",
+      "directory": "sections/05-view-page-source",
+      "start": 3358,
+      "end": 5206,
+      "chapters": [
+        {
+          "title": "View Page Source Introduction",
+          "start": 3358,
+          "end": 3826,
+          "transcript_anchor": "chapter-01"
+        },
+        {
+          "title": "Exercise- View Page Source Challenges",
+          "start": 3826,
+          "end": 4142,
+          "transcript_anchor": "chapter-02"
+        },
+        {
+          "title": "View Page Source Challenge Slide Retrospective",
+          "start": 4142,
+          "end": 4659,
+          "transcript_anchor": "chapter-03"
+        },
+        {
+          "title": "View Page Source Challenge Live Retrospective",
+          "start": 4659,
+          "end": 5206,
+          "transcript_anchor": "chapter-04"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Incognito Mode",
+      "directory": "sections/06-incognito-mode",
+      "start": 5206,
+      "end": 6649,
+      "chapters": [
+        {
+          "title": "Section - 6 - Incognito Mode - A Technical Web Testing Browser Challenge",
+          "start": 5206,
+          "end": 5547,
+          "transcript_anchor": "chapter-01"
+        },
+        {
+          "title": "Exercise- Incognito Mode Challenges",
+          "start": 5547,
+          "end": 5732,
+          "transcript_anchor": "chapter-02"
+        },
+        {
+          "title": "Incognito Mode Challenges Slide Retrospective",
+          "start": 5732,
+          "end": 6331,
+          "transcript_anchor": "chapter-03"
+        },
+        {
+          "title": "Incognito Mode Challenges Live Example",
+          "start": 6331,
+          "end": 6649,
+          "transcript_anchor": "chapter-04"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "RestMud Text Adventure Game",
+      "directory": "sections/07-restmud-text-adventure-game",
+      "start": 6649,
+      "end": 7775,
+      "chapters": [
+        {
+          "title": "Section - 7 - RestMud Text Adventure Game for Technical Testing",
+          "start": 6649,
+          "end": 7090,
+          "transcript_anchor": "chapter-01"
+        },
+        {
+          "title": "Install and Start Playing RestMud",
+          "start": 7090,
+          "end": 7208,
+          "transcript_anchor": "chapter-02"
+        },
+        {
+          "title": "How to Play RestMud",
+          "start": 7208,
+          "end": 7560,
+          "transcript_anchor": "chapter-03"
+        },
+        {
+          "title": "Exercise- RestMud Single Player Game- Basic Adventure",
+          "start": 7560,
+          "end": 7775,
+          "transcript_anchor": "chapter-04"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "HTTP Proxies",
+      "directory": "sections/08-http-proxies",
+      "start": 7775,
+      "end": 9618,
+      "chapters": [
+        {
+          "title": "Section - 8 - HTTP Proxies",
+          "start": 7775,
+          "end": 7836,
+          "transcript_anchor": "chapter-01"
+        },
+        {
+          "title": "What is an HTTP Proxy?",
+          "start": 7836,
+          "end": 8133,
+          "transcript_anchor": "chapter-02"
+        },
+        {
+          "title": "Configure Firefox to Use BurpSuite Proxy",
+          "start": 8133,
+          "end": 8250,
+          "transcript_anchor": "chapter-03"
+        },
+        {
+          "title": "Basics of BurpSuite",
+          "start": 8250,
+          "end": 8453,
+          "transcript_anchor": "chapter-04"
+        },
+        {
+          "title": "Repeating a Request in BurpSuite",
+          "start": 8453,
+          "end": 8536,
+          "transcript_anchor": "chapter-05"
+        },
+        {
+          "title": "Intercepting and manipulating requests",
+          "start": 8536,
+          "end": 8727,
+          "transcript_anchor": "chapter-06"
+        },
+        {
+          "title": "Generic Configure Browser to use a proxy",
+          "start": 8727,
+          "end": 8889,
+          "transcript_anchor": "chapter-07"
+        },
+        {
+          "title": "Self Study Recommended Books",
+          "start": 8889,
+          "end": 8961,
+          "transcript_anchor": "chapter-08"
+        },
+        {
+          "title": "Self Study Recommended Proxies to Try",
+          "start": 8961,
+          "end": 9103,
+          "transcript_anchor": "chapter-09"
+        },
+        {
+          "title": "Next actions",
+          "start": 9103,
+          "end": 9179,
+          "transcript_anchor": "chapter-10"
+        },
+        {
+          "title": "How To Chain HTTP Debug Proxies",
+          "start": 9179,
+          "end": 9618,
+          "transcript_anchor": "chapter-11"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Interactive REST API Testing",
+      "directory": "sections/09-interactive-rest-api-testing",
+      "start": 9618,
+      "end": 12218,
+      "chapters": [
+        {
+          "title": "Section - 9 - An Introduction to Interactive REST API Testing",
+          "start": 9618,
+          "end": 9667,
+          "transcript_anchor": "chapter-01"
+        },
+        {
+          "title": "What is REST?",
+          "start": 9667,
+          "end": 10019,
+          "transcript_anchor": "chapter-02"
+        },
+        {
+          "title": "Exercise + answer- Explore a REST API using a Browser",
+          "start": 10019,
+          "end": 10290,
+          "transcript_anchor": "chapter-03"
+        },
+        {
+          "title": "REST Clients and Postman Client",
+          "start": 10290,
+          "end": 10538,
+          "transcript_anchor": "chapter-04"
+        },
+        {
+          "title": "Exercise +- answers Postman Client",
+          "start": 10538,
+          "end": 10775,
+          "transcript_anchor": "chapter-05"
+        },
+        {
+          "title": "Postman Lessons Learned",
+          "start": 10775,
+          "end": 10926,
+          "transcript_anchor": "chapter-06"
+        },
+        {
+          "title": "Example- Playing RestMud without a GUI",
+          "start": 10926,
+          "end": 11542,
+          "transcript_anchor": "chapter-07"
+        },
+        {
+          "title": "Exercise- Play RestMud without a GUI",
+          "start": 11542,
+          "end": 11605,
+          "transcript_anchor": "chapter-08"
+        },
+        {
+          "title": "PostMan through a proxy - example using RestMud",
+          "start": 11605,
+          "end": 11783,
+          "transcript_anchor": "chapter-09"
+        },
+        {
+          "title": "A Little More REST Theory",
+          "start": 11783,
+          "end": 12113,
+          "transcript_anchor": "chapter-10"
+        },
+        {
+          "title": "Sample REST APis to practice on",
+          "start": 12113,
+          "end": 12218,
+          "transcript_anchor": "chapter-11"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Testing JavaScript from the Browser Console",
+      "directory": "sections/10-testing-javascript-from-the-browser-console",
+      "start": 12218,
+      "end": 17899,
+      "chapters": [
+        {
+          "title": "Section - 10 - Testing JavaScript from the Browser Dev Tools Console",
+          "start": 12218,
+          "end": 12326,
+          "transcript_anchor": "chapter-01"
+        },
+        {
+          "title": "The Evil Tester Sloganizer Applicaton Overview",
+          "start": 12326,
+          "end": 12589,
+          "transcript_anchor": "chapter-02"
+        },
+        {
+          "title": "Exercise- The Evil Tester Sloganizer Applicaton Overview",
+          "start": 12589,
+          "end": 12665,
+          "transcript_anchor": "chapter-03"
+        },
+        {
+          "title": "JavaScript Functions and Objects",
+          "start": 12665,
+          "end": 12945,
+          "transcript_anchor": "chapter-04"
+        },
+        {
+          "title": "Exercise- JavaScript Functions and Objects",
+          "start": 12945,
+          "end": 13047,
+          "transcript_anchor": "chapter-05"
+        },
+        {
+          "title": "JavaScript Loops and Console Output",
+          "start": 13047,
+          "end": 13711,
+          "transcript_anchor": "chapter-06"
+        },
+        {
+          "title": "Example of Interacting with Evil Tester Sloganizer",
+          "start": 13711,
+          "end": 13883,
+          "transcript_anchor": "chapter-07"
+        },
+        {
+          "title": "Exercise- Interact with Evil Tester Sloganizer",
+          "start": 13883,
+          "end": 13986,
+          "transcript_anchor": "chapter-08"
+        },
+        {
+          "title": "Answers- Interact with Evil Tester Sloganizer",
+          "start": 13986,
+          "end": 14363,
+          "transcript_anchor": "chapter-09"
+        },
+        {
+          "title": "TodoMVC JavaScript Application Overview",
+          "start": 14363,
+          "end": 14792,
+          "transcript_anchor": "chapter-10"
+        },
+        {
+          "title": "TodoMVC Application CRUD",
+          "start": 14792,
+          "end": 15312,
+          "transcript_anchor": "chapter-11"
+        },
+        {
+          "title": "TodoMVC Application Exercises + answers",
+          "start": 15312,
+          "end": 16305,
+          "transcript_anchor": "chapter-12"
+        },
+        {
+          "title": "TodoMVC Application Summary",
+          "start": 16305,
+          "end": 16509,
+          "transcript_anchor": "chapter-13"
+        },
+        {
+          "title": "Advanced Technique - setInterval and clearInterval",
+          "start": 16509,
+          "end": 16827,
+          "transcript_anchor": "chapter-14"
+        },
+        {
+          "title": "Overview of Chrome Source Snippets",
+          "start": 16827,
+          "end": 16965,
+          "transcript_anchor": "chapter-15"
+        },
+        {
+          "title": "Source of Other People-s Snippets",
+          "start": 16965,
+          "end": 17132,
+          "transcript_anchor": "chapter-16"
+        },
+        {
+          "title": "How to import and export Chrome Snippets",
+          "start": 17132,
+          "end": 17532,
+          "transcript_anchor": "chapter-17"
+        },
+        {
+          "title": "Essential JavaScript References",
+          "start": 17532,
+          "end": 17669,
+          "transcript_anchor": "chapter-18"
+        },
+        {
+          "title": "Overview of blogs and Youtube video to watch",
+          "start": 17669,
+          "end": 17759,
+          "transcript_anchor": "chapter-19"
+        },
+        {
+          "title": "Fun Free Coding Game to Practice JavaScript on",
+          "start": 17759,
+          "end": 17899,
+          "transcript_anchor": "chapter-20"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Mobile Web Testing",
+      "directory": "sections/11-mobile-web-testing",
+      "start": 17899,
+      "end": 19404,
+      "chapters": [
+        {
+          "title": "Viewing mobile phone device traffic using a computer proxy - fiddler",
+          "start": 17899,
+          "end": 18222,
+          "transcript_anchor": "chapter-01"
+        },
+        {
+          "title": "Viewing mobile phone traffic using a computer proxy - burpsuite",
+          "start": 18222,
+          "end": 18390,
+          "transcript_anchor": "chapter-02"
+        },
+        {
+          "title": "Viewing iOS traffic using a computer proxy",
+          "start": 18390,
+          "end": 18546,
+          "transcript_anchor": "chapter-03"
+        },
+        {
+          "title": "Android Mobile VMLite VNC Server Demo",
+          "start": 18546,
+          "end": 18649,
+          "transcript_anchor": "chapter-04"
+        },
+        {
+          "title": "Android Mobile VMLite VNC Server Overview",
+          "start": 18649,
+          "end": 18938,
+          "transcript_anchor": "chapter-05"
+        },
+        {
+          "title": "How to emulate mobile devices using Chrome browser",
+          "start": 18938,
+          "end": 19202,
+          "transcript_anchor": "chapter-06"
+        },
+        {
+          "title": "How to view iOS Device Screens on a Windows PC",
+          "start": 19202,
+          "end": 19404,
+          "transcript_anchor": "chapter-07"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Mobile Testing with Wireshark on Mac",
+      "directory": "sections/12-mobile-testing-with-wireshark-on-mac",
+      "start": 19404,
+      "end": 20445,
+      "chapters": [
+        {
+          "title": "An introduction to Wireshark",
+          "start": 19404,
+          "end": 19526,
+          "transcript_anchor": "chapter-01"
+        },
+        {
+          "title": "Installing Wireshark",
+          "start": 19526,
+          "end": 19592,
+          "transcript_anchor": "chapter-02"
+        },
+        {
+          "title": "Decrypting 802.11 Traffic",
+          "start": 19592,
+          "end": 19813,
+          "transcript_anchor": "chapter-03"
+        },
+        {
+          "title": "An Android Wireshark Testing Session",
+          "start": 19813,
+          "end": 20330,
+          "transcript_anchor": "chapter-04"
+        },
+        {
+          "title": "The philosphy of Wireshark",
+          "start": 20330,
+          "end": 20445,
+          "transcript_anchor": "chapter-05"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Virtual Machines",
+      "directory": "sections/13-virtual-machines",
+      "start": 20445,
+      "end": 20874,
+      "chapters": [
+        {
+          "title": "Introducing Virtualbox modern.ie Turnkey Virtual Machines for Web Testing",
+          "start": 20445,
+          "end": 20874,
+          "transcript_anchor": "chapter-01"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Case Studies",
+      "directory": "sections/14-case-studies",
+      "start": 20874,
+      "end": 21597,
+      "chapters": [
+        {
+          "title": "Testing redirection from www to mobile site",
+          "start": 20874,
+          "end": 21597,
+          "transcript_anchor": "chapter-01"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Final Section",
+      "directory": "sections/15-final-section",
+      "start": 21597,
+      "end": 21906,
+      "chapters": [
+        {
+          "title": "End Notes",
+          "start": 21597,
+          "end": 21730,
+          "transcript_anchor": "chapter-01"
+        },
+        {
+          "title": "Where Next?",
+          "start": 21730,
+          "end": 21906,
+          "transcript_anchor": "chapter-02"
+        }
+      ]
+    }
+  ]
+}

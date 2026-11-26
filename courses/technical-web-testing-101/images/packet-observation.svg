@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-labelledby="title desc">
+<title id="title">Packet observation</title><desc id="desc">Wireshark observes captured packets from a network interface rather than serving as the application HTTP proxy. Protocol and encryption affect readability.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ffdf00"/></marker></defs>
+<rect width="1000" height="350" rx="12" fill="#080808"/>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<line x1="260" y1="90" x2="750" y2="90" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="505.0" y="77.0" fill="#fff" font-size="18">Application traffic on the network</text>
+<rect x="25" y="35" width="235" height="110" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="142.5" y="69" fill="#ffdf00" font-size="24">Mobile device</text>
+<text x="142.5" y="99" fill="#fff" font-size="20">App may bypass proxy</text>
+<rect x="750" y="35" width="225" height="110" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="862.5" y="69" fill="#ffdf00" font-size="24">Network / server</text>
+<text x="862.5" y="99" fill="#fff" font-size="20">Traffic continues</text>
+<line x1="500" y1="90" x2="500" y2="215" stroke="#ffdf00" stroke-width="2.5" marker-end="url(#arrow)" stroke-dasharray="7 5"/>
+<rect x="280" y="215" width="440" height="100" rx="9" fill="#151515" stroke="#ff4b4b" stroke-width="2"/>
+<text x="500.0" y="249" fill="#ffdf00" font-size="24">Wireshark capture and analysis</text>
+<text x="500.0" y="279" fill="#fff" font-size="20">Interface capture → protocol decoding → filters</text>
+<text x="500" y="188" fill="#fff" font-size="18">Observation point</text>
+</g></svg>
