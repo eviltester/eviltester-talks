@@ -19,6 +19,7 @@ Open <http://127.0.0.1:4173/>. Rebuild after editing archive content or the cata
 
 - Pagefind indexes substantive Markdown directly using its custom-record API. README indexes, images and PDF copies are excluded to avoid indexing the same navigation and material repeatedly. Documents available only as PDFs are not searched.
 - Conference/collection and year come from folder paths. Material type comes from filenames and folders. Titles come from Markdown headings, with optional event labels from `eventTitles` in the catalogue. The main repository README does not control which documents are indexed.
+- Material under `courses/` appears in the **Courses** collection. Course and section names remain visible in each result's event label.
 - Topic labels are keyword-based suggestions: a matching title or at least three occurrences of a topic rule in the body. They are not manually reviewed classifications.
 - The document, session and collection totals open their respective browse lists. Sessions and collections link to their matching documents. The totals always browse the complete archive; filters can then narrow a browse list.
 - Search and filters combine. Words match their indexed word forms; wrap a phrase in double quotes to search it together. Terms are quoted internally to prevent Pagefind's automatic shortening of unknown words into unrelated prefix matches. Results have excerpts, and all GitHub links open in a new tab. Search, browse view and filter choices are stored in the URL and support browser back/forward navigation.

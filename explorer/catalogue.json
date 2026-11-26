@@ -4,7 +4,7 @@
   "conferences": {
     "abn-amro": "ABN AMRO", "agile-and-automation-days": "Agile & Automation Days",
     "agile-testing-days": "Agile Testing Days", "bcs-north-london": "BCS North London",
-    "black-ops-testing": "Black Ops Testing", "browserstack": "BrowserStack",
+    "black-ops-testing": "Black Ops Testing", "browserstack": "BrowserStack", "courses": "Courses",
     "devfest-bishkek": "DevFest Bishkek", "eurostar": "EuroSTAR", "fistb": "FiSTB",
     "fusionBirmingham": "Fusion Birmingham", "ics-test": "ICS Test", "letstest": "Let's Test",
     "lewt": "LEWT", "nlp": "NLP", "nstc": "NSTC", "odinstar": "OdinSTAR",
@@ -239,7 +239,6 @@
     "test": { "exclude": true },
     "ics-test/2006": { "talk": "ics-test/2006/tutorial" },
     "courses/technical-web-testing-101": {
-      "conference": "Technical Web Testing 101",
       "talk": "courses/technical-web-testing-101",
       "type": "Course notes"
     },
